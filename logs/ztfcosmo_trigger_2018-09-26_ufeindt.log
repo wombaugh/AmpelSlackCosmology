@@ -1,0 +1,697 @@
+2018-09-26 17:27:13,915 - ufeindt - INFO - SALT fit fails for SN ZTF18aakgsmi. Manual inspection prob needed.
+2018-09-26 17:27:13,916 - ufeindt - INFO - SN ZTF18aasdted classified with type SN Ia, skipping.
+2018-09-26 17:27:15,682 - ufeindt - INFO - SALT fit fails for SN ZTF18aaupjtd. Manual inspection prob needed.
+2018-09-26 17:27:15,686 - ufeindt - INFO - SN ZTF18aauvptt classified with type AGN, skipping.
+2018-09-26 17:27:17,444 - ufeindt - INFO - SALT fit fails for SN ZTF18abmwzws. Manual inspection prob needed.
+2018-09-26 17:27:19,005 - ufeindt - INFO - SALT fit fails for SN ZTF18abddhaa. Manual inspection prob needed.
+2018-09-26 17:27:20,758 - ufeindt - INFO - SALT fit fails for SN ZTF18abddgzz. Manual inspection prob needed.
+2018-09-26 17:27:25,884 - ufeindt - INFO - SALT fit fails for SN ZTF18abgucjb. Manual inspection prob needed.
+2018-09-26 17:27:32,566 - ufeindt - INFO - SALT fit fails for SN ZTF18ablvpuj. Manual inspection prob needed.
+2018-09-26 17:27:34,185 - ufeindt - INFO - SALT fit fails for SN ZTF18ablqqeb. Manual inspection prob needed.
+2018-09-26 17:27:35,877 - ufeindt - INFO - Not enugh good data for SN ZTF18ablviog. Manual inspection prob needed.
+2018-09-26 17:27:37,732 - ufeindt - INFO - SALT fit fails for SN ZTF18ablllyw. Manual inspection prob needed.
+2018-09-26 17:27:39,435 - ufeindt - INFO - SALT fit fails for SN ZTF18ablwwwb. Manual inspection prob needed.
+2018-09-26 17:27:43,889 - ufeindt - INFO - SALT fit fails for SN ZTF18ablowct. Manual inspection prob needed.
+2018-09-26 17:27:43,890 - ufeindt - INFO - SN ZTF18abmxfrc classified with type SN Ia, skipping.
+2018-09-26 17:27:45,803 - ufeindt - INFO - SALT fit fails for SN ZTF18abmjzjq. Manual inspection prob needed.
+2018-09-26 17:27:45,804 - ufeindt - INFO - SN ZTF18abnxhmc classified with type SN Ia, skipping.
+2018-09-26 17:27:45,805 - ufeindt - INFO - SN ZTF18abnvnqb classified with type SN Ia, skipping.
+2018-09-26 17:27:45,806 - ufeindt - INFO - SN ZTF18abkxlcz classified with type SN Ia, skipping.
+2018-09-26 17:27:47,537 - ufeindt - INFO - SALT fit fails for SN ZTF18abokvkt. Manual inspection prob needed.
+2018-09-26 17:27:47,538 - ufeindt - INFO - SN ZTF18abmnvkx classified with type AGN, skipping.
+2018-09-26 17:27:47,539 - ufeindt - INFO - SN ZTF18aboaeqy classified with type SN Ia, skipping.
+2018-09-26 17:27:49,384 - ufeindt - INFO - SALT fit fails for SN ZTF18aboivnq. Manual inspection prob needed.
+2018-09-26 17:27:51,262 - ufeindt - INFO - Not enugh good data for SN ZTF18abmjayl. Manual inspection prob needed.
+2018-09-26 17:27:52,902 - ufeindt - INFO - SALT fit fails for SN ZTF18abnblil. Manual inspection prob needed.
+2018-09-26 17:27:54,875 - ufeindt - INFO - Not enugh good data for SN ZTF18abmszpd. Manual inspection prob needed.
+2018-09-26 17:28:01,599 - ufeindt - INFO - SALT fit fails for SN ZTF18ablovvu. Manual inspection prob needed.
+2018-09-26 17:28:04,258 - ufeindt - INFO - SALT fit fails for SN ZTF18abmacke. Manual inspection prob needed.
+2018-09-26 17:28:22,475 - ufeindt - INFO - SN ZTF18abntwvr has too few filters for saltfit.
+2018-09-26 17:28:25,616 - ufeindt - INFO - SALT fit fails for SN ZTF18aayhpph. Manual inspection prob needed.
+2018-09-26 17:28:30,022 - ufeindt - INFO - SALT fit fails for SN ZTF18abmrqmv. Manual inspection prob needed.
+2018-09-26 17:29:01,756 - ufeindt - INFO - SALT fit fails for SN ZTF18abmdxst. Manual inspection prob needed.
+2018-09-26 17:29:10,436 - ufeindt - INFO - SALT fit fails for SN ZTF17aaaafcd. Manual inspection prob needed.
+2018-09-26 17:30:05,663 - ufeindt - INFO - SALT fit fails for SN ZTF18ablxhtc. Manual inspection prob needed.
+2018-09-26 17:30:14,453 - ufeindt - INFO - SALT fit fails for SN ZTF18abcqvhs. Manual inspection prob needed.
+2018-09-26 17:30:18,416 - ufeindt - INFO - SALT fit fails for SN ZTF18ablxjic. Manual inspection prob needed.
+2018-09-26 17:31:48,373 - ufeindt - INFO - SALT fit fails for SN ZTF18aakgsmi. Manual inspection prob needed.
+2018-09-26 17:31:48,413 - ufeindt - INFO - SN ZTF18aasdted classified with type SN Ia, skipping.
+2018-09-26 17:31:48,469 - ufeindt - INFO - SALT fit fails for SN ZTF18aaupjtd. Manual inspection prob needed.
+2018-09-26 17:31:48,470 - ufeindt - INFO - SN ZTF18aauvptt classified with type AGN, skipping.
+2018-09-26 17:31:48,483 - ufeindt - INFO - SALT fit fails for SN ZTF18abmwzws. Manual inspection prob needed.
+2018-09-26 17:31:48,495 - ufeindt - INFO - SALT fit fails for SN ZTF18abddhaa. Manual inspection prob needed.
+2018-09-26 17:31:48,507 - ufeindt - INFO - SALT fit fails for SN ZTF18abddgzz. Manual inspection prob needed.
+2018-09-26 17:31:48,518 - ufeindt - INFO - SALT fit fails for SN ZTF18abgucjb. Manual inspection prob needed.
+2018-09-26 17:31:48,534 - ufeindt - INFO - SALT fit fails for SN ZTF18ablvpuj. Manual inspection prob needed.
+2018-09-26 17:31:48,546 - ufeindt - INFO - SALT fit fails for SN ZTF18ablqqeb. Manual inspection prob needed.
+2018-09-26 17:31:48,553 - ufeindt - INFO - Not enugh good data for SN ZTF18ablviog. Manual inspection prob needed.
+2018-09-26 17:31:48,575 - ufeindt - INFO - SALT fit fails for SN ZTF18ablllyw. Manual inspection prob needed.
+2018-09-26 17:31:48,595 - ufeindt - INFO - SALT fit fails for SN ZTF18ablwwwb. Manual inspection prob needed.
+2018-09-26 17:31:48,608 - ufeindt - INFO - SALT fit fails for SN ZTF18ablowct. Manual inspection prob needed.
+2018-09-26 17:31:48,608 - ufeindt - INFO - SN ZTF18abmxfrc classified with type SN Ia, skipping.
+2018-09-26 17:31:48,622 - ufeindt - INFO - SALT fit fails for SN ZTF18abmjzjq. Manual inspection prob needed.
+2018-09-26 17:31:48,623 - ufeindt - INFO - SN ZTF18abnxhmc classified with type SN Ia, skipping.
+2018-09-26 17:31:48,623 - ufeindt - INFO - SN ZTF18abnvnqb classified with type SN Ia, skipping.
+2018-09-26 17:31:48,624 - ufeindt - INFO - SN ZTF18abkxlcz classified with type SN Ia, skipping.
+2018-09-26 17:31:48,637 - ufeindt - INFO - SALT fit fails for SN ZTF18abokvkt. Manual inspection prob needed.
+2018-09-26 17:31:48,637 - ufeindt - INFO - SN ZTF18abmnvkx classified with type AGN, skipping.
+2018-09-26 17:31:48,638 - ufeindt - INFO - SN ZTF18aboaeqy classified with type SN Ia, skipping.
+2018-09-26 17:31:48,654 - ufeindt - INFO - SALT fit fails for SN ZTF18aboivnq. Manual inspection prob needed.
+2018-09-26 17:31:48,663 - ufeindt - INFO - Not enugh good data for SN ZTF18abmjayl. Manual inspection prob needed.
+2018-09-26 17:31:48,676 - ufeindt - INFO - SALT fit fails for SN ZTF18abnblil. Manual inspection prob needed.
+2018-09-26 17:31:48,683 - ufeindt - INFO - Not enugh good data for SN ZTF18abmszpd. Manual inspection prob needed.
+2018-09-26 17:31:48,696 - ufeindt - INFO - SALT fit fails for SN ZTF18ablovvu. Manual inspection prob needed.
+2018-09-26 17:31:48,706 - ufeindt - INFO - SALT fit fails for SN ZTF18abmacke. Manual inspection prob needed.
+2018-09-26 17:31:48,711 - ufeindt - INFO - SN ZTF18abntwvr has too few filters for saltfit.
+2018-09-26 17:31:48,725 - ufeindt - INFO - SALT fit fails for SN ZTF18aayhpph. Manual inspection prob needed.
+2018-09-26 17:31:48,738 - ufeindt - INFO - SALT fit fails for SN ZTF18abmrqmv. Manual inspection prob needed.
+2018-09-26 17:31:48,751 - ufeindt - INFO - SALT fit fails for SN ZTF18abmdxst. Manual inspection prob needed.
+2018-09-26 17:31:48,764 - ufeindt - INFO - SALT fit fails for SN ZTF17aaaafcd. Manual inspection prob needed.
+2018-09-26 17:31:48,779 - ufeindt - INFO - SALT fit fails for SN ZTF18ablxhtc. Manual inspection prob needed.
+2018-09-26 17:31:48,792 - ufeindt - INFO - SALT fit fails for SN ZTF18abcqvhs. Manual inspection prob needed.
+2018-09-26 17:31:48,804 - ufeindt - INFO - SALT fit fails for SN ZTF18ablxjic. Manual inspection prob needed.
+2018-09-26 17:31:57,042 - ufeindt - INFO - Not enugh good data for SN ZTF18abmadcc. Manual inspection prob needed.
+2018-09-26 17:31:58,713 - ufeindt - INFO - Not enugh good data for SN ZTF18ablrwlk. Manual inspection prob needed.
+2018-09-26 17:32:05,727 - ufeindt - INFO - Not enugh good data for SN ZTF18abmdfba. Manual inspection prob needed.
+2018-09-26 17:32:07,523 - ufeindt - INFO - Not enugh good data for SN ZTF18abmorft. Manual inspection prob needed.
+2018-09-26 17:32:09,127 - ufeindt - INFO - Not enugh good data for SN ZTF18abmpbjy. Manual inspection prob needed.
+2018-09-26 17:32:11,008 - ufeindt - INFO - SALT fit fails for SN ZTF18abmmxpg. Manual inspection prob needed.
+2018-09-26 17:32:12,676 - ufeindt - INFO - SALT fit fails for SN ZTF18ablpztl. Manual inspection prob needed.
+2018-09-26 17:32:14,378 - ufeindt - INFO - SALT fit fails for SN ZTF18ablskwf. Manual inspection prob needed.
+2018-09-26 17:32:16,208 - ufeindt - INFO - SN ZTF18abmwuml has too few filters for saltfit.
+2018-09-26 17:32:17,965 - ufeindt - INFO - Not enugh good data for SN ZTF18abmnssw. Manual inspection prob needed.
+2018-09-26 17:32:19,748 - ufeindt - INFO - SALT fit fails for SN ZTF18ablvibs. Manual inspection prob needed.
+2018-09-26 17:32:21,470 - ufeindt - INFO - SALT fit fails for SN ZTF18abnunsl. Manual inspection prob needed.
+2018-09-26 17:32:23,270 - ufeindt - INFO - SALT fit fails for SN ZTF18abnujuy. Manual inspection prob needed.
+2018-09-26 17:32:25,317 - ufeindt - INFO - SALT fit fails for SN ZTF18abnpbjv. Manual inspection prob needed.
+2018-09-26 17:32:26,993 - ufeindt - INFO - SN ZTF18abncqfx has too few filters for saltfit.
+2018-09-26 17:32:28,566 - ufeindt - INFO - SALT fit fails for SN ZTF18abnudmu. Manual inspection prob needed.
+2018-09-26 17:32:30,129 - ufeindt - INFO - Not enugh good data for SN ZTF18abnzgwe. Manual inspection prob needed.
+2018-09-26 17:32:31,753 - ufeindt - INFO - SALT fit fails for SN ZTF18abobtul. Manual inspection prob needed.
+2018-09-26 17:32:33,479 - ufeindt - INFO - SALT fit fails for SN ZTF18aboqwkr. Manual inspection prob needed.
+2018-09-26 17:32:35,163 - ufeindt - INFO - SALT fit fails for SN ZTF18abmkdun. Manual inspection prob needed.
+2018-09-26 17:32:35,165 - ufeindt - INFO - SN ZTF18abnucig classified with type SN Ia, skipping.
+2018-09-26 17:32:35,166 - ufeindt - INFO - SN ZTF18abglwpn classified with type AGN, skipping.
+2018-09-26 17:32:35,167 - ufeindt - INFO - SN ZTF18abmaewl classified with type SN Ia, skipping.
+2018-09-26 17:32:36,791 - ufeindt - INFO - SALT fit fails for SN ZTF18abnbhpu. Manual inspection prob needed.
+2018-09-26 17:32:36,793 - ufeindt - INFO - SN ZTF18ablwafp classified with type SLSN-I?, skipping.
+2018-09-26 17:32:36,794 - ufeindt - INFO - SN ZTF18abmjcbs classified with type SN Ia, skipping.
+2018-09-26 17:32:38,772 - ufeindt - INFO - SALT fit fails for SN ZTF18abmnbne. Manual inspection prob needed.
+2018-09-26 17:32:40,559 - ufeindt - INFO - SALT fit fails for SN ZTF18abmkaca. Manual inspection prob needed.
+2018-09-26 17:32:40,561 - ufeindt - INFO - SN ZTF18abncimo classified with type SN Ia, skipping.
+2018-09-26 17:32:40,562 - ufeindt - INFO - SN ZTF18abnygkb classified with type SN Ia, skipping.
+2018-09-26 17:32:42,176 - ufeindt - INFO - SALT fit fails for SN ZTF18abnvzah. Manual inspection prob needed.
+2018-09-26 17:32:42,177 - ufeindt - INFO - SN ZTF18abnvoel classified with type SN Ia, skipping.
+2018-09-26 17:32:43,904 - ufeindt - INFO - Not enugh good data for SN ZTF18aboqvfa. Manual inspection prob needed.
+2018-09-26 17:32:45,650 - ufeindt - INFO - Not enugh good data for SN ZTF18aborbhi. Manual inspection prob needed.
+2018-09-26 17:32:47,264 - ufeindt - INFO - SN ZTF18aborkxd has too few filters for saltfit.
+2018-09-26 17:32:48,886 - ufeindt - INFO - SN ZTF18aborkox has too few filters for saltfit.
+2018-09-26 17:32:50,464 - ufeindt - INFO - Not enugh good data for SN ZTF18abmkbqo. Manual inspection prob needed.
+2018-09-26 17:32:52,102 - ufeindt - INFO - SALT fit fails for SN ZTF18abnnnzk. Manual inspection prob needed.
+2018-09-26 17:32:53,667 - ufeindt - INFO - SN ZTF18abotaki has too few filters for saltfit.
+2018-09-26 17:32:55,260 - ufeindt - INFO - SN ZTF18abpavnx has too few filters for saltfit.
+2018-09-26 17:32:55,262 - ufeindt - INFO - SN ZTF18abpaywm classified with type SN Ia, skipping.
+2018-09-26 17:32:55,266 - ufeindt - INFO - SN ZTF18aboztta classified with type SN Ia, skipping.
+2018-09-26 17:32:55,269 - ufeindt - INFO - SN ZTF18abmwpyl classified with type SN Ia, skipping.
+2018-09-26 17:32:55,273 - ufeindt - INFO - SN ZTF18abpttky classified with type SN Ia, skipping.
+2018-09-26 17:32:56,922 - ufeindt - INFO - Not enugh good data for SN ZTF18abanjoi. Manual inspection prob needed.
+2018-09-26 17:32:58,527 - ufeindt - INFO - SALT fit fails for SN ZTF18abpudlt. Manual inspection prob needed.
+2018-09-26 17:32:58,528 - ufeindt - INFO - SN ZTF18abnuhuy classified with type AGN, skipping.
+2018-09-26 17:32:58,529 - ufeindt - INFO - SN ZTF18abrlupd classified with type SN Ia, skipping.
+2018-09-26 17:33:00,127 - ufeindt - INFO - SN ZTF18abmskzu has too few filters for saltfit.
+2018-09-26 17:33:01,856 - ufeindt - INFO - SALT fit fails for SN ZTF18abnujcx. Manual inspection prob needed.
+2018-09-26 17:33:03,626 - ufeindt - INFO - SALT fit fails for SN ZTF18abqbdcd. Manual inspection prob needed.
+2018-09-26 17:33:03,627 - ufeindt - INFO - SN ZTF18abqbuaj classified with type SN Ibn, skipping.
+2018-09-26 17:33:03,628 - ufeindt - INFO - SN ZTF18abqboud classified with type CV, skipping.
+2018-09-26 17:33:03,632 - ufeindt - INFO - SN ZTF18abqlpgq classified with type SN Ia, skipping.
+2018-09-26 17:33:03,633 - ufeindt - INFO - SN ZTF18abqbavl classified with type SN Ia, skipping.
+2018-09-26 17:33:03,637 - ufeindt - INFO - SN ZTF18abqdadp classified with type SN Ia, skipping.
+2018-09-26 17:33:05,296 - ufeindt - INFO - SALT fit fails for SN ZTF18aaovssm. Manual inspection prob needed.
+2018-09-26 17:33:06,858 - ufeindt - INFO - SALT fit fails for SN ZTF18ablruzq. Manual inspection prob needed.
+2018-09-26 17:33:06,859 - ufeindt - INFO - SN ZTF18abrwudp classified with type SN Ia, skipping.
+2018-09-26 17:33:08,416 - ufeindt - INFO - SALT fit fails for SN ZTF18ablwtla. Manual inspection prob needed.
+2018-09-26 17:33:09,959 - ufeindt - INFO - SALT fit fails for SN ZTF18abglikj. Manual inspection prob needed.
+2018-09-26 17:33:11,591 - ufeindt - INFO - SALT fit fails for SN ZTF18abrwswl. Manual inspection prob needed.
+2018-09-26 17:33:11,595 - ufeindt - INFO - SN ZTF18abqjvyl classified with type SN Ia, skipping.
+2018-09-26 17:33:13,245 - ufeindt - INFO - SN ZTF18abpaori has too few filters for saltfit.
+2018-09-26 17:33:15,074 - ufeindt - INFO - SALT fit fails for SN ZTF18ablrmnj. Manual inspection prob needed.
+2018-09-26 17:33:15,075 - ufeindt - INFO - SN ZTF18abolvoh classified with type SN Ia, skipping.
+2018-09-26 17:33:16,877 - ufeindt - INFO - SALT fit fails for SN ZTF18abrxwon. Manual inspection prob needed.
+2018-09-26 17:33:18,556 - ufeindt - INFO - SALT fit fails for SN ZTF18abqcyqv. Manual inspection prob needed.
+2018-09-26 17:33:18,558 - ufeindt - INFO - SN ZTF18abrzevz classified with type SN Ia, skipping.
+2018-09-26 17:33:18,559 - ufeindt - INFO - SN ZTF18abqyvzy classified with type SN II, skipping.
+2018-09-26 17:33:18,559 - ufeindt - INFO - SN ZTF18absbsoz classified with type SN Ia, skipping.
+2018-09-26 17:33:18,562 - ufeindt - INFO - SN ZTF18ablvime classified with type SN Ia, skipping.
+2018-09-26 17:33:20,342 - ufeindt - INFO - SALT fit fails for SN ZTF18abrzuqw. Manual inspection prob needed.
+2018-09-26 17:33:20,344 - ufeindt - INFO - SN ZTF18absdxpk classified with type SN Ia, skipping.
+2018-09-26 17:33:20,348 - ufeindt - INFO - SN ZTF18absliyc classified with type SN Ia pec, skipping.
+2018-09-26 17:33:21,915 - ufeindt - INFO - SALT fit fails for SN ZTF18abptskn. Manual inspection prob needed.
+2018-09-26 17:33:21,916 - ufeindt - INFO - SN ZTF18absldfl classified with type SN II, skipping.
+2018-09-26 17:33:23,576 - ufeindt - INFO - SALT fit fails for SN ZTF18aayejrb. Manual inspection prob needed.
+2018-09-26 17:33:25,168 - ufeindt - INFO - SALT fit fails for SN ZTF18abrwwlv. Manual inspection prob needed.
+2018-09-26 17:33:26,814 - ufeindt - INFO - SALT fit fails for SN ZTF18absdeij. Manual inspection prob needed.
+2018-09-26 17:33:28,485 - ufeindt - INFO - SALT fit fails for SN ZTF18abscygs. Manual inspection prob needed.
+2018-09-26 17:33:28,486 - ufeindt - INFO - SN ZTF18abotcjv classified with type SN Ia, skipping.
+2018-09-26 17:33:28,487 - ufeindt - INFO - SN ZTF18abnysyy classified with type SN Ia, skipping.
+2018-09-26 17:33:30,173 - ufeindt - INFO - SALT fit fails for SN ZTF18ablmduj. Manual inspection prob needed.
+2018-09-26 17:33:30,173 - ufeindt - INFO - SN ZTF18abshezu classified with type SLSN-I, skipping.
+2018-09-26 17:33:30,174 - ufeindt - INFO - SN ZTF18abryewg classified with type SN Ia 91T-like, skipping.
+2018-09-26 17:33:30,175 - ufeindt - INFO - SN ZTF18abssukb classified with type SN Ia, skipping.
+2018-09-26 17:33:30,177 - ufeindt - INFO - SN ZTF18absdjms classified with type SN Ia, skipping.
+2018-09-26 17:33:31,805 - ufeindt - INFO - SALT fit fails for SN ZTF18ablhsgt. Manual inspection prob needed.
+2018-09-26 17:33:33,462 - ufeindt - INFO - SALT fit fails for SN ZTF18abnorzb. Manual inspection prob needed.
+2018-09-26 17:33:35,178 - ufeindt - INFO - SALT fit fails for SN ZTF18abottbj. Manual inspection prob needed.
+2018-09-26 17:33:36,905 - ufeindt - INFO - SALT fit fails for SN ZTF18absqsey. Manual inspection prob needed.
+2018-09-26 17:33:38,623 - ufeindt - INFO - SALT fit fails for SN ZTF18absloer. Manual inspection prob needed.
+2018-09-26 17:33:40,251 - ufeindt - INFO - SALT fit fails for SN ZTF18abtkctg. Manual inspection prob needed.
+2018-09-26 17:33:41,893 - ufeindt - INFO - SALT fit fails for SN ZTF18abklshn. Manual inspection prob needed.
+2018-09-26 17:33:43,530 - ufeindt - INFO - SALT fit fails for SN ZTF18abthaii. Manual inspection prob needed.
+2018-09-26 17:33:45,247 - ufeindt - INFO - SALT fit fails for SN ZTF18absnsqx. Manual inspection prob needed.
+2018-09-26 17:33:46,989 - ufeindt - INFO - SALT fit fails for SN ZTF18abrwrch. Manual inspection prob needed.
+2018-09-26 17:33:48,717 - ufeindt - INFO - SALT fit fails for SN ZTF18abtogdl. Manual inspection prob needed.
+2018-09-26 17:33:50,252 - ufeindt - INFO - SALT fit fails for SN ZTF18abuicad. Manual inspection prob needed.
+2018-09-26 17:33:51,803 - ufeindt - INFO - SN ZTF18absumwc has too few filters for saltfit.
+2018-09-26 17:33:53,510 - ufeindt - INFO - SALT fit fails for SN ZTF18absmqmw. Manual inspection prob needed.
+2018-09-26 17:33:55,217 - ufeindt - INFO - SALT fit fails for SN ZTF18absbspk. Manual inspection prob needed.
+2018-09-26 17:33:57,094 - ufeindt - INFO - SALT fit fails for SN ZTF18abuluko. Manual inspection prob needed.
+2018-09-26 17:33:58,783 - ufeindt - INFO - SALT fit fails for SN ZTF18abmwxvv. Manual inspection prob needed.
+2018-09-26 17:34:00,601 - ufeindt - INFO - SALT fit fails for SN ZTF18abtghbi. Manual inspection prob needed.
+2018-09-26 17:34:00,602 - ufeindt - INFO - SN ZTF18abukmty classified with type SN Ia, skipping.
+2018-09-26 17:34:02,327 - ufeindt - INFO - SALT fit fails for SN ZTF18abtswjk. Manual inspection prob needed.
+2018-09-26 17:34:02,328 - ufeindt - INFO - SN ZTF18abvbayb classified with type SN Ia, skipping.
+2018-09-26 17:34:03,835 - ufeindt - INFO - SN ZTF18abuhiaj has too few filters for saltfit.
+2018-09-26 17:34:03,837 - ufeindt - INFO - SN ZTF18abqapch classified with type SN Ia, skipping.
+2018-09-26 17:34:05,397 - ufeindt - INFO - SALT fit fails for SN ZTF18aburkuo. Manual inspection prob needed.
+2018-09-26 17:34:05,398 - ufeindt - INFO - SN ZTF18abuiknd classified with type SN Ia, skipping.
+2018-09-26 17:34:06,977 - ufeindt - INFO - SALT fit fails for SN ZTF18abuksxd. Manual inspection prob needed.
+2018-09-26 17:34:08,572 - ufeindt - INFO - SALT fit fails for SN ZTF18abtxvhy. Manual inspection prob needed.
+2018-09-26 17:34:08,576 - ufeindt - INFO - SN ZTF18abslxhz classified with type SN Ia, skipping.
+2018-09-26 17:34:10,139 - ufeindt - INFO - SALT fit fails for SN ZTF18abvnqqk. Manual inspection prob needed.
+2018-09-26 17:34:10,140 - ufeindt - INFO - SN ZTF18abwdcdv classified with type SN Ia, skipping.
+2018-09-26 17:34:11,917 - ufeindt - INFO - SALT fit fails for SN ZTF18abuioue. Manual inspection prob needed.
+2018-09-26 17:34:13,700 - ufeindt - INFO - SALT fit fails for SN ZTF18abvvqtf. Manual inspection prob needed.
+2018-09-26 17:34:15,517 - ufeindt - INFO - SN ZTF18abwclem has too few filters for saltfit.
+2018-09-26 17:34:17,164 - ufeindt - INFO - SALT fit fails for SN ZTF18abwntpz. Manual inspection prob needed.
+2018-09-26 17:34:18,941 - ufeindt - INFO - SALT fit fails for SN ZTF18aabhooi. Manual inspection prob needed.
+2018-09-26 17:34:20,575 - ufeindt - INFO - SALT fit fails for SN ZTF18abwtops. Manual inspection prob needed.
+2018-09-26 17:34:22,123 - ufeindt - INFO - SN ZTF18abwlonm has too few filters for saltfit.
+2018-09-26 17:34:23,684 - ufeindt - INFO - SALT fit fails for SN ZTF18abwblyl. Manual inspection prob needed.
+2018-09-26 17:34:25,255 - ufeindt - INFO - SALT fit fails for SN ZTF18abwqgsc. Manual inspection prob needed.
+2018-09-26 17:34:26,875 - ufeindt - INFO - SN ZTF18abwbaim has too few filters for saltfit.
+2018-09-26 17:34:28,565 - ufeindt - INFO - SALT fit fails for SN ZTF18abtywgf. Manual inspection prob needed.
+2018-09-26 17:34:30,365 - ufeindt - INFO - SALT fit fails for SN ZTF18abucflq. Manual inspection prob needed.
+2018-09-26 17:34:32,181 - ufeindt - INFO - SN ZTF18abwxhjo has too few filters for saltfit.
+2018-09-26 17:34:32,183 - ufeindt - INFO - SN ZTF18abucvbf classified with type SN Ia, skipping.
+2018-09-26 17:34:34,047 - ufeindt - INFO - SN ZTF18abwlopg has too few filters for saltfit.
+2018-09-26 17:34:35,786 - ufeindt - INFO - SALT fit fails for SN ZTF18abvrgjc. Manual inspection prob needed.
+2018-09-26 17:34:37,389 - ufeindt - INFO - SALT fit fails for SN ZTF18abwkxgo. Manual inspection prob needed.
+2018-09-26 17:34:38,985 - ufeindt - INFO - SALT fit fails for SN ZTF18abxygvv. Manual inspection prob needed.
+2018-09-26 17:34:40,671 - ufeindt - INFO - SALT fit fails for SN ZTF18abwlejr. Manual inspection prob needed.
+2018-09-26 17:34:42,325 - ufeindt - INFO - SALT fit fails for SN ZTF18abwkhdc. Manual inspection prob needed.
+2018-09-26 17:34:43,933 - ufeindt - INFO - SALT fit fails for SN ZTF18abwnsoc. Manual inspection prob needed.
+2018-09-26 17:34:45,709 - ufeindt - INFO - SALT fit fails for SN ZTF18abxdkny. Manual inspection prob needed.
+2018-09-26 17:34:45,710 - ufeindt - INFO - SN ZTF18abvkhul classified with type SN Ia, skipping.
+2018-09-26 17:34:47,411 - ufeindt - INFO - SALT fit fails for SN ZTF18abwlpzf. Manual inspection prob needed.
+2018-09-26 17:34:49,054 - ufeindt - INFO - SALT fit fails for SN ZTF18abqdwze. Manual inspection prob needed.
+2018-09-26 17:34:50,894 - ufeindt - INFO - SALT fit fails for SN ZTF18abxumzx. Manual inspection prob needed.
+2018-09-26 17:34:52,653 - ufeindt - INFO - SN ZTF18abxfcql has too few filters for saltfit.
+2018-09-26 17:34:52,654 - ufeindt - INFO - SN ZTF18abtcdfv classified with type SN Ia, skipping.
+2018-09-26 17:34:52,655 - ufeindt - INFO - SN ZTF18absiymj classified with type SN Ia, skipping.
+2018-09-26 17:34:54,577 - ufeindt - INFO - SN ZTF18abylgru has too few filters for saltfit.
+2018-09-26 17:34:56,902 - ufeindt - INFO - SALT fit fails for SN ZTF18abvhasp. Manual inspection prob needed.
+2018-09-26 17:34:58,667 - ufeindt - INFO - SALT fit fails for SN ZTF18absmogv. Manual inspection prob needed.
+2018-09-26 17:35:00,402 - ufeindt - INFO - SALT fit fails for SN ZTF17aaaadqv. Manual inspection prob needed.
+2018-09-26 17:35:02,513 - ufeindt - INFO - SALT fit fails for SN ZTF18abbgdto. Manual inspection prob needed.
+2018-09-26 17:35:02,514 - ufeindt - INFO - SN ZTF18abdkkwa classified with type SN Ic, skipping.
+2018-09-26 17:35:04,220 - ufeindt - INFO - SALT fit fails for SN ZTF18abwfmot. Manual inspection prob needed.
+2018-09-26 17:35:05,855 - ufeindt - INFO - SALT fit fails for SN ZTF18absoomk. Manual inspection prob needed.
+2018-09-26 17:35:07,524 - ufeindt - INFO - SALT fit fails for SN ZTF18abvnwzz. Manual inspection prob needed.
+2018-09-26 17:49:42,954 - ufeindt - INFO - SALT fit fails for SN ZTF18aakgsmi. Manual inspection prob needed.
+2018-09-26 17:49:42,955 - ufeindt - INFO - SN ZTF18aasdted classified with type SN Ia, skipping.
+2018-09-26 17:49:45,295 - ufeindt - INFO - SALT fit fails for SN ZTF18aaupjtd. Manual inspection prob needed.
+2018-09-26 17:49:45,296 - ufeindt - INFO - SN ZTF18aauvptt classified with type AGN, skipping.
+2018-09-26 17:49:47,128 - ufeindt - INFO - SALT fit fails for SN ZTF18abmwzws. Manual inspection prob needed.
+2018-09-26 17:49:48,949 - ufeindt - INFO - SALT fit fails for SN ZTF18abddhaa. Manual inspection prob needed.
+2018-09-26 17:49:50,784 - ufeindt - INFO - SALT fit fails for SN ZTF18abddgzz. Manual inspection prob needed.
+2018-09-26 17:49:52,484 - ufeindt - INFO - SALT fit fails for SN ZTF18abgucjb. Manual inspection prob needed.
+2018-09-26 17:49:54,057 - ufeindt - INFO - SALT fit fails for SN ZTF18ablvpuj. Manual inspection prob needed.
+2018-09-26 17:49:55,712 - ufeindt - INFO - SALT fit fails for SN ZTF18ablqqeb. Manual inspection prob needed.
+2018-09-26 17:49:57,511 - ufeindt - INFO - Not enugh good data for SN ZTF18ablviog. Manual inspection prob needed.
+2018-09-26 17:49:59,204 - ufeindt - INFO - SALT fit fails for SN ZTF18ablllyw. Manual inspection prob needed.
+2018-09-26 17:50:00,849 - ufeindt - INFO - SALT fit fails for SN ZTF18ablwwwb. Manual inspection prob needed.
+2018-09-26 17:50:02,797 - ufeindt - INFO - SALT fit fails for SN ZTF18ablowct. Manual inspection prob needed.
+2018-09-26 17:50:02,798 - ufeindt - INFO - SN ZTF18abmxfrc classified with type SN Ia, skipping.
+2018-09-26 17:50:04,553 - ufeindt - INFO - SALT fit fails for SN ZTF18abmjzjq. Manual inspection prob needed.
+2018-09-26 17:50:04,554 - ufeindt - INFO - SN ZTF18abnxhmc classified with type SN Ia, skipping.
+2018-09-26 17:50:04,556 - ufeindt - INFO - SN ZTF18abnvnqb classified with type SN Ia, skipping.
+2018-09-26 17:50:04,558 - ufeindt - INFO - SN ZTF18abkxlcz classified with type SN Ia, skipping.
+2018-09-26 17:50:06,331 - ufeindt - INFO - SALT fit fails for SN ZTF18abokvkt. Manual inspection prob needed.
+2018-09-26 17:50:06,332 - ufeindt - INFO - SN ZTF18abmnvkx classified with type AGN, skipping.
+2018-09-26 17:50:06,333 - ufeindt - INFO - SN ZTF18aboaeqy classified with type SN Ia, skipping.
+2018-09-26 17:50:08,017 - ufeindt - INFO - SALT fit fails for SN ZTF18aboivnq. Manual inspection prob needed.
+2018-09-26 17:50:09,647 - ufeindt - INFO - Not enugh good data for SN ZTF18abmjayl. Manual inspection prob needed.
+2018-09-26 17:50:11,297 - ufeindt - INFO - SALT fit fails for SN ZTF18abnblil. Manual inspection prob needed.
+2018-09-26 17:50:12,958 - ufeindt - INFO - Not enugh good data for SN ZTF18abmszpd. Manual inspection prob needed.
+2018-09-26 17:50:14,775 - ufeindt - INFO - SALT fit fails for SN ZTF18ablovvu. Manual inspection prob needed.
+2018-09-26 17:50:16,538 - ufeindt - INFO - SALT fit fails for SN ZTF18abmacke. Manual inspection prob needed.
+2018-09-26 17:50:18,334 - ufeindt - INFO - SN ZTF18abntwvr has too few filters for saltfit.
+2018-09-26 17:50:20,305 - ufeindt - INFO - SALT fit fails for SN ZTF18aayhpph. Manual inspection prob needed.
+2018-09-26 17:50:22,324 - ufeindt - INFO - SALT fit fails for SN ZTF18abmrqmv. Manual inspection prob needed.
+2018-09-26 17:50:23,941 - ufeindt - INFO - SALT fit fails for SN ZTF18abmdxst. Manual inspection prob needed.
+2018-09-26 17:50:25,813 - ufeindt - INFO - SALT fit fails for SN ZTF17aaaafcd. Manual inspection prob needed.
+2018-09-26 17:50:27,575 - ufeindt - INFO - SALT fit fails for SN ZTF18ablxhtc. Manual inspection prob needed.
+2018-09-26 17:50:29,232 - ufeindt - INFO - SALT fit fails for SN ZTF18abcqvhs. Manual inspection prob needed.
+2018-09-26 17:50:30,795 - ufeindt - INFO - SALT fit fails for SN ZTF18ablxjic. Manual inspection prob needed.
+2018-09-26 17:50:32,362 - ufeindt - INFO - Not enugh good data for SN ZTF18abmadcc. Manual inspection prob needed.
+2018-09-26 17:50:34,058 - ufeindt - INFO - Not enugh good data for SN ZTF18ablrwlk. Manual inspection prob needed.
+2018-09-26 17:50:35,747 - ufeindt - INFO - Not enugh good data for SN ZTF18abmdfba. Manual inspection prob needed.
+2018-09-26 17:50:37,599 - ufeindt - INFO - Not enugh good data for SN ZTF18abmorft. Manual inspection prob needed.
+2018-09-26 17:50:39,560 - ufeindt - INFO - Not enugh good data for SN ZTF18abmpbjy. Manual inspection prob needed.
+2018-09-26 17:50:41,389 - ufeindt - INFO - SALT fit fails for SN ZTF18abmmxpg. Manual inspection prob needed.
+2018-09-26 17:50:43,129 - ufeindt - INFO - SALT fit fails for SN ZTF18ablpztl. Manual inspection prob needed.
+2018-09-26 17:50:44,806 - ufeindt - INFO - SALT fit fails for SN ZTF18ablskwf. Manual inspection prob needed.
+2018-09-26 17:50:46,435 - ufeindt - INFO - SN ZTF18abmwuml has too few filters for saltfit.
+2018-09-26 17:50:48,032 - ufeindt - INFO - Not enugh good data for SN ZTF18abmnssw. Manual inspection prob needed.
+2018-09-26 17:50:49,636 - ufeindt - INFO - SALT fit fails for SN ZTF18ablvibs. Manual inspection prob needed.
+2018-09-26 17:50:51,430 - ufeindt - INFO - SALT fit fails for SN ZTF18abnunsl. Manual inspection prob needed.
+2018-09-26 17:50:53,382 - ufeindt - INFO - SALT fit fails for SN ZTF18abnujuy. Manual inspection prob needed.
+2018-09-26 17:50:55,089 - ufeindt - INFO - SALT fit fails for SN ZTF18abnpbjv. Manual inspection prob needed.
+2018-09-26 17:50:56,966 - ufeindt - INFO - SN ZTF18abncqfx has too few filters for saltfit.
+2018-09-26 17:50:58,743 - ufeindt - INFO - SALT fit fails for SN ZTF18abnudmu. Manual inspection prob needed.
+2018-09-26 17:51:00,520 - ufeindt - INFO - Not enugh good data for SN ZTF18abnzgwe. Manual inspection prob needed.
+2018-09-26 17:51:02,679 - ufeindt - INFO - SALT fit fails for SN ZTF18abobtul. Manual inspection prob needed.
+2018-09-26 17:51:04,514 - ufeindt - INFO - SALT fit fails for SN ZTF18aboqwkr. Manual inspection prob needed.
+2018-09-26 17:51:06,362 - ufeindt - INFO - SALT fit fails for SN ZTF18abmkdun. Manual inspection prob needed.
+2018-09-26 17:51:06,363 - ufeindt - INFO - SN ZTF18abnucig classified with type SN Ia, skipping.
+2018-09-26 17:51:06,364 - ufeindt - INFO - SN ZTF18abglwpn classified with type AGN, skipping.
+2018-09-26 17:51:06,368 - ufeindt - INFO - SN ZTF18abmaewl classified with type SN Ia, skipping.
+2018-09-26 17:51:08,196 - ufeindt - INFO - SALT fit fails for SN ZTF18abnbhpu. Manual inspection prob needed.
+2018-09-26 17:51:08,199 - ufeindt - INFO - SN ZTF18ablwafp classified with type SLSN-I?, skipping.
+2018-09-26 17:51:08,204 - ufeindt - INFO - SN ZTF18abmjcbs classified with type SN Ia, skipping.
+2018-09-26 17:51:10,037 - ufeindt - INFO - SALT fit fails for SN ZTF18abmnbne. Manual inspection prob needed.
+2018-09-26 17:51:11,758 - ufeindt - INFO - SALT fit fails for SN ZTF18abmkaca. Manual inspection prob needed.
+2018-09-26 17:51:11,759 - ufeindt - INFO - SN ZTF18abncimo classified with type SN Ia, skipping.
+2018-09-26 17:51:11,761 - ufeindt - INFO - SN ZTF18abnygkb classified with type SN Ia, skipping.
+2018-09-26 17:51:13,855 - ufeindt - INFO - SALT fit fails for SN ZTF18abnvzah. Manual inspection prob needed.
+2018-09-26 17:51:13,856 - ufeindt - INFO - SN ZTF18abnvoel classified with type SN Ia, skipping.
+2018-09-26 17:51:15,780 - ufeindt - INFO - Not enugh good data for SN ZTF18aboqvfa. Manual inspection prob needed.
+2018-09-26 17:51:17,685 - ufeindt - INFO - Not enugh good data for SN ZTF18aborbhi. Manual inspection prob needed.
+2018-09-26 17:51:19,354 - ufeindt - INFO - SN ZTF18aborkxd has too few filters for saltfit.
+2018-09-26 17:51:21,120 - ufeindt - INFO - SN ZTF18aborkox has too few filters for saltfit.
+2018-09-26 17:51:22,783 - ufeindt - INFO - Not enugh good data for SN ZTF18abmkbqo. Manual inspection prob needed.
+2018-09-26 17:51:24,402 - ufeindt - INFO - SALT fit fails for SN ZTF18abnnnzk. Manual inspection prob needed.
+2018-09-26 17:51:26,157 - ufeindt - INFO - SN ZTF18abotaki has too few filters for saltfit.
+2018-09-26 17:51:27,986 - ufeindt - INFO - SN ZTF18abpavnx has too few filters for saltfit.
+2018-09-26 17:51:27,988 - ufeindt - INFO - SN ZTF18abpaywm classified with type SN Ia, skipping.
+2018-09-26 17:51:27,992 - ufeindt - INFO - SN ZTF18aboztta classified with type SN Ia, skipping.
+2018-09-26 17:51:27,995 - ufeindt - INFO - SN ZTF18abmwpyl classified with type SN Ia, skipping.
+2018-09-26 17:51:27,999 - ufeindt - INFO - SN ZTF18abpttky classified with type SN Ia, skipping.
+2018-09-26 17:51:29,660 - ufeindt - INFO - Not enugh good data for SN ZTF18abanjoi. Manual inspection prob needed.
+2018-09-26 17:51:31,467 - ufeindt - INFO - SALT fit fails for SN ZTF18abpudlt. Manual inspection prob needed.
+2018-09-26 17:51:31,468 - ufeindt - INFO - SN ZTF18abnuhuy classified with type AGN, skipping.
+2018-09-26 17:51:31,469 - ufeindt - INFO - SN ZTF18abrlupd classified with type SN Ia, skipping.
+2018-09-26 17:51:33,216 - ufeindt - INFO - SN ZTF18abmskzu has too few filters for saltfit.
+2018-09-26 17:51:34,795 - ufeindt - INFO - SALT fit fails for SN ZTF18abnujcx. Manual inspection prob needed.
+2018-09-26 17:51:36,435 - ufeindt - INFO - SALT fit fails for SN ZTF18abqbdcd. Manual inspection prob needed.
+2018-09-26 17:51:36,436 - ufeindt - INFO - SN ZTF18abqbuaj classified with type SN Ibn, skipping.
+2018-09-26 17:51:36,438 - ufeindt - INFO - SN ZTF18abqboud classified with type CV, skipping.
+2018-09-26 17:51:36,440 - ufeindt - INFO - SN ZTF18abqlpgq classified with type SN Ia, skipping.
+2018-09-26 17:51:36,441 - ufeindt - INFO - SN ZTF18abqbavl classified with type SN Ia, skipping.
+2018-09-26 17:51:36,443 - ufeindt - INFO - SN ZTF18abqdadp classified with type SN Ia, skipping.
+2018-09-26 17:51:38,284 - ufeindt - INFO - SALT fit fails for SN ZTF18aaovssm. Manual inspection prob needed.
+2018-09-26 17:51:40,031 - ufeindt - INFO - SALT fit fails for SN ZTF18ablruzq. Manual inspection prob needed.
+2018-09-26 17:51:40,033 - ufeindt - INFO - SN ZTF18abrwudp classified with type SN Ia, skipping.
+2018-09-26 17:51:41,599 - ufeindt - INFO - SALT fit fails for SN ZTF18ablwtla. Manual inspection prob needed.
+2018-09-26 17:51:43,339 - ufeindt - INFO - SALT fit fails for SN ZTF18abglikj. Manual inspection prob needed.
+2018-09-26 17:51:44,978 - ufeindt - INFO - SALT fit fails for SN ZTF18abrwswl. Manual inspection prob needed.
+2018-09-26 17:51:44,979 - ufeindt - INFO - SN ZTF18abqjvyl classified with type SN Ia, skipping.
+2018-09-26 17:51:46,593 - ufeindt - INFO - SN ZTF18abpaori has too few filters for saltfit.
+2018-09-26 17:51:48,204 - ufeindt - INFO - SALT fit fails for SN ZTF18ablrmnj. Manual inspection prob needed.
+2018-09-26 17:51:48,206 - ufeindt - INFO - SN ZTF18abolvoh classified with type SN Ia, skipping.
+2018-09-26 17:51:49,866 - ufeindt - INFO - SALT fit fails for SN ZTF18abrxwon. Manual inspection prob needed.
+2018-09-26 17:51:51,602 - ufeindt - INFO - SALT fit fails for SN ZTF18abqcyqv. Manual inspection prob needed.
+2018-09-26 17:51:51,603 - ufeindt - INFO - SN ZTF18abrzevz classified with type SN Ia, skipping.
+2018-09-26 17:51:51,604 - ufeindt - INFO - SN ZTF18abqyvzy classified with type SN II, skipping.
+2018-09-26 17:51:51,605 - ufeindt - INFO - SN ZTF18absbsoz classified with type SN Ia, skipping.
+2018-09-26 17:51:51,610 - ufeindt - INFO - SN ZTF18ablvime classified with type SN Ia, skipping.
+2018-09-26 17:51:53,349 - ufeindt - INFO - SALT fit fails for SN ZTF18abrzuqw. Manual inspection prob needed.
+2018-09-26 17:51:53,350 - ufeindt - INFO - SN ZTF18absdxpk classified with type SN Ia, skipping.
+2018-09-26 17:51:53,350 - ufeindt - INFO - SN ZTF18absliyc classified with type SN Ia pec, skipping.
+2018-09-26 17:51:55,018 - ufeindt - INFO - SALT fit fails for SN ZTF18abptskn. Manual inspection prob needed.
+2018-09-26 17:51:55,019 - ufeindt - INFO - SN ZTF18absldfl classified with type SN II, skipping.
+2018-09-26 17:51:56,755 - ufeindt - INFO - SALT fit fails for SN ZTF18aayejrb. Manual inspection prob needed.
+2018-09-26 17:51:58,467 - ufeindt - INFO - SALT fit fails for SN ZTF18abrwwlv. Manual inspection prob needed.
+2018-09-26 17:52:00,098 - ufeindt - INFO - SALT fit fails for SN ZTF18absdeij. Manual inspection prob needed.
+2018-09-26 17:52:01,755 - ufeindt - INFO - SALT fit fails for SN ZTF18abscygs. Manual inspection prob needed.
+2018-09-26 17:52:01,758 - ufeindt - INFO - SN ZTF18abotcjv classified with type SN Ia, skipping.
+2018-09-26 17:52:01,760 - ufeindt - INFO - SN ZTF18abnysyy classified with type SN Ia, skipping.
+2018-09-26 17:52:03,665 - ufeindt - INFO - SALT fit fails for SN ZTF18ablmduj. Manual inspection prob needed.
+2018-09-26 17:52:03,666 - ufeindt - INFO - SN ZTF18abshezu classified with type SLSN-I, skipping.
+2018-09-26 17:52:03,667 - ufeindt - INFO - SN ZTF18abryewg classified with type SN Ia 91T-like, skipping.
+2018-09-26 17:52:03,671 - ufeindt - INFO - SN ZTF18abssukb classified with type SN Ia, skipping.
+2018-09-26 17:52:03,672 - ufeindt - INFO - SN ZTF18absdjms classified with type SN Ia, skipping.
+2018-09-26 17:52:05,346 - ufeindt - INFO - SALT fit fails for SN ZTF18ablhsgt. Manual inspection prob needed.
+2018-09-26 17:52:06,992 - ufeindt - INFO - SALT fit fails for SN ZTF18abnorzb. Manual inspection prob needed.
+2018-09-26 17:52:08,624 - ufeindt - INFO - SALT fit fails for SN ZTF18abottbj. Manual inspection prob needed.
+2018-09-26 17:52:10,407 - ufeindt - INFO - SALT fit fails for SN ZTF18absqsey. Manual inspection prob needed.
+2018-09-26 17:52:12,195 - ufeindt - INFO - SALT fit fails for SN ZTF18absloer. Manual inspection prob needed.
+2018-09-26 17:52:13,783 - ufeindt - INFO - SALT fit fails for SN ZTF18abtkctg. Manual inspection prob needed.
+2018-09-26 17:52:15,514 - ufeindt - INFO - SALT fit fails for SN ZTF18abklshn. Manual inspection prob needed.
+2018-09-26 17:52:17,138 - ufeindt - INFO - SALT fit fails for SN ZTF18abthaii. Manual inspection prob needed.
+2018-09-26 17:52:18,797 - ufeindt - INFO - SALT fit fails for SN ZTF18absnsqx. Manual inspection prob needed.
+2018-09-26 17:52:20,450 - ufeindt - INFO - SALT fit fails for SN ZTF18abrwrch. Manual inspection prob needed.
+2018-09-26 17:52:22,166 - ufeindt - INFO - SALT fit fails for SN ZTF18abtogdl. Manual inspection prob needed.
+2018-09-26 17:52:23,811 - ufeindt - INFO - SALT fit fails for SN ZTF18abuicad. Manual inspection prob needed.
+2018-09-26 17:52:25,459 - ufeindt - INFO - SN ZTF18absumwc has too few filters for saltfit.
+2018-09-26 17:52:27,325 - ufeindt - INFO - SALT fit fails for SN ZTF18absmqmw. Manual inspection prob needed.
+2018-09-26 17:52:29,203 - ufeindt - INFO - SALT fit fails for SN ZTF18absbspk. Manual inspection prob needed.
+2018-09-26 17:52:31,045 - ufeindt - INFO - SALT fit fails for SN ZTF18abuluko. Manual inspection prob needed.
+2018-09-26 17:52:33,029 - ufeindt - INFO - SALT fit fails for SN ZTF18abmwxvv. Manual inspection prob needed.
+2018-09-26 17:52:34,860 - ufeindt - INFO - SALT fit fails for SN ZTF18abtghbi. Manual inspection prob needed.
+2018-09-26 17:52:34,863 - ufeindt - INFO - SN ZTF18abukmty classified with type SN Ia, skipping.
+2018-09-26 17:52:36,461 - ufeindt - INFO - SALT fit fails for SN ZTF18abtswjk. Manual inspection prob needed.
+2018-09-26 17:52:36,462 - ufeindt - INFO - SN ZTF18abvbayb classified with type SN Ia, skipping.
+2018-09-26 17:52:38,138 - ufeindt - INFO - SN ZTF18abuhiaj has too few filters for saltfit.
+2018-09-26 17:52:38,140 - ufeindt - INFO - SN ZTF18abqapch classified with type SN Ia, skipping.
+2018-09-26 17:52:39,981 - ufeindt - INFO - SALT fit fails for SN ZTF18aburkuo. Manual inspection prob needed.
+2018-09-26 17:52:39,982 - ufeindt - INFO - SN ZTF18abuiknd classified with type SN Ia, skipping.
+2018-09-26 17:52:41,797 - ufeindt - INFO - SALT fit fails for SN ZTF18abuksxd. Manual inspection prob needed.
+2018-09-26 17:52:43,589 - ufeindt - INFO - SALT fit fails for SN ZTF18abtxvhy. Manual inspection prob needed.
+2018-09-26 17:52:43,590 - ufeindt - INFO - SN ZTF18abslxhz classified with type SN Ia, skipping.
+2018-09-26 17:52:45,258 - ufeindt - INFO - SALT fit fails for SN ZTF18abvnqqk. Manual inspection prob needed.
+2018-09-26 17:52:45,259 - ufeindt - INFO - SN ZTF18abwdcdv classified with type SN Ia, skipping.
+2018-09-26 17:52:46,979 - ufeindt - INFO - SALT fit fails for SN ZTF18abuioue. Manual inspection prob needed.
+2018-09-26 17:52:48,656 - ufeindt - INFO - SALT fit fails for SN ZTF18abvvqtf. Manual inspection prob needed.
+2018-09-26 17:52:50,632 - ufeindt - INFO - SN ZTF18abwclem has too few filters for saltfit.
+2018-09-26 17:52:52,553 - ufeindt - INFO - SALT fit fails for SN ZTF18abwntpz. Manual inspection prob needed.
+2018-09-26 17:52:54,187 - ufeindt - INFO - SALT fit fails for SN ZTF18aabhooi. Manual inspection prob needed.
+2018-09-26 17:52:55,746 - ufeindt - INFO - SALT fit fails for SN ZTF18abwtops. Manual inspection prob needed.
+2018-09-26 17:52:57,434 - ufeindt - INFO - SN ZTF18abwlonm has too few filters for saltfit.
+2018-09-26 17:52:59,007 - ufeindt - INFO - SALT fit fails for SN ZTF18abwblyl. Manual inspection prob needed.
+2018-09-26 17:53:00,513 - ufeindt - INFO - SALT fit fails for SN ZTF18abwqgsc. Manual inspection prob needed.
+2018-09-26 17:53:02,055 - ufeindt - INFO - SN ZTF18abwbaim has too few filters for saltfit.
+2018-09-26 17:53:03,710 - ufeindt - INFO - SALT fit fails for SN ZTF18abtywgf. Manual inspection prob needed.
+2018-09-26 17:53:05,420 - ufeindt - INFO - SALT fit fails for SN ZTF18abucflq. Manual inspection prob needed.
+2018-09-26 17:53:07,066 - ufeindt - INFO - SN ZTF18abwxhjo has too few filters for saltfit.
+2018-09-26 17:53:07,066 - ufeindt - INFO - SN ZTF18abucvbf classified with type SN Ia, skipping.
+2018-09-26 17:53:08,733 - ufeindt - INFO - SN ZTF18abwlopg has too few filters for saltfit.
+2018-09-26 17:53:10,343 - ufeindt - INFO - SALT fit fails for SN ZTF18abvrgjc. Manual inspection prob needed.
+2018-09-26 17:53:11,968 - ufeindt - INFO - SALT fit fails for SN ZTF18abwkxgo. Manual inspection prob needed.
+2018-09-26 17:53:14,097 - ufeindt - INFO - SALT fit fails for SN ZTF18abxygvv. Manual inspection prob needed.
+2018-09-26 17:53:15,837 - ufeindt - INFO - SALT fit fails for SN ZTF18abwlejr. Manual inspection prob needed.
+2018-09-26 17:53:17,734 - ufeindt - INFO - SALT fit fails for SN ZTF18abwkhdc. Manual inspection prob needed.
+2018-09-26 17:53:19,596 - ufeindt - INFO - SALT fit fails for SN ZTF18abwnsoc. Manual inspection prob needed.
+2018-09-26 17:53:21,261 - ufeindt - INFO - SALT fit fails for SN ZTF18abxdkny. Manual inspection prob needed.
+2018-09-26 17:53:21,262 - ufeindt - INFO - SN ZTF18abvkhul classified with type SN Ia, skipping.
+2018-09-26 17:53:22,838 - ufeindt - INFO - SALT fit fails for SN ZTF18abwlpzf. Manual inspection prob needed.
+2018-09-26 17:53:24,411 - ufeindt - INFO - SALT fit fails for SN ZTF18abqdwze. Manual inspection prob needed.
+2018-09-26 17:53:26,071 - ufeindt - INFO - SALT fit fails for SN ZTF18abxumzx. Manual inspection prob needed.
+2018-09-26 17:53:27,791 - ufeindt - INFO - SN ZTF18abxfcql has too few filters for saltfit.
+2018-09-26 17:53:27,793 - ufeindt - INFO - SN ZTF18abtcdfv classified with type SN Ia, skipping.
+2018-09-26 17:53:27,795 - ufeindt - INFO - SN ZTF18absiymj classified with type SN Ia, skipping.
+2018-09-26 17:53:29,388 - ufeindt - INFO - SN ZTF18abylgru has too few filters for saltfit.
+2018-09-26 17:53:31,154 - ufeindt - INFO - SALT fit fails for SN ZTF18abvhasp. Manual inspection prob needed.
+2018-09-26 17:53:32,782 - ufeindt - INFO - SALT fit fails for SN ZTF18absmogv. Manual inspection prob needed.
+2018-09-26 17:53:34,412 - ufeindt - INFO - SALT fit fails for SN ZTF17aaaadqv. Manual inspection prob needed.
+2018-09-26 17:53:36,044 - ufeindt - INFO - SALT fit fails for SN ZTF18abbgdto. Manual inspection prob needed.
+2018-09-26 17:53:36,045 - ufeindt - INFO - SN ZTF18abdkkwa classified with type SN Ic, skipping.
+2018-09-26 17:53:37,674 - ufeindt - INFO - SALT fit fails for SN ZTF18abwfmot. Manual inspection prob needed.
+2018-09-26 17:53:39,339 - ufeindt - INFO - SALT fit fails for SN ZTF18absoomk. Manual inspection prob needed.
+2018-09-26 17:53:40,977 - ufeindt - INFO - SALT fit fails for SN ZTF18abvnwzz. Manual inspection prob needed.
+2018-09-26 17:59:11,244 - ufeindt - INFO - SALT fit fails for SN ZTF18aakgsmi. Manual inspection prob needed.
+2018-09-26 18:02:08,907 - ufeindt - INFO - SN ZTF18aasdted classified with type SN Ia, skipping.
+2018-09-26 18:02:11,162 - ufeindt - INFO - SN ZTF18aauvptt classified with type AGN, skipping.
+2018-09-26 18:02:25,775 - ufeindt - INFO - Not enugh good data for SN ZTF18ablviog. Manual inspection prob needed.
+2018-09-26 18:02:34,446 - ufeindt - INFO - SN ZTF18abmxfrc classified with type SN Ia, skipping.
+2018-09-26 18:02:36,182 - ufeindt - INFO - SN ZTF18abnxhmc classified with type SN Ia, skipping.
+2018-09-26 18:02:36,184 - ufeindt - INFO - SN ZTF18abnvnqb classified with type SN Ia, skipping.
+2018-09-26 18:02:36,184 - ufeindt - INFO - SN ZTF18abkxlcz classified with type SN Ia, skipping.
+2018-09-26 18:02:37,871 - ufeindt - INFO - SN ZTF18abmnvkx classified with type AGN, skipping.
+2018-09-26 18:02:37,872 - ufeindt - INFO - SN ZTF18aboaeqy classified with type SN Ia, skipping.
+2018-09-26 18:02:41,759 - ufeindt - INFO - Not enugh good data for SN ZTF18abmjayl. Manual inspection prob needed.
+2018-09-26 18:02:45,396 - ufeindt - INFO - Not enugh good data for SN ZTF18abmszpd. Manual inspection prob needed.
+2018-09-26 18:02:50,671 - ufeindt - INFO - SN ZTF18abntwvr has too few filters for saltfit.
+2018-09-26 18:03:06,254 - ufeindt - INFO - Not enugh good data for SN ZTF18abmadcc. Manual inspection prob needed.
+2018-09-26 18:03:07,826 - ufeindt - INFO - Not enugh good data for SN ZTF18ablrwlk. Manual inspection prob needed.
+2018-09-26 18:03:09,583 - ufeindt - INFO - Not enugh good data for SN ZTF18abmdfba. Manual inspection prob needed.
+2018-09-26 18:03:11,224 - ufeindt - INFO - Not enugh good data for SN ZTF18abmorft. Manual inspection prob needed.
+2018-09-26 18:03:12,907 - ufeindt - INFO - Not enugh good data for SN ZTF18abmpbjy. Manual inspection prob needed.
+2018-09-26 18:03:23,140 - ufeindt - INFO - SN ZTF18abmwuml has too few filters for saltfit.
+2018-09-26 18:03:24,766 - ufeindt - INFO - Not enugh good data for SN ZTF18abmnssw. Manual inspection prob needed.
+2018-09-26 18:03:33,151 - ufeindt - INFO - SN ZTF18abncqfx has too few filters for saltfit.
+2018-09-26 18:03:36,553 - ufeindt - INFO - Not enugh good data for SN ZTF18abnzgwe. Manual inspection prob needed.
+2018-09-26 18:03:42,235 - ufeindt - INFO - SN ZTF18abnucig classified with type SN Ia, skipping.
+2018-09-26 18:03:42,236 - ufeindt - INFO - SN ZTF18abglwpn classified with type AGN, skipping.
+2018-09-26 18:03:42,236 - ufeindt - INFO - SN ZTF18abmaewl classified with type SN Ia, skipping.
+2018-09-26 18:03:44,105 - ufeindt - INFO - SN ZTF18ablwafp classified with type SLSN-I?, skipping.
+2018-09-26 18:03:44,106 - ufeindt - INFO - SN ZTF18abmjcbs classified with type SN Ia, skipping.
+2018-09-26 18:03:47,641 - ufeindt - INFO - SN ZTF18abncimo classified with type SN Ia, skipping.
+2018-09-26 18:03:47,643 - ufeindt - INFO - SN ZTF18abnygkb classified with type SN Ia, skipping.
+2018-09-26 18:03:49,619 - ufeindt - INFO - SN ZTF18abnvoel classified with type SN Ia, skipping.
+2018-09-26 18:03:51,273 - ufeindt - INFO - Not enugh good data for SN ZTF18aboqvfa. Manual inspection prob needed.
+2018-09-26 18:03:53,119 - ufeindt - INFO - Not enugh good data for SN ZTF18aborbhi. Manual inspection prob needed.
+2018-09-26 18:03:54,795 - ufeindt - INFO - SN ZTF18aborkxd has too few filters for saltfit.
+2018-09-26 18:03:56,362 - ufeindt - INFO - SN ZTF18aborkox has too few filters for saltfit.
+2018-09-26 18:03:58,231 - ufeindt - INFO - Not enugh good data for SN ZTF18abmkbqo. Manual inspection prob needed.
+2018-09-26 18:04:01,722 - ufeindt - INFO - SN ZTF18abotaki has too few filters for saltfit.
+2018-09-26 18:04:03,843 - ufeindt - INFO - SN ZTF18abpavnx has too few filters for saltfit.
+2018-09-26 18:04:03,844 - ufeindt - INFO - SN ZTF18abpaywm classified with type SN Ia, skipping.
+2018-09-26 18:04:03,845 - ufeindt - INFO - SN ZTF18aboztta classified with type SN Ia, skipping.
+2018-09-26 18:04:03,852 - ufeindt - INFO - SN ZTF18abmwpyl classified with type SN Ia, skipping.
+2018-09-26 18:04:03,854 - ufeindt - INFO - SN ZTF18abpttky classified with type SN Ia, skipping.
+2018-09-26 18:04:05,519 - ufeindt - INFO - Not enugh good data for SN ZTF18abanjoi. Manual inspection prob needed.
+2018-09-26 18:04:07,368 - ufeindt - INFO - SN ZTF18abnuhuy classified with type AGN, skipping.
+2018-09-26 18:04:07,371 - ufeindt - INFO - SN ZTF18abrlupd classified with type SN Ia, skipping.
+2018-09-26 18:04:09,171 - ufeindt - INFO - SN ZTF18abmskzu has too few filters for saltfit.
+2018-09-26 18:04:13,010 - ufeindt - INFO - SN ZTF18abqbuaj classified with type SN Ibn, skipping.
+2018-09-26 18:04:13,011 - ufeindt - INFO - SN ZTF18abqboud classified with type CV, skipping.
+2018-09-26 18:04:13,012 - ufeindt - INFO - SN ZTF18abqlpgq classified with type SN Ia, skipping.
+2018-09-26 18:04:13,013 - ufeindt - INFO - SN ZTF18abqbavl classified with type SN Ia, skipping.
+2018-09-26 18:04:13,017 - ufeindt - INFO - SN ZTF18abqdadp classified with type SN Ia, skipping.
+2018-09-26 18:04:17,032 - ufeindt - INFO - SN ZTF18abrwudp classified with type SN Ia, skipping.
+2018-09-26 18:04:23,006 - ufeindt - INFO - SN ZTF18abqjvyl classified with type SN Ia, skipping.
+2018-09-26 18:04:24,518 - ufeindt - INFO - SN ZTF18abpaori has too few filters for saltfit.
+2018-09-26 18:04:27,422 - ufeindt - INFO - SN ZTF18abolvoh classified with type SN Ia, skipping.
+2018-09-26 18:04:31,963 - ufeindt - INFO - SN ZTF18abrzevz classified with type SN Ia, skipping.
+2018-09-26 18:04:31,964 - ufeindt - INFO - SN ZTF18abqyvzy classified with type SN II, skipping.
+2018-09-26 18:04:31,965 - ufeindt - INFO - SN ZTF18absbsoz classified with type SN Ia, skipping.
+2018-09-26 18:04:31,966 - ufeindt - INFO - SN ZTF18ablvime classified with type SN Ia, skipping.
+2018-09-26 18:04:33,813 - ufeindt - INFO - SN ZTF18absdxpk classified with type SN Ia, skipping.
+2018-09-26 18:04:33,814 - ufeindt - INFO - SN ZTF18absliyc classified with type SN Ia pec, skipping.
+2018-09-26 18:04:35,851 - ufeindt - INFO - SN ZTF18absldfl classified with type SN II, skipping.
+2018-09-26 18:04:43,785 - ufeindt - INFO - SN ZTF18abotcjv classified with type SN Ia, skipping.
+2018-09-26 18:04:43,786 - ufeindt - INFO - SN ZTF18abnysyy classified with type SN Ia, skipping.
+2018-09-26 18:04:45,943 - ufeindt - INFO - SN ZTF18abshezu classified with type SLSN-I, skipping.
+2018-09-26 18:04:45,945 - ufeindt - INFO - SN ZTF18abryewg classified with type SN Ia 91T-like, skipping.
+2018-09-26 18:04:45,947 - ufeindt - INFO - SN ZTF18abssukb classified with type SN Ia, skipping.
+2018-09-26 18:04:45,956 - ufeindt - INFO - SN ZTF18absdjms classified with type SN Ia, skipping.
+2018-09-26 18:05:11,662 - ufeindt - INFO - SN ZTF18absumwc has too few filters for saltfit.
+2018-09-26 18:05:20,904 - ufeindt - INFO - SN ZTF18abukmty classified with type SN Ia, skipping.
+2018-09-26 18:05:22,597 - ufeindt - INFO - SN ZTF18abvbayb classified with type SN Ia, skipping.
+2018-09-26 18:05:24,262 - ufeindt - INFO - SN ZTF18abuhiaj has too few filters for saltfit.
+2018-09-26 18:05:24,264 - ufeindt - INFO - SN ZTF18abqapch classified with type SN Ia, skipping.
+2018-09-26 18:05:26,448 - ufeindt - INFO - SN ZTF18abuiknd classified with type SN Ia, skipping.
+2018-09-26 18:05:29,964 - ufeindt - INFO - SN ZTF18abslxhz classified with type SN Ia, skipping.
+2018-09-26 18:05:32,217 - ufeindt - INFO - SN ZTF18abwdcdv classified with type SN Ia, skipping.
+2018-09-26 18:05:37,343 - ufeindt - INFO - SN ZTF18abwclem has too few filters for saltfit.
+2018-09-26 18:05:44,492 - ufeindt - INFO - SN ZTF18abwlonm has too few filters for saltfit.
+2018-09-26 18:05:49,669 - ufeindt - INFO - SN ZTF18abwbaim has too few filters for saltfit.
+2018-09-26 18:05:55,577 - ufeindt - INFO - SN ZTF18abwxhjo has too few filters for saltfit.
+2018-09-26 18:05:55,580 - ufeindt - INFO - SN ZTF18abucvbf classified with type SN Ia, skipping.
+2018-09-26 18:05:57,405 - ufeindt - INFO - SN ZTF18abwlopg has too few filters for saltfit.
+2018-09-26 18:06:11,251 - ufeindt - INFO - SN ZTF18abvkhul classified with type SN Ia, skipping.
+2018-09-26 18:06:18,030 - ufeindt - INFO - SN ZTF18abxfcql has too few filters for saltfit.
+2018-09-26 18:06:18,031 - ufeindt - INFO - SN ZTF18abtcdfv classified with type SN Ia, skipping.
+2018-09-26 18:06:18,033 - ufeindt - INFO - SN ZTF18absiymj classified with type SN Ia, skipping.
+2018-09-26 18:06:19,824 - ufeindt - INFO - SN ZTF18abylgru has too few filters for saltfit.
+2018-09-26 18:06:27,551 - ufeindt - INFO - SN ZTF18abdkkwa classified with type SN Ic, skipping.
+2018-09-26 18:08:07,126 - ufeindt - INFO - ZTF18aakgsmi Faded too much while waiting. Call P200 or Keck?
+2018-09-26 18:08:13,542 - ufeindt - INFO - Get SN ZTF18aaupjtd if we can.
+2018-09-26 18:08:18,417 - ufeindt - INFO - ZTF18abmwzws Faded too much while waiting. Call P200 or Keck?
+2018-09-26 18:08:27,203 - ufeindt - INFO - Too little data of ZTF18abddhaa, skip. 
+2018-09-26 18:08:30,482 - ufeindt - INFO - Too little data of ZTF18abddgzz, skip. 
+2018-09-26 18:08:40,760 - ufeindt - INFO - Object ZTF18abgucjb most likely not SNIa. 
+2018-09-26 18:08:46,061 - ufeindt - INFO - Object ZTF18ablvpuj most likely not SNIa. 
+2018-09-26 18:08:48,596 - ufeindt - INFO - Object ZTF18ablqqeb most likely not SNIa. 
+2018-09-26 18:08:52,732 - ufeindt - INFO - ZTF18ablllyw Faded too much while waiting. Call P200 or Keck?
+2018-09-26 18:08:55,942 - ufeindt - INFO - Object ZTF18ablwwwb most likely not SNIa. 
+2018-09-26 18:08:58,165 - ufeindt - INFO - Object ZTF18ablowct most likely not SNIa. 
+2018-09-26 18:09:08,610 - ufeindt - INFO - Object ZTF18abmjzjq most likely not SNIa. 
+2018-09-26 18:09:11,206 - ufeindt - INFO - Object ZTF18abokvkt most likely not SNIa. 
+2018-09-26 18:09:17,574 - ufeindt - INFO - ZTF18aboivnq Faded too much while waiting. Call P200 or Keck?
+2018-09-26 18:09:28,696 - ufeindt - INFO - ZTF18abnblil Faded too much while waiting. Call P200 or Keck?
+2018-09-26 18:09:32,496 - ufeindt - INFO - Too little data of ZTF18ablovvu, skip. 
+2018-09-26 18:09:35,513 - ufeindt - INFO - Too little data of ZTF18abmacke, skip. 
+2018-09-26 18:11:26,995 - ufeindt - INFO - Object ZTF18aayhpph most likely not SNIa. 
+2018-09-26 18:11:30,861 - ufeindt - INFO - ZTF18abmrqmv Faded too much while waiting. Call P200 or Keck?
+2018-09-26 18:11:33,686 - ufeindt - INFO - Too little data of ZTF18abmdxst, skip. 
+2018-09-26 18:12:04,743 - ufeindt - INFO - Object ZTF17aaaafcd most likely not SNIa. 
+2018-09-26 18:12:08,137 - ufeindt - INFO - ZTF18ablxhtc Faded too much while waiting. Call P200 or Keck?
+2018-09-26 18:12:10,564 - ufeindt - INFO - ZTF18abcqvhs Faded too much while waiting. Call P200 or Keck?
+2018-09-26 18:12:12,841 - ufeindt - INFO - ZTF18ablxjic Faded too much while waiting. Call P200 or Keck?
+2018-09-26 18:12:16,285 - ufeindt - INFO - Too little data of ZTF18abmmxpg, skip. 
+2018-09-26 18:12:19,306 - ufeindt - INFO - Too little data of ZTF18ablpztl, skip. 
+2018-09-26 18:12:25,396 - ufeindt - INFO - Too little data of ZTF18ablskwf, skip. 
+2018-09-26 18:12:27,905 - ufeindt - INFO - I want to scan some more, go back!
+2018-09-26 18:12:29,359 - ufeindt - INFO - ZTF18ablskwf Faded too much while waiting. Call P200 or Keck?
+2018-09-26 18:12:37,840 - ufeindt - INFO - Too little data of ZTF18ablvibs, skip. 
+2018-09-26 18:12:41,317 - ufeindt - INFO - Too little data of ZTF18abnunsl, skip. 
+2018-09-26 18:12:47,075 - ufeindt - INFO - ZTF18abnujuy Faded too much while waiting. Call P200 or Keck?
+2018-09-26 18:12:57,473 - ufeindt - INFO - I want to scan some more, go back!
+2018-09-26 18:13:03,250 - ufeindt - INFO - Object ZTF18abnujuy most likely not SNIa. 
+2018-09-26 18:13:07,904 - ufeindt - INFO - Too little data of ZTF18abnpbjv, skip. 
+2018-09-26 18:13:12,026 - ufeindt - INFO - Too little data of ZTF18abnudmu, skip. 
+2018-09-26 18:13:14,466 - ufeindt - INFO - Too little data of ZTF18abobtul, skip. 
+2018-09-26 18:13:17,406 - ufeindt - INFO - Too little data of ZTF18aboqwkr, skip. 
+2018-09-26 18:13:22,232 - ufeindt - INFO - Too little data of ZTF18abmkdun, skip. 
+2018-09-26 18:13:24,928 - ufeindt - INFO - Too little data of ZTF18abnbhpu, skip. 
+2018-09-26 18:13:26,789 - ufeindt - INFO - Too little data of ZTF18abmnbne, skip. 
+2018-09-26 18:13:29,427 - ufeindt - INFO - Too little data of ZTF18abmkaca, skip. 
+2018-09-26 18:13:31,209 - ufeindt - INFO - Too little data of ZTF18abnvzah, skip. 
+2018-09-26 18:13:35,886 - ufeindt - INFO - Object ZTF18abnnnzk most likely not SNIa. 
+2018-09-26 18:13:38,035 - ufeindt - INFO - Too little data of ZTF18abpudlt, skip. 
+2018-09-26 18:13:39,727 - ufeindt - INFO - Too little data of ZTF18abnujcx, skip. 
+2018-09-26 18:13:46,749 - ufeindt - INFO - Object ZTF18abqbdcd most likely not SNIa. 
+2018-09-26 18:13:54,407 - ufeindt - INFO - Object ZTF18aaovssm most likely not SNIa. 
+2018-09-26 18:14:01,552 - ufeindt - INFO - Get SN ZTF18ablruzq if we can.
+2018-09-26 18:14:04,892 - ufeindt - INFO - Too little data of ZTF18ablwtla, skip. 
+2018-09-26 18:14:07,051 - ufeindt - INFO - Too little data of ZTF18abglikj, skip. 
+2018-09-26 18:14:15,478 - ufeindt - INFO - ZTF18abrwswl Faded too much while waiting. Call P200 or Keck?
+2018-09-26 18:14:43,612 - ufeindt - INFO - Too little data of ZTF18ablrmnj, skip. 
+2018-09-26 18:14:47,483 - ufeindt - INFO - Too little data of ZTF18abrxwon, skip. 
+2018-09-26 18:14:49,699 - ufeindt - INFO - Too little data of ZTF18abqcyqv, skip. 
+2018-09-26 18:14:52,169 - ufeindt - INFO - Too little data of ZTF18abrzuqw, skip. 
+2018-09-26 18:15:19,894 - ufeindt - INFO - ZTF18abptskn Faded too much while waiting. Call P200 or Keck?
+2018-09-26 18:15:27,989 - ufeindt - INFO - Object ZTF18aayejrb most likely not SNIa. 
+2018-09-26 18:15:31,505 - ufeindt - INFO - Object ZTF18abrwwlv most likely not SNIa. 
+2018-09-26 18:15:34,292 - ufeindt - INFO - Too little data of ZTF18absdeij, skip. 
+2018-09-26 18:15:53,992 - ufeindt - INFO - ZTF18abscygs Faded too much while waiting. Call P200 or Keck?
+2018-09-26 18:15:57,384 - ufeindt - INFO - Too little data of ZTF18ablmduj, skip. 
+2018-09-26 18:16:03,339 - ufeindt - INFO - Too little data of ZTF18ablhsgt, skip. 
+2018-09-26 18:16:11,975 - ufeindt - INFO - Too little data of ZTF18abnorzb, skip. 
+2018-09-26 18:16:14,665 - ufeindt - INFO - Too little data of ZTF18abottbj, skip. 
+2018-09-26 18:16:17,504 - ufeindt - INFO - Too little data of ZTF18absqsey, skip. 
+2018-09-26 18:16:22,591 - ufeindt - INFO - Object ZTF18absloer most likely not SNIa. 
+2018-09-26 18:16:28,154 - ufeindt - INFO - Object ZTF18abtkctg most likely not SNIa. 
+2018-09-26 18:16:32,269 - ufeindt - INFO - Object ZTF18abklshn most likely not SNIa. 
+2018-09-26 18:16:45,977 - ufeindt - INFO - Get SN ZTF18abthaii if we can.
+2018-09-26 18:16:53,506 - ufeindt - INFO - Get SN ZTF18absnsqx if we can.
+2018-09-26 18:17:00,045 - ufeindt - INFO - Nice looking likely SN ZTF18abrwrch.
+2018-09-26 18:17:13,837 - ufeindt - INFO - Nice looking likely SN ZTF18abtogdl.
+2018-09-26 18:17:18,246 - ufeindt - INFO - Nice looking likely SN ZTF18abuicad.
+2018-09-26 18:17:31,825 - ufeindt - INFO - Too little data of ZTF18absmqmw, skip. 
+2018-09-26 18:17:37,133 - ufeindt - INFO - Get SN ZTF18absbspk if we can.
+2018-09-26 18:17:57,122 - ufeindt - INFO - Get SN ZTF18abuluko if we can.
+2018-09-26 18:18:00,648 - ufeindt - INFO - Too little data of ZTF18abmwxvv, skip. 
+2018-09-26 18:18:08,702 - ufeindt - INFO - Get SN ZTF18abtghbi if we can.
+2018-09-26 18:18:14,934 - ufeindt - INFO - Nice looking likely SN ZTF18abtswjk.
+2018-09-26 18:18:31,340 - ufeindt - INFO - Get SN ZTF18aburkuo if we can.
+2018-09-26 18:18:54,981 - ufeindt - INFO - Nice looking likely SN ZTF18abuksxd.
+2018-09-26 18:19:00,137 - ufeindt - INFO - Nice looking likely SN ZTF18abtxvhy.
+2018-09-26 18:19:04,762 - ufeindt - INFO - Object ZTF18abvnqqk most likely not SNIa. 
+2018-09-26 18:19:09,487 - ufeindt - INFO - Nice looking likely SN ZTF18abuioue.
+2018-09-26 18:19:13,554 - ufeindt - INFO - Get SN ZTF18abvvqtf if we can.
+2018-09-26 18:19:19,429 - ufeindt - INFO - Object ZTF18abwntpz most likely not SNIa. 
+2018-09-26 18:19:23,698 - ufeindt - INFO - Too little data of ZTF18aabhooi, skip. 
+2018-09-26 18:19:28,311 - ufeindt - INFO - Nice looking likely SN ZTF18abwtops.
+2018-09-26 18:19:31,557 - ufeindt - INFO - Too little data of ZTF18abwblyl, skip. 
+2018-09-26 18:19:33,615 - ufeindt - INFO - Too little data of ZTF18abwqgsc, skip. 
+2018-09-26 18:19:35,369 - ufeindt - INFO - Too little data of ZTF18abtywgf, skip. 
+2018-09-26 18:19:40,694 - ufeindt - INFO - Nice looking likely SN ZTF18abucflq.
+2018-09-26 18:19:44,800 - ufeindt - INFO - Too little data of ZTF18abvrgjc, skip. 
+2018-09-26 18:19:49,353 - ufeindt - INFO - Get SN ZTF18abwkxgo if we can.
+2018-09-26 18:19:57,256 - ufeindt - INFO - Get SN ZTF18abxygvv if we can.
+2018-09-26 18:20:00,931 - ufeindt - INFO - Get SN ZTF18abwlejr if we can.
+2018-09-26 18:20:04,384 - ufeindt - INFO - Too little data of ZTF18abwkhdc, skip. 
+2018-09-26 18:20:27,954 - ufeindt - INFO - Get SN ZTF18abwnsoc if we can.
+2018-09-26 18:20:30,994 - ufeindt - INFO - Get SN ZTF18abxdkny if we can.
+2018-09-26 18:20:32,999 - ufeindt - INFO - I want to scan some more, go back!
+2018-09-26 18:20:34,406 - ufeindt - INFO - Nice looking likely SN ZTF18abxdkny.
+2018-09-26 18:20:45,631 - ufeindt - INFO - Nice looking likely SN ZTF18abwlpzf.
+2018-09-26 18:20:51,871 - ufeindt - INFO - ZTF18abqdwze Faded too much while waiting. Call P200 or Keck?
+2018-09-26 18:20:54,766 - ufeindt - INFO - Too little data of ZTF18abxumzx, skip. 
+2018-09-26 18:20:58,901 - ufeindt - INFO - ZTF18abvhasp Faded too much while waiting. Call P200 or Keck?
+2018-09-26 18:21:03,319 - ufeindt - INFO - Object ZTF18absmogv most likely not SNIa. 
+2018-09-26 18:21:08,093 - ufeindt - INFO - Object ZTF17aaaadqv most likely not SNIa. 
+2018-09-26 18:21:10,121 - ufeindt - INFO - Object ZTF18abbgdto most likely not SNIa. 
+2018-09-26 18:21:12,934 - ufeindt - INFO - Object ZTF18abwfmot most likely not SNIa. 
+2018-09-26 18:21:17,633 - ufeindt - INFO - ZTF18absoomk Faded too much while waiting. Call P200 or Keck?
+2018-09-26 18:21:22,465 - ufeindt - INFO - Object ZTF18abvnwzz most likely not SNIa. 
+2018-09-26 18:21:29,843 - ufeindt - INFO - Adding ZTF18aaupjtd to obs queue with setting Possibly.
+2018-09-26 18:21:29,847 - ufeindt - INFO - Adding ZTF18ablruzq to obs queue with setting Possibly.
+2018-09-26 18:21:29,848 - ufeindt - INFO - ZTF18abthaii already in obs queue. Adding with setting Possibly.
+2018-09-26 18:21:29,850 - ufeindt - INFO - ZTF18absnsqx already in obs queue. Adding with setting Possibly.
+2018-09-26 18:21:29,860 - ufeindt - INFO - ZTF18abrwrch already in obs queue. Adding with setting VeryGood.
+2018-09-26 18:21:29,865 - ufeindt - INFO - ZTF18abtogdl already in obs queue. Adding with setting VeryGood.
+2018-09-26 18:21:29,867 - ufeindt - INFO - ZTF18abuicad already in obs queue. Adding with setting VeryGood.
+2018-09-26 18:21:29,870 - ufeindt - INFO - ZTF18absbspk already in obs queue. Adding with setting Possibly.
+2018-09-26 18:21:29,872 - ufeindt - INFO - ZTF18abuluko already in obs queue. Adding with setting Possibly.
+2018-09-26 18:21:29,874 - ufeindt - INFO - ZTF18abtghbi already in obs queue. Adding with setting Possibly.
+2018-09-26 18:21:29,880 - ufeindt - INFO - ZTF18abtswjk already in obs queue. Adding with setting VeryGood.
+2018-09-26 18:21:29,881 - ufeindt - INFO - ZTF18aburkuo already in obs queue. Adding with setting Possibly.
+2018-09-26 18:21:29,883 - ufeindt - INFO - ZTF18abuksxd already in obs queue. Adding with setting VeryGood.
+2018-09-26 18:21:29,884 - ufeindt - INFO - Adding ZTF18abtxvhy to obs queue with setting VeryGood.
+2018-09-26 18:21:29,885 - ufeindt - INFO - ZTF18abuioue already in obs queue. Adding with setting VeryGood.
+2018-09-26 18:21:29,886 - ufeindt - INFO - ZTF18abvvqtf already in obs queue. Adding with setting Possibly.
+2018-09-26 18:21:29,887 - ufeindt - INFO - ZTF18abwtops already in obs queue. Adding with setting VeryGood.
+2018-09-26 18:21:29,888 - ufeindt - INFO - ZTF18abucflq already in obs queue. Adding with setting VeryGood.
+2018-09-26 18:21:29,889 - ufeindt - INFO - ZTF18abwkxgo already in obs queue. Adding with setting Possibly.
+2018-09-26 18:21:29,890 - ufeindt - INFO - ZTF18abxygvv already in obs queue. Adding with setting Possibly.
+2018-09-26 18:21:29,891 - ufeindt - INFO - ZTF18abwlejr already in obs queue. Adding with setting Possibly.
+2018-09-26 18:21:29,892 - ufeindt - INFO - ZTF18abwnsoc already in obs queue. Adding with setting Possibly.
+2018-09-26 18:21:29,893 - ufeindt - INFO - ZTF18abxdkny already in obs queue. Adding with setting VeryGood.
+2018-09-26 18:21:29,894 - ufeindt - INFO - ZTF18abwlpzf already in obs queue. Adding with setting VeryGood.
+2018-09-26 18:21:46,994 - ufeindt - INFO - ZTF18abwlpzf could be Cosmology SEDM target? peakmag 19.28 recentmag 19.84.
+2018-09-26 18:21:48,621 - ufeindt - INFO - ZTF18abwlpzf could be Cosmology SEDM target? peakmag 18.9 recentmag 19.7275.
+2018-09-26 18:21:50,168 - ufeindt - INFO - ZTF18abwlpzf could be RCF target? peakmag 18.27 recentmag 19.217142857142854.
+2018-09-26 18:21:53,583 - ufeindt - INFO - ZTF18abwlpzf could be Cosmology SEDM target? peakmag 19.2 recentmag 19.41.
+2018-09-26 18:21:55,743 - ufeindt - INFO - ZTF18abwlpzf could be Cosmology SEDM target? peakmag 19.39 recentmag 19.93.
+2018-09-26 18:21:57,487 - ufeindt - INFO - ZTF18abwlpzf could be Cosmology SEDM target? peakmag 18.76 recentmag 18.964000000000002.
+2018-09-26 18:21:59,010 - ufeindt - INFO - ZTF18abwlpzf could be Cosmology SEDM target? peakmag 19.29 recentmag 19.354999999999997.
+2018-09-26 18:22:02,609 - ufeindt - INFO - ZTF18abwlpzf could be Cosmology SEDM target? peakmag 19.34 recentmag 19.34.
+2018-09-26 18:22:07,838 - ufeindt - INFO - ZTF18abwlpzf could be Cosmology SEDM target? peakmag 19.46 recentmag 19.675.
+2018-09-26 18:22:09,568 - ufeindt - INFO - ZTF18abwlpzf could be Cosmology SEDM target? peakmag 19.22 recentmag 19.436111111111114.
+2018-09-26 18:22:11,731 - ufeindt - INFO - ZTF18abwlpzf could be Cosmology SEDM target? peakmag 19.18 recentmag 19.236666666666668.
+2018-09-26 18:22:13,333 - ufeindt - INFO - ZTF18abwlpzf could be Cosmology SEDM target? peakmag 19.13 recentmag 19.2.
+2018-09-26 18:22:17,777 - ufeindt - INFO - ZTF18abwlpzf could be Cosmology SEDM target? peakmag 19.26 recentmag 19.41294117647059.
+2018-09-26 18:22:26,057 - ufeindt - INFO - ZTF18abwlpzf could be Cosmology SEDM target? peakmag 19.11 recentmag 19.1475.
+2018-09-26 18:22:36,252 - ufeindt - INFO - ZTF18abwlpzf could be Cosmology SEDM target? peakmag 19.37 recentmag 19.450000000000003.
+2018-09-26 18:22:37,843 - ufeindt - INFO - ZTF18abwlpzf could be Cosmology SEDM target? peakmag 18.84 recentmag 19.172448979591834.
+2018-09-26 18:22:39,516 - ufeindt - INFO - ZTF18abwlpzf could be Cosmology SEDM target? peakmag 19.07 recentmag 19.439999999999998.
+2018-09-26 18:22:46,768 - ufeindt - INFO - ZTF18abwlpzf could be Cosmology SEDM target? peakmag 19.0 recentmag 19.234482758620693.
+2018-09-26 18:22:50,181 - ufeindt - INFO - ZTF18abwlpzf could be Cosmology SEDM target? peakmag 18.99 recentmag 19.18166666666667.
+2018-09-26 18:22:51,947 - ufeindt - INFO - ZTF18abwlpzf could be Cosmology SEDM target? peakmag 18.73 recentmag 19.18217391304348.
+2018-09-26 18:23:03,569 - ufeindt - INFO - ZTF18abwlpzf could be RCF target? peakmag 18.37 recentmag 18.753333333333334.
+2018-09-26 18:23:05,664 - ufeindt - INFO - ZTF18abwlpzf could be Cosmology SEDM target? peakmag 19.08 recentmag 19.284285714285716.
+2018-09-26 18:23:13,774 - ufeindt - INFO - ZTF18abwlpzf could be RCF target? peakmag 17.53 recentmag 17.53.
+2018-09-26 18:23:16,309 - ufeindt - INFO - ZTF18abwlpzf could be Cosmology SEDM target? peakmag 19.03 recentmag 19.676666666666666.
+2018-09-26 18:23:24,314 - ufeindt - INFO - ZTF18abwlpzf could be RCF target? peakmag 17.99 recentmag 18.6.
+2018-09-26 18:23:31,239 - ufeindt - INFO - ZTF18abwlpzf could be Cosmology SEDM target? peakmag 18.99 recentmag 19.23148148148148.
+2018-09-26 18:24:02,403 - ufeindt - INFO - ZTF18abwlpzf could be RCF target? peakmag 18.18 recentmag 18.33.
+2018-09-26 18:25:35,938 - ufeindt - INFO - ZTF18abwlpzf could be Cosmology SEDM target? peakmag 19.28 recentmag 19.84.
+2018-09-26 18:25:36,019 - ufeindt - INFO - ZTF18abwlpzf could be Cosmology SEDM target? peakmag 18.9 recentmag 19.7275.
+2018-09-26 18:25:36,041 - ufeindt - INFO - ZTF18abwlpzf could be RCF target? peakmag 18.27 recentmag 19.217142857142854.
+2018-09-26 18:25:36,077 - ufeindt - INFO - ZTF18abwlpzf could be Cosmology SEDM target? peakmag 19.2 recentmag 19.41.
+2018-09-26 18:25:36,089 - ufeindt - INFO - ZTF18abwlpzf could be Cosmology SEDM target? peakmag 19.39 recentmag 19.93.
+2018-09-26 18:25:36,095 - ufeindt - INFO - ZTF18abwlpzf could be Cosmology SEDM target? peakmag 18.76 recentmag 18.964000000000002.
+2018-09-26 18:25:36,102 - ufeindt - INFO - ZTF18abwlpzf could be Cosmology SEDM target? peakmag 19.29 recentmag 19.354999999999997.
+2018-09-26 18:25:36,110 - ufeindt - INFO - ZTF18abwlpzf could be Cosmology SEDM target? peakmag 19.34 recentmag 19.34.
+2018-09-26 18:25:36,123 - ufeindt - INFO - ZTF18abwlpzf could be Cosmology SEDM target? peakmag 19.46 recentmag 19.675.
+2018-09-26 18:25:36,127 - ufeindt - INFO - ZTF18abwlpzf could be Cosmology SEDM target? peakmag 19.22 recentmag 19.436111111111114.
+2018-09-26 18:25:36,132 - ufeindt - INFO - ZTF18abwlpzf could be Cosmology SEDM target? peakmag 19.18 recentmag 19.236666666666668.
+2018-09-26 18:25:36,138 - ufeindt - INFO - ZTF18abwlpzf could be Cosmology SEDM target? peakmag 19.13 recentmag 19.2.
+2018-09-26 18:25:36,143 - ufeindt - INFO - ZTF18abwlpzf could be Cosmology SEDM target? peakmag 19.26 recentmag 19.41294117647059.
+2018-09-26 18:25:36,158 - ufeindt - INFO - ZTF18abwlpzf could be Cosmology SEDM target? peakmag 19.11 recentmag 19.1475.
+2018-09-26 18:25:36,168 - ufeindt - INFO - ZTF18abwlpzf could be Cosmology SEDM target? peakmag 19.37 recentmag 19.450000000000003.
+2018-09-26 18:25:36,173 - ufeindt - INFO - ZTF18abwlpzf could be Cosmology SEDM target? peakmag 18.84 recentmag 19.172448979591834.
+2018-09-26 18:25:36,179 - ufeindt - INFO - ZTF18abwlpzf could be Cosmology SEDM target? peakmag 19.07 recentmag 19.439999999999998.
+2018-09-26 18:25:36,184 - ufeindt - INFO - ZTF18abwlpzf could be Cosmology SEDM target? peakmag 19.0 recentmag 19.234482758620693.
+2018-09-26 18:25:36,194 - ufeindt - INFO - ZTF18abwlpzf could be Cosmology SEDM target? peakmag 18.99 recentmag 19.18166666666667.
+2018-09-26 18:25:36,200 - ufeindt - INFO - ZTF18abwlpzf could be Cosmology SEDM target? peakmag 18.73 recentmag 19.18217391304348.
+2018-09-26 18:25:36,206 - ufeindt - INFO - ZTF18abwlpzf could be RCF target? peakmag 18.37 recentmag 18.753333333333334.
+2018-09-26 18:25:36,212 - ufeindt - INFO - ZTF18abwlpzf could be Cosmology SEDM target? peakmag 19.08 recentmag 19.284285714285716.
+2018-09-26 18:25:36,219 - ufeindt - INFO - ZTF18abwlpzf could be RCF target? peakmag 17.53 recentmag 17.53.
+2018-09-26 18:25:36,228 - ufeindt - INFO - ZTF18abwlpzf could be Cosmology SEDM target? peakmag 19.03 recentmag 19.676666666666666.
+2018-09-26 18:25:36,241 - ufeindt - INFO - ZTF18abwlpzf could be RCF target? peakmag 17.99 recentmag 18.6.
+2018-09-26 18:25:36,266 - ufeindt - INFO - ZTF18abwlpzf could be Cosmology SEDM target? peakmag 18.99 recentmag 19.23148148148148.
+2018-09-26 18:25:36,284 - ufeindt - INFO - ZTF18abwlpzf could be RCF target? peakmag 18.18 recentmag 18.33.

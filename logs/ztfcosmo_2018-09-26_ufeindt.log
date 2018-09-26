@@ -1,0 +1,148 @@
+2018-09-26 17:12:53,904 - ufeindt - INFO - Cutting down alert info to subset with nrefframes keyword
+2018-09-26 17:13:02,186 - ufeindt - INFO - There were 185 candidates reported 2018-09-26
+2018-09-26 17:13:04,648 - ufeindt - INFO - Out of these 44 already have Marshal type and will be skipped.
+2018-09-26 17:13:08,653 - ufeindt - INFO - 11 have a catalog z larger than 0.1  and will be skipped.
+2018-09-26 17:13:10,737 - ufeindt - INFO - Detected 21 already saved candidates and 109 new
+2018-09-26 17:13:18,975 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abywgcs, never reached limit 19.5
+2018-09-26 17:13:18,993 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abyvccs, less than 5 detections
+2018-09-26 17:13:18,997 - ufeindt - INFO - 2018-09-26: Skipping ZTF18ablcwde, less than 5 detections
+2018-09-26 17:13:19,001 - ufeindt - INFO - 2018-09-26: Skipping ZTF18aabrtpy, less than 5 detections
+2018-09-26 17:13:19,013 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abuzxek, only 1 filters
+2018-09-26 17:13:19,017 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abgzylm, never reached limit 19.5
+2018-09-26 17:13:19,027 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abytsmi, less than 5 detections
+2018-09-26 17:13:19,038 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abhpdpk, never reached limit 19.5
+2018-09-26 17:13:19,045 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abehrdw, less than 5 detections
+2018-09-26 17:13:19,053 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abuclli, less than 5 detections
+2018-09-26 17:13:19,057 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abtcdfv, never reached limit 19.5
+2018-09-26 17:13:19,066 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abwusgl, less than 5 detections
+2018-09-26 17:13:19,087 - ufeindt - INFO - 2018-09-26: Skipping ZTF18aawrbuc, never reached limit 19.5
+2018-09-26 17:13:19,101 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abaaeip, never reached limit 19.5
+2018-09-26 17:13:19,107 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abxbwwf, less than 5 detections
+2018-09-26 17:13:19,117 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abujiho, only 1 filters
+2018-09-26 17:13:19,126 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abxybvx, never reached limit 19.5
+2018-09-26 17:13:19,137 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abyymsl, never reached limit 19.5
+2018-09-26 17:13:19,139 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abkmfaj, never reached limit 19.5
+2018-09-26 17:13:19,148 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abyyhsf, less than 5 detections
+2018-09-26 17:13:19,157 - ufeindt - INFO - 2018-09-26: Skipping ZTF18aaxugta, never reached limit 19.5
+2018-09-26 17:13:19,166 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abrwqze, never reached limit 19.5
+2018-09-26 17:13:19,205 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abymobs, less than 5 detections
+2018-09-26 17:13:19,217 - ufeindt - INFO - 2018-09-26: Skipping ZTF18aaimsgg, only 1 filters
+2018-09-26 17:13:19,222 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abihjwv, never reached limit 19.5
+2018-09-26 17:13:19,229 - ufeindt - INFO - 2018-09-26: Skipping ZTF18aamhnti, only 1 filters
+2018-09-26 17:13:19,263 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abyenql, less than 5 detections
+2018-09-26 17:13:19,270 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abvcrsv, only 1 filters
+2018-09-26 17:13:19,280 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abywfme, less than 5 detections
+2018-09-26 17:13:19,291 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abvgjft, less than 5 detections
+2018-09-26 17:13:19,303 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abxqdlm, less than 5 detections
+2018-09-26 17:13:19,322 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abzosnn, never reached limit 19.5
+2018-09-26 17:13:19,329 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abwpddc, less than 5 detections
+2018-09-26 17:13:19,343 - ufeindt - INFO - 2018-09-26: Skipping ZTF18aburkuo, never reached limit 19.5
+2018-09-26 17:13:19,360 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abcrcmn, only 1 filters
+2018-09-26 17:13:19,372 - ufeindt - INFO - 2018-09-26: Skipping ZTF18aazunkw, never reached limit 19.5
+2018-09-26 17:13:19,392 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abukiix, never reached limit 19.5
+2018-09-26 17:13:19,409 - ufeindt - INFO - 2018-09-26: Skipping ZTF17aadhcyv, less than 5 detections
+2018-09-26 17:13:19,412 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abxxssh, less than 5 detections
+2018-09-26 17:13:19,424 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abmsmnc, only 1 filters
+2018-09-26 17:13:19,435 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abwugyc, less than 5 detections
+2018-09-26 17:13:19,442 - ufeindt - INFO - 2018-09-26: Skipping ZTF18ababqeh, less than 5 detections
+2018-09-26 17:13:19,446 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abjcvuh, only 1 filters
+2018-09-26 17:13:19,450 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abtnwpa, never reached limit 19.5
+2018-09-26 17:13:19,459 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abwwfyo, less than 5 detections
+2018-09-26 17:13:19,472 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abivonr, only 1 filters
+2018-09-26 17:13:19,479 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abymhpa, never reached limit 19.5
+2018-09-26 17:13:19,491 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abvoydx, never reached limit 19.5
+2018-09-26 17:13:19,497 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abvxbfh, only 1 filters
+2018-09-26 17:13:19,517 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abylttk, less than 5 detections
+2018-09-26 17:13:19,524 - ufeindt - INFO - 2018-09-26: Skipping ZTF18aazfthy, less than 5 detections
+2018-09-26 17:13:19,529 - ufeindt - INFO - 2018-09-26: Skipping ZTF18aauqiar, never reached limit 19.5
+2018-09-26 17:13:19,539 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abwlsoi, less than 5 detections
+2018-09-26 17:13:19,548 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abnoedw, less than 5 detections
+2018-09-26 17:13:19,559 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abdklhh, never reached limit 19.5
+2018-09-26 17:13:19,562 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abzotbm, never reached limit 19.5
+2018-09-26 17:13:19,565 - ufeindt - INFO - 2018-09-26: Skipping ZTF18aanvpol, less than 5 detections
+2018-09-26 17:13:19,574 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abtkzfi, only 1 filters
+2018-09-26 17:13:19,579 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abitwua, never reached limit 19.5
+2018-09-26 17:13:19,591 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abwtops, never reached limit 19.5
+2018-09-26 17:13:19,595 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abysimb, less than 5 detections
+2018-09-26 17:13:19,601 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abzacuc, less than 5 detections
+2018-09-26 17:13:19,605 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abwmuua, less than 5 detections
+2018-09-26 17:13:19,613 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abcftam, never reached limit 19.5
+2018-09-26 17:13:19,628 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abcleke, less than 5 detections
+2018-09-26 17:13:19,632 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abubjqi, never reached limit 19.5
+2018-09-26 17:13:19,636 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abywclh, less than 5 detections
+2018-09-26 17:13:19,641 - ufeindt - INFO - 2018-09-26: Skipping ZTF18abxzyss, less than 5 detections
+2018-09-26 17:13:53,666 - ufeindt - INFO - I never want to see SN 0 ZTF18abslxpd again!
+2018-09-26 17:13:58,555 - ufeindt - INFO - Sending SN 1 ZTF18abvxqtp for possible follow-up
+2018-09-26 17:14:05,387 - ufeindt - INFO - Waiting for further obs for SN 2 ZTF18abbmenz
+2018-09-26 17:14:13,854 - ufeindt - INFO - I never want to see SN 3 ZTF18abydspi again!
+2018-09-26 17:14:17,617 - ufeindt - INFO - I never want to see SN 4 ZTF18abnvotk again!
+2018-09-26 17:14:22,993 - ufeindt - INFO - Waiting for further obs for SN 5 ZTF18aawlhkh
+2018-09-26 17:14:26,155 - ufeindt - INFO - Waiting for further obs for SN 6 ZTF18abvtrnc
+2018-09-26 17:14:31,161 - ufeindt - INFO - Sending SN 7 ZTF18abygdtf for possible follow-up
+2018-09-26 17:14:34,409 - ufeindt - INFO - I never want to see SN 8 ZTF18abgrlpv again!
+2018-09-26 17:14:36,168 - ufeindt - INFO - I never want to see SN 9 ZTF18abqdwze again!
+2018-09-26 17:14:38,309 - ufeindt - INFO - I never want to see SN 10 ZTF18abmiqbv again!
+2018-09-26 17:14:40,464 - ufeindt - INFO - I never want to see SN 11 ZTF18abvxdou again!
+2018-09-26 17:14:44,271 - ufeindt - INFO - Sending SN 12 ZTF18aaupjtd for possible follow-up
+2018-09-26 17:14:46,575 - ufeindt - INFO - I never want to see SN 13 ZTF18abwcgyo again!
+2018-09-26 17:14:48,101 - ufeindt - INFO - I never want to see SN 14 ZTF18aamjqeh again!
+2018-09-26 17:14:51,100 - ufeindt - INFO - Waiting for further obs for SN 15 ZTF18abxxvza
+2018-09-26 17:14:53,879 - ufeindt - INFO - I never want to see SN 16 ZTF18abnvnqb again!
+2018-09-26 17:14:56,240 - ufeindt - INFO - I never want to see SN 17 ZTF18abvnwzz again!
+2018-09-26 17:14:58,996 - ufeindt - INFO - Sending SN 18 ZTF18ablllyw for possible follow-up
+2018-09-26 17:15:01,083 - ufeindt - INFO - I never want to see SN 19 ZTF18abecggb again!
+2018-09-26 17:15:04,669 - ufeindt - INFO - I never want to see SN 20 ZTF18abgqvwv again!
+2018-09-26 17:15:08,981 - ufeindt - INFO - I never want to see SN 21 ZTF18ablqjws again!
+2018-09-26 17:15:13,979 - ufeindt - INFO - Sending SN 22 ZTF18abmmszc for possible follow-up
+2018-09-26 17:15:20,406 - ufeindt - INFO - I never want to see SN 23 ZTF18aamnrdd again!
+2018-09-26 17:15:22,379 - ufeindt - INFO - I never want to see SN 24 ZTF18abmxatl again!
+2018-09-26 17:15:25,477 - ufeindt - INFO - I never want to see SN 25 ZTF18aagteoy again!
+2018-09-26 17:15:32,738 - ufeindt - INFO - I never want to see SN 26 ZTF18abvvmdf again!
+2018-09-26 17:15:35,759 - ufeindt - INFO - I never want to see SN 27 ZTF18absloer again!
+2018-09-26 17:15:38,031 - ufeindt - INFO - I never want to see SN 28 ZTF18aavoyoq again!
+2018-09-26 17:15:39,837 - ufeindt - INFO - I never want to see SN 29 ZTF18abdkkwa again!
+2018-09-26 17:15:41,594 - ufeindt - INFO - I never want to see SN 30 ZTF18abwqbxc again!
+2018-09-26 17:15:45,235 - ufeindt - INFO - I never want to see SN 31 ZTF18aampjcm again!
+2018-09-26 17:15:48,006 - ufeindt - INFO - Sending SN 32 ZTF18abtghbi for possible follow-up
+2018-09-26 17:15:50,064 - ufeindt - INFO - I never want to see SN 33 ZTF18aaxudip again!
+2018-09-26 17:15:55,178 - ufeindt - INFO - I never want to see SN 34 ZTF18abymhbx again!
+2018-09-26 17:15:56,902 - ufeindt - INFO - I never want to see SN 35 ZTF18aayebnz again!
+2018-09-26 17:15:59,903 - ufeindt - INFO - Waiting for further obs for SN 36 ZTF18absnsqx
+2018-09-26 17:16:07,375 - ufeindt - INFO - Waiting for further obs for SN 37 ZTF18aaqzomm
+2018-09-26 17:16:12,730 - ufeindt - INFO - I never want to see SN 38 ZTF18aatycgd again!
+2018-09-26 17:16:15,577 - ufeindt - INFO - Waiting for further obs for SN 39 ZTF18aampiwv
+2018-09-26 17:16:18,032 - ufeindt - INFO - I want to scan some more, go back!
+2018-09-26 17:16:23,130 - ufeindt - INFO - Waiting for further obs for SN 39 ZTF18aampiwv
+2018-09-26 17:16:25,117 - ufeindt - INFO - I never want to see SN 40 ZTF18abvvkoh again!
+2018-09-26 17:17:13,438 - ufeindt - INFO - Trying to ingest ZTF18abvxqtp through avroid 633289295215015013
+2018-09-26 17:17:13,440 - ufeindt - INFO - ... already a candidate with id 633419075215015044
+2018-09-26 17:17:13,450 - ufeindt - INFO - Trying to ingest ZTF18abygdtf through avroid 633233184315015018
+2018-09-26 17:17:13,450 - ufeindt - INFO - ... already a candidate with id 633233184315015018
+2018-09-26 17:17:13,455 - ufeindt - INFO - Trying to ingest ZTF18aaupjtd through avroid 633234165315015009
+2018-09-26 17:17:13,457 - ufeindt - INFO - ... already a candidate with id 508449785315015014
+2018-09-26 17:17:13,460 - ufeindt - INFO - Trying to ingest ZTF18ablllyw through avroid 631221936015015010
+2018-09-26 17:17:13,462 - ufeindt - INFO - ... already a candidate with id 582340936015015004
+2018-09-26 17:17:13,466 - ufeindt - INFO - Trying to ingest ZTF18abmmszc through avroid 633211181015010000
+2018-09-26 17:17:13,467 - ufeindt - INFO - ... already a candidate with id 633211181015010000
+2018-09-26 17:17:13,471 - ufeindt - INFO - Trying to ingest ZTF18abtghbi through avroid 633280380415015005
+2018-09-26 17:17:13,472 - ufeindt - INFO - ... already a candidate with id 618423220415015009
+2018-09-26 17:18:25,368 - ufeindt - INFO - Lacking candid for ZTF18abvxqtp
+2018-09-26 17:21:15,775 - ufeindt - INFO - Lacking candid for ZTF18abvxqtp
+2018-09-26 17:21:15,778 - ufeindt - INFO - Try to save ZTF18abygdtf through candid 1545901
+2018-09-26 17:21:17,515 - ufeindt - INFO - Try to save ZTF18aaupjtd through candid 1548525
+2018-09-26 17:21:19,182 - ufeindt - INFO - Try to save ZTF18ablllyw through candid 1548549
+2018-09-26 17:21:20,755 - ufeindt - INFO - Try to save ZTF18abmmszc through candid 1541678
+2018-09-26 17:21:22,230 - ufeindt - INFO - Try to save ZTF18abtghbi through candid 1548867
+2018-09-26 17:22:08,378 - ufeindt - INFO - Lacking candid for ZTF18abvxqtp
+2018-09-26 17:22:08,381 - ufeindt - INFO - Try to save ZTF18abvxqtp through candid 1548867
+2018-09-26 17:22:10,014 - ufeindt - INFO - Try to save ZTF18abygdtf through candid 1545901
+2018-09-26 17:22:11,625 - ufeindt - INFO - Try to save ZTF18aaupjtd through candid 1548525
+2018-09-26 17:22:13,233 - ufeindt - INFO - Try to save ZTF18ablllyw through candid 1548549
+2018-09-26 17:22:14,989 - ufeindt - INFO - Try to save ZTF18abmmszc through candid 1541678
+2018-09-26 17:22:16,514 - ufeindt - INFO - Try to save ZTF18abtghbi through candid 1548867
+2018-09-26 17:22:44,455 - ufeindt - INFO - SN ZTF18abvxqtp was not saved. Oj oj.
+2018-09-26 17:22:44,458 - ufeindt - INFO - SN ZTF18abygdtf was not saved. Oj oj.
+2018-09-26 17:22:44,460 - ufeindt - INFO - SN ZTF18aaupjtd was saved
+2018-09-26 17:22:44,462 - ufeindt - INFO - SN ZTF18ablllyw was saved
+2018-09-26 17:22:44,464 - ufeindt - INFO - SN ZTF18abmmszc was not saved. Oj oj.
+2018-09-26 17:22:44,466 - ufeindt - INFO - SN ZTF18abtghbi was saved
