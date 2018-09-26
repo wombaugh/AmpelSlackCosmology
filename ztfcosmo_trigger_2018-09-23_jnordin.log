@@ -1,0 +1,705 @@
+2018-09-26 01:22:26,154 - jnordin - INFO - SN ZTF18aasdted classified with type SN Ia, skipping.
+2018-09-26 01:22:26,155 - jnordin - INFO - SN ZTF18aauvptt classified with type AGN, skipping.
+2018-09-26 01:23:50,253 - jnordin - INFO - SN ZTF18aasdted classified with type SN Ia, skipping.
+2018-09-26 01:23:50,255 - jnordin - INFO - SN ZTF18aauvptt classified with type AGN, skipping.
+2018-09-26 01:24:37,421 - jnordin - INFO - SN ZTF18aasdted classified with type SN Ia, skipping.
+2018-09-26 01:24:37,423 - jnordin - INFO - SN ZTF18aauvptt classified with type AGN, skipping.
+2018-09-26 01:26:18,744 - jnordin - INFO - SN ZTF18aasdted classified with type SN Ia, skipping.
+2018-09-26 01:26:18,745 - jnordin - INFO - SN ZTF18aauvptt classified with type AGN, skipping.
+2018-09-26 01:27:01,756 - jnordin - INFO - SN ZTF18aasdted classified with type SN Ia, skipping.
+2018-09-26 01:27:01,757 - jnordin - INFO - SN ZTF18aauvptt classified with type AGN, skipping.
+2018-09-26 01:27:46,158 - jnordin - INFO - SN ZTF18aasdted classified with type SN Ia, skipping.
+2018-09-26 01:27:46,159 - jnordin - INFO - SN ZTF18aauvptt classified with type AGN, skipping.
+2018-09-26 01:29:28,956 - jnordin - INFO - SN ZTF18aasdted classified with type SN Ia, skipping.
+2018-09-26 01:29:28,957 - jnordin - INFO - SN ZTF18aauvptt classified with type AGN, skipping.
+2018-09-26 01:30:00,464 - jnordin - INFO - SALT fit fails for SN ZTF18ablviog. Manual inspection prob needed.
+2018-09-26 01:30:05,689 - jnordin - INFO - SN ZTF18abmxfrc classified with type SN Ia, skipping.
+2018-09-26 01:30:12,623 - jnordin - INFO - SN ZTF18abnxhmc classified with type SN Ia, skipping.
+2018-09-26 01:30:12,624 - jnordin - INFO - SN ZTF18abnvnqb classified with type SN Ia, skipping.
+2018-09-26 01:30:12,625 - jnordin - INFO - SN ZTF18abkxlcz classified with type SN Ia, skipping.
+2018-09-26 01:30:14,651 - jnordin - INFO - SN ZTF18aboaeqy classified with type SN Ia, skipping.
+2018-09-26 01:30:23,491 - jnordin - INFO - SALT fit fails for SN ZTF18abmjayl. Manual inspection prob needed.
+2018-09-26 01:30:32,228 - jnordin - INFO - SALT fit fails for SN ZTF18abmszpd. Manual inspection prob needed.
+2018-09-26 01:30:42,361 - jnordin - INFO - SN ZTF18abntwvr has too few filters for saltfit.
+2018-09-26 01:31:09,092 - jnordin - INFO - SALT fit fails for SN ZTF18abmadcc. Manual inspection prob needed.
+2018-09-26 01:31:10,832 - jnordin - INFO - SALT fit fails for SN ZTF18ablrwlk. Manual inspection prob needed.
+2018-09-26 01:31:17,691 - jnordin - INFO - SALT fit fails for SN ZTF18abmdfba. Manual inspection prob needed.
+2018-09-26 01:31:19,368 - jnordin - INFO - SALT fit fails for SN ZTF18abmorft. Manual inspection prob needed.
+2018-09-26 01:31:21,073 - jnordin - INFO - SALT fit fails for SN ZTF18abmpbjy. Manual inspection prob needed.
+2018-09-26 01:31:38,881 - jnordin - INFO - SN ZTF18abmwuml has too few filters for saltfit.
+2018-09-26 01:32:05,368 - jnordin - INFO - SN ZTF18abncqfx has too few filters for saltfit.
+2018-09-26 01:32:13,809 - jnordin - INFO - SALT fit fails for SN ZTF18abnzgwe. Manual inspection prob needed.
+2018-09-26 01:32:25,269 - jnordin - INFO - SN ZTF18abnucig classified with type SN Ia, skipping.
+2018-09-26 01:32:25,270 - jnordin - INFO - SN ZTF18abglwpn classified with type AGN, skipping.
+2018-09-26 01:32:25,270 - jnordin - INFO - SN ZTF18abmaewl classified with type SN Ia, skipping.
+2018-09-26 01:32:27,047 - jnordin - INFO - SN ZTF18ablwafp classified with type SLSN-I?, skipping.
+2018-09-26 01:32:27,048 - jnordin - INFO - SN ZTF18abmjcbs classified with type SN Ia, skipping.
+2018-09-26 01:32:36,679 - jnordin - INFO - SN ZTF18abncimo classified with type SN Ia, skipping.
+2018-09-26 01:32:36,679 - jnordin - INFO - SN ZTF18abnygkb classified with type SN Ia, skipping.
+2018-09-26 01:32:39,106 - jnordin - INFO - SN ZTF18abnvoel classified with type SN Ia, skipping.
+2018-09-26 01:32:45,859 - jnordin - INFO - SALT fit fails for SN ZTF18aboqvfa. Manual inspection prob needed.
+2018-09-26 01:32:47,603 - jnordin - INFO - SALT fit fails for SN ZTF18aborbhi. Manual inspection prob needed.
+2018-09-26 01:32:49,336 - jnordin - INFO - SN ZTF18aborkxd has too few filters for saltfit.
+2018-09-26 01:32:56,196 - jnordin - INFO - SN ZTF18aborkox has too few filters for saltfit.
+2018-09-26 01:32:58,045 - jnordin - INFO - SALT fit fails for SN ZTF18abmkbqo. Manual inspection prob needed.
+2018-09-26 01:33:06,846 - jnordin - INFO - SN ZTF18abotaki has too few filters for saltfit.
+2018-09-26 01:33:08,795 - jnordin - INFO - SN ZTF18abpavnx has too few filters for saltfit.
+2018-09-26 01:33:08,796 - jnordin - INFO - SN ZTF18abpaywm classified with type SN Ia, skipping.
+2018-09-26 01:33:08,797 - jnordin - INFO - SN ZTF18aboztta classified with type SN Ia, skipping.
+2018-09-26 01:33:08,798 - jnordin - INFO - SN ZTF18abmwpyl classified with type SN Ia, skipping.
+2018-09-26 01:33:08,799 - jnordin - INFO - SN ZTF18abpttky classified with type SN Ia, skipping.
+2018-09-26 01:33:10,652 - jnordin - INFO - SALT fit fails for SN ZTF18abanjoi. Manual inspection prob needed.
+2018-09-26 01:33:18,037 - jnordin - INFO - SN ZTF18abnuhuy classified with type AGN, skipping.
+2018-09-26 01:33:18,037 - jnordin - INFO - SN ZTF18abrlupd classified with type SN Ia, skipping.
+2018-09-26 01:33:19,750 - jnordin - INFO - SN ZTF18abmskzu has too few filters for saltfit.
+2018-09-26 01:33:23,717 - jnordin - INFO - SN ZTF18abqbuaj classified with type SN Ibn, skipping.
+2018-09-26 01:33:23,719 - jnordin - INFO - SN ZTF18abqboud classified with type CV, skipping.
+2018-09-26 01:33:23,720 - jnordin - INFO - SN ZTF18abqlpgq classified with type SN Ia, skipping.
+2018-09-26 01:33:23,721 - jnordin - INFO - SN ZTF18abqbavl classified with type SN Ia, skipping.
+2018-09-26 01:33:23,723 - jnordin - INFO - SN ZTF18abqdadp classified with type SN Ia, skipping.
+2018-09-26 01:33:32,846 - jnordin - INFO - SN ZTF18abrwudp classified with type SN Ia, skipping.
+2018-09-26 01:33:44,259 - jnordin - INFO - SN ZTF18abqjvyl classified with type SN Ia, skipping.
+2018-09-26 01:33:50,882 - jnordin - INFO - SN ZTF18abpaori has too few filters for saltfit.
+2018-09-26 01:33:54,277 - jnordin - INFO - SN ZTF18abolvoh classified with type SN Ia, skipping.
+2018-09-26 01:34:03,660 - jnordin - INFO - SN ZTF18abrzevz classified with type SN Ia, skipping.
+2018-09-26 01:34:03,660 - jnordin - INFO - SN ZTF18abqyvzy classified with type SN II, skipping.
+2018-09-26 01:34:03,661 - jnordin - INFO - SN ZTF18absbsoz classified with type SN Ia, skipping.
+2018-09-26 01:34:03,662 - jnordin - INFO - SN ZTF18ablvime classified with type SN Ia, skipping.
+2018-09-26 01:34:06,050 - jnordin - INFO - SN ZTF18absdxpk classified with type SN Ia, skipping.
+2018-09-26 01:34:06,050 - jnordin - INFO - SN ZTF18absliyc classified with type SN Ia pec, skipping.
+2018-09-26 01:34:08,273 - jnordin - INFO - SN ZTF18absldfl classified with type SN II, skipping.
+2018-09-26 01:34:26,667 - jnordin - INFO - SN ZTF18abotcjv classified with type SN Ia, skipping.
+2018-09-26 01:34:26,668 - jnordin - INFO - SN ZTF18abnysyy classified with type SN Ia, skipping.
+2018-09-26 01:34:29,242 - jnordin - INFO - SN ZTF18abshezu classified with type SLSN-I, skipping.
+2018-09-26 01:34:29,243 - jnordin - INFO - SN ZTF18abryewg classified with type SN Ia 91T-like, skipping.
+2018-09-26 01:34:29,244 - jnordin - INFO - SN ZTF18abssukb classified with type SN Ia, skipping.
+2018-09-26 01:34:29,245 - jnordin - INFO - SN ZTF18absdjms classified with type SN Ia, skipping.
+2018-09-26 01:35:14,336 - jnordin - INFO - SN ZTF18absumwc has too few filters for saltfit.
+2018-09-26 01:38:33,501 - jnordin - INFO - SN ZTF18aasdted classified with type SN Ia, skipping.
+2018-09-26 01:38:33,502 - jnordin - INFO - SN ZTF18aauvptt classified with type AGN, skipping.
+2018-09-26 01:38:35,490 - jnordin - INFO - SALT fit fails for SN ZTF18ablviog. Manual inspection prob needed.
+2018-09-26 01:38:36,151 - jnordin - INFO - SN ZTF18abmxfrc classified with type SN Ia, skipping.
+2018-09-26 01:38:36,445 - jnordin - INFO - SN ZTF18abnxhmc classified with type SN Ia, skipping.
+2018-09-26 01:38:36,446 - jnordin - INFO - SN ZTF18abnvnqb classified with type SN Ia, skipping.
+2018-09-26 01:38:36,447 - jnordin - INFO - SN ZTF18abkxlcz classified with type SN Ia, skipping.
+2018-09-26 01:38:36,694 - jnordin - INFO - SN ZTF18aboaeqy classified with type SN Ia, skipping.
+2018-09-26 01:38:37,018 - jnordin - INFO - SALT fit fails for SN ZTF18abmjayl. Manual inspection prob needed.
+2018-09-26 01:38:37,333 - jnordin - INFO - SALT fit fails for SN ZTF18abmszpd. Manual inspection prob needed.
+2018-09-26 01:39:26,323 - jnordin - INFO - SN ZTF18aasdted classified with type SN Ia, skipping.
+2018-09-26 01:39:26,324 - jnordin - INFO - SN ZTF18aauvptt classified with type AGN, skipping.
+2018-09-26 01:40:02,080 - jnordin - INFO - SN ZTF18aasdted classified with type SN Ia, skipping.
+2018-09-26 01:40:02,081 - jnordin - INFO - SN ZTF18aauvptt classified with type AGN, skipping.
+2018-09-26 01:41:54,561 - jnordin - INFO - SN ZTF18aasdted classified with type SN Ia, skipping.
+2018-09-26 01:41:54,562 - jnordin - INFO - SN ZTF18aauvptt classified with type AGN, skipping.
+2018-09-26 01:45:14,571 - jnordin - INFO - SN ZTF18aasdted classified with type SN Ia, skipping.
+2018-09-26 01:45:14,571 - jnordin - INFO - SN ZTF18aasdted classified with type SN Ia, skipping.
+2018-09-26 01:45:14,572 - jnordin - INFO - SN ZTF18aauvptt classified with type AGN, skipping.
+2018-09-26 01:45:14,572 - jnordin - INFO - SN ZTF18aauvptt classified with type AGN, skipping.
+2018-09-26 01:46:14,089 - jnordin - INFO - SN ZTF18aasdted classified with type SN Ia, skipping.
+2018-09-26 01:46:14,089 - jnordin - INFO - SN ZTF18aasdted classified with type SN Ia, skipping.
+2018-09-26 01:46:14,090 - jnordin - INFO - SN ZTF18aauvptt classified with type AGN, skipping.
+2018-09-26 01:46:14,090 - jnordin - INFO - SN ZTF18aauvptt classified with type AGN, skipping.
+2018-09-26 01:47:13,320 - jnordin - INFO - SN ZTF18aasdted classified with type SN Ia, skipping.
+2018-09-26 01:47:13,320 - jnordin - INFO - SN ZTF18aasdted classified with type SN Ia, skipping.
+2018-09-26 01:47:13,321 - jnordin - INFO - SN ZTF18aauvptt classified with type AGN, skipping.
+2018-09-26 01:47:13,321 - jnordin - INFO - SN ZTF18aauvptt classified with type AGN, skipping.
+2018-09-26 01:47:19,119 - jnordin - INFO - Not enugh good data for SN ZTF18ablviog. Manual inspection prob needed.
+2018-09-26 01:47:19,119 - jnordin - INFO - Not enugh good data for SN ZTF18ablviog. Manual inspection prob needed.
+2018-09-26 01:47:28,922 - jnordin - INFO - SN ZTF18abmxfrc classified with type SN Ia, skipping.
+2018-09-26 01:47:28,922 - jnordin - INFO - SN ZTF18abmxfrc classified with type SN Ia, skipping.
+2018-09-26 01:47:29,118 - jnordin - INFO - SN ZTF18abnxhmc classified with type SN Ia, skipping.
+2018-09-26 01:47:29,118 - jnordin - INFO - SN ZTF18abnxhmc classified with type SN Ia, skipping.
+2018-09-26 01:47:29,119 - jnordin - INFO - SN ZTF18abnvnqb classified with type SN Ia, skipping.
+2018-09-26 01:47:29,119 - jnordin - INFO - SN ZTF18abnvnqb classified with type SN Ia, skipping.
+2018-09-26 01:47:29,119 - jnordin - INFO - SN ZTF18abkxlcz classified with type SN Ia, skipping.
+2018-09-26 01:47:29,119 - jnordin - INFO - SN ZTF18abkxlcz classified with type SN Ia, skipping.
+2018-09-26 01:47:29,298 - jnordin - INFO - SN ZTF18aboaeqy classified with type SN Ia, skipping.
+2018-09-26 01:47:29,298 - jnordin - INFO - SN ZTF18aboaeqy classified with type SN Ia, skipping.
+2018-09-26 01:47:29,849 - jnordin - INFO - Not enugh good data for SN ZTF18abmjayl. Manual inspection prob needed.
+2018-09-26 01:47:29,849 - jnordin - INFO - Not enugh good data for SN ZTF18abmjayl. Manual inspection prob needed.
+2018-09-26 01:47:30,111 - jnordin - INFO - Not enugh good data for SN ZTF18abmszpd. Manual inspection prob needed.
+2018-09-26 01:47:30,111 - jnordin - INFO - Not enugh good data for SN ZTF18abmszpd. Manual inspection prob needed.
+2018-09-26 01:47:30,864 - jnordin - INFO - SN ZTF18abntwvr has too few filters for saltfit.
+2018-09-26 01:47:30,864 - jnordin - INFO - SN ZTF18abntwvr has too few filters for saltfit.
+2018-09-26 01:47:37,056 - jnordin - INFO - Not enugh good data for SN ZTF18abmadcc. Manual inspection prob needed.
+2018-09-26 01:47:37,056 - jnordin - INFO - Not enugh good data for SN ZTF18abmadcc. Manual inspection prob needed.
+2018-09-26 01:47:37,064 - jnordin - INFO - Not enugh good data for SN ZTF18ablrwlk. Manual inspection prob needed.
+2018-09-26 01:47:37,064 - jnordin - INFO - Not enugh good data for SN ZTF18ablrwlk. Manual inspection prob needed.
+2018-09-26 01:47:37,071 - jnordin - INFO - Not enugh good data for SN ZTF18abmdfba. Manual inspection prob needed.
+2018-09-26 01:47:37,071 - jnordin - INFO - Not enugh good data for SN ZTF18abmdfba. Manual inspection prob needed.
+2018-09-26 01:47:37,077 - jnordin - INFO - Not enugh good data for SN ZTF18abmorft. Manual inspection prob needed.
+2018-09-26 01:47:37,077 - jnordin - INFO - Not enugh good data for SN ZTF18abmorft. Manual inspection prob needed.
+2018-09-26 01:47:37,085 - jnordin - INFO - Not enugh good data for SN ZTF18abmpbjy. Manual inspection prob needed.
+2018-09-26 01:47:37,085 - jnordin - INFO - Not enugh good data for SN ZTF18abmpbjy. Manual inspection prob needed.
+2018-09-26 01:47:47,225 - jnordin - INFO - SN ZTF18abmwuml has too few filters for saltfit.
+2018-09-26 01:47:47,225 - jnordin - INFO - SN ZTF18abmwuml has too few filters for saltfit.
+2018-09-26 01:47:48,033 - jnordin - INFO - SN ZTF18abncqfx has too few filters for saltfit.
+2018-09-26 01:47:48,033 - jnordin - INFO - SN ZTF18abncqfx has too few filters for saltfit.
+2018-09-26 01:47:48,121 - jnordin - INFO - Not enugh good data for SN ZTF18abnzgwe. Manual inspection prob needed.
+2018-09-26 01:47:48,121 - jnordin - INFO - Not enugh good data for SN ZTF18abnzgwe. Manual inspection prob needed.
+2018-09-26 01:47:48,763 - jnordin - INFO - SN ZTF18abnucig classified with type SN Ia, skipping.
+2018-09-26 01:47:48,763 - jnordin - INFO - SN ZTF18abnucig classified with type SN Ia, skipping.
+2018-09-26 01:47:48,764 - jnordin - INFO - SN ZTF18abglwpn classified with type AGN, skipping.
+2018-09-26 01:47:48,764 - jnordin - INFO - SN ZTF18abglwpn classified with type AGN, skipping.
+2018-09-26 01:47:48,765 - jnordin - INFO - SN ZTF18abmaewl classified with type SN Ia, skipping.
+2018-09-26 01:47:48,765 - jnordin - INFO - SN ZTF18abmaewl classified with type SN Ia, skipping.
+2018-09-26 01:47:48,936 - jnordin - INFO - SN ZTF18ablwafp classified with type SLSN-I?, skipping.
+2018-09-26 01:47:48,936 - jnordin - INFO - SN ZTF18ablwafp classified with type SLSN-I?, skipping.
+2018-09-26 01:47:48,936 - jnordin - INFO - SN ZTF18abmjcbs classified with type SN Ia, skipping.
+2018-09-26 01:47:48,936 - jnordin - INFO - SN ZTF18abmjcbs classified with type SN Ia, skipping.
+2018-09-26 01:47:49,488 - jnordin - INFO - SN ZTF18abncimo classified with type SN Ia, skipping.
+2018-09-26 01:47:49,488 - jnordin - INFO - SN ZTF18abncimo classified with type SN Ia, skipping.
+2018-09-26 01:47:49,489 - jnordin - INFO - SN ZTF18abnygkb classified with type SN Ia, skipping.
+2018-09-26 01:47:49,489 - jnordin - INFO - SN ZTF18abnygkb classified with type SN Ia, skipping.
+2018-09-26 01:47:49,751 - jnordin - INFO - SN ZTF18abnvoel classified with type SN Ia, skipping.
+2018-09-26 01:47:49,751 - jnordin - INFO - SN ZTF18abnvoel classified with type SN Ia, skipping.
+2018-09-26 01:47:49,756 - jnordin - INFO - Not enugh good data for SN ZTF18aboqvfa. Manual inspection prob needed.
+2018-09-26 01:47:49,756 - jnordin - INFO - Not enugh good data for SN ZTF18aboqvfa. Manual inspection prob needed.
+2018-09-26 01:47:49,763 - jnordin - INFO - Not enugh good data for SN ZTF18aborbhi. Manual inspection prob needed.
+2018-09-26 01:47:49,763 - jnordin - INFO - Not enugh good data for SN ZTF18aborbhi. Manual inspection prob needed.
+2018-09-26 01:47:49,765 - jnordin - INFO - SN ZTF18aborkxd has too few filters for saltfit.
+2018-09-26 01:47:49,765 - jnordin - INFO - SN ZTF18aborkxd has too few filters for saltfit.
+2018-09-26 01:47:49,766 - jnordin - INFO - SN ZTF18aborkox has too few filters for saltfit.
+2018-09-26 01:47:49,766 - jnordin - INFO - SN ZTF18aborkox has too few filters for saltfit.
+2018-09-26 01:47:49,772 - jnordin - INFO - Not enugh good data for SN ZTF18abmkbqo. Manual inspection prob needed.
+2018-09-26 01:47:49,772 - jnordin - INFO - Not enugh good data for SN ZTF18abmkbqo. Manual inspection prob needed.
+2018-09-26 01:47:49,993 - jnordin - INFO - SN ZTF18abotaki has too few filters for saltfit.
+2018-09-26 01:47:49,993 - jnordin - INFO - SN ZTF18abotaki has too few filters for saltfit.
+2018-09-26 01:47:49,994 - jnordin - INFO - SN ZTF18abpavnx has too few filters for saltfit.
+2018-09-26 01:47:49,994 - jnordin - INFO - SN ZTF18abpavnx has too few filters for saltfit.
+2018-09-26 01:47:49,994 - jnordin - INFO - SN ZTF18abpaywm classified with type SN Ia, skipping.
+2018-09-26 01:47:49,994 - jnordin - INFO - SN ZTF18abpaywm classified with type SN Ia, skipping.
+2018-09-26 01:47:49,995 - jnordin - INFO - SN ZTF18aboztta classified with type SN Ia, skipping.
+2018-09-26 01:47:49,995 - jnordin - INFO - SN ZTF18aboztta classified with type SN Ia, skipping.
+2018-09-26 01:47:49,996 - jnordin - INFO - SN ZTF18abmwpyl classified with type SN Ia, skipping.
+2018-09-26 01:47:49,996 - jnordin - INFO - SN ZTF18abmwpyl classified with type SN Ia, skipping.
+2018-09-26 01:47:49,997 - jnordin - INFO - SN ZTF18abpttky classified with type SN Ia, skipping.
+2018-09-26 01:47:49,997 - jnordin - INFO - SN ZTF18abpttky classified with type SN Ia, skipping.
+2018-09-26 01:47:50,010 - jnordin - INFO - Not enugh good data for SN ZTF18abanjoi. Manual inspection prob needed.
+2018-09-26 01:47:50,010 - jnordin - INFO - Not enugh good data for SN ZTF18abanjoi. Manual inspection prob needed.
+2018-09-26 01:47:50,535 - jnordin - INFO - SN ZTF18abnuhuy classified with type AGN, skipping.
+2018-09-26 01:47:50,535 - jnordin - INFO - SN ZTF18abnuhuy classified with type AGN, skipping.
+2018-09-26 01:47:50,538 - jnordin - INFO - SN ZTF18abrlupd classified with type SN Ia, skipping.
+2018-09-26 01:47:50,538 - jnordin - INFO - SN ZTF18abrlupd classified with type SN Ia, skipping.
+2018-09-26 01:47:50,539 - jnordin - INFO - SN ZTF18abmskzu has too few filters for saltfit.
+2018-09-26 01:47:50,539 - jnordin - INFO - SN ZTF18abmskzu has too few filters for saltfit.
+2018-09-26 01:47:51,022 - jnordin - INFO - SN ZTF18abqbuaj classified with type SN Ibn, skipping.
+2018-09-26 01:47:51,022 - jnordin - INFO - SN ZTF18abqbuaj classified with type SN Ibn, skipping.
+2018-09-26 01:47:51,022 - jnordin - INFO - SN ZTF18abqboud classified with type CV, skipping.
+2018-09-26 01:47:51,022 - jnordin - INFO - SN ZTF18abqboud classified with type CV, skipping.
+2018-09-26 01:47:51,024 - jnordin - INFO - SN ZTF18abqlpgq classified with type SN Ia, skipping.
+2018-09-26 01:47:51,024 - jnordin - INFO - SN ZTF18abqlpgq classified with type SN Ia, skipping.
+2018-09-26 01:47:51,024 - jnordin - INFO - SN ZTF18abqbavl classified with type SN Ia, skipping.
+2018-09-26 01:47:51,024 - jnordin - INFO - SN ZTF18abqbavl classified with type SN Ia, skipping.
+2018-09-26 01:47:51,025 - jnordin - INFO - SN ZTF18abqdadp classified with type SN Ia, skipping.
+2018-09-26 01:47:51,025 - jnordin - INFO - SN ZTF18abqdadp classified with type SN Ia, skipping.
+2018-09-26 01:47:51,831 - jnordin - INFO - SN ZTF18abrwudp classified with type SN Ia, skipping.
+2018-09-26 01:47:51,831 - jnordin - INFO - SN ZTF18abrwudp classified with type SN Ia, skipping.
+2018-09-26 01:47:52,940 - jnordin - INFO - SN ZTF18abqjvyl classified with type SN Ia, skipping.
+2018-09-26 01:47:52,940 - jnordin - INFO - SN ZTF18abqjvyl classified with type SN Ia, skipping.
+2018-09-26 01:47:52,941 - jnordin - INFO - SN ZTF18abpaori has too few filters for saltfit.
+2018-09-26 01:47:52,941 - jnordin - INFO - SN ZTF18abpaori has too few filters for saltfit.
+2018-09-26 01:47:55,449 - jnordin - INFO - SN ZTF18abolvoh classified with type SN Ia, skipping.
+2018-09-26 01:47:55,449 - jnordin - INFO - SN ZTF18abolvoh classified with type SN Ia, skipping.
+2018-09-26 01:47:56,159 - jnordin - INFO - SN ZTF18abrzevz classified with type SN Ia, skipping.
+2018-09-26 01:47:56,159 - jnordin - INFO - SN ZTF18abrzevz classified with type SN Ia, skipping.
+2018-09-26 01:47:56,161 - jnordin - INFO - SN ZTF18abqyvzy classified with type SN II, skipping.
+2018-09-26 01:47:56,161 - jnordin - INFO - SN ZTF18abqyvzy classified with type SN II, skipping.
+2018-09-26 01:47:56,162 - jnordin - INFO - SN ZTF18absbsoz classified with type SN Ia, skipping.
+2018-09-26 01:47:56,162 - jnordin - INFO - SN ZTF18absbsoz classified with type SN Ia, skipping.
+2018-09-26 01:47:56,163 - jnordin - INFO - SN ZTF18ablvime classified with type SN Ia, skipping.
+2018-09-26 01:47:56,163 - jnordin - INFO - SN ZTF18ablvime classified with type SN Ia, skipping.
+2018-09-26 01:47:56,482 - jnordin - INFO - SN ZTF18absdxpk classified with type SN Ia, skipping.
+2018-09-26 01:47:56,482 - jnordin - INFO - SN ZTF18absdxpk classified with type SN Ia, skipping.
+2018-09-26 01:47:56,483 - jnordin - INFO - SN ZTF18absliyc classified with type SN Ia pec, skipping.
+2018-09-26 01:47:56,483 - jnordin - INFO - SN ZTF18absliyc classified with type SN Ia pec, skipping.
+2018-09-26 01:47:56,916 - jnordin - INFO - SN ZTF18absldfl classified with type SN II, skipping.
+2018-09-26 01:47:56,916 - jnordin - INFO - SN ZTF18absldfl classified with type SN II, skipping.
+2018-09-26 01:47:58,187 - jnordin - INFO - SN ZTF18abotcjv classified with type SN Ia, skipping.
+2018-09-26 01:47:58,187 - jnordin - INFO - SN ZTF18abotcjv classified with type SN Ia, skipping.
+2018-09-26 01:47:58,188 - jnordin - INFO - SN ZTF18abnysyy classified with type SN Ia, skipping.
+2018-09-26 01:47:58,188 - jnordin - INFO - SN ZTF18abnysyy classified with type SN Ia, skipping.
+2018-09-26 01:47:58,618 - jnordin - INFO - SN ZTF18abshezu classified with type SLSN-I, skipping.
+2018-09-26 01:47:58,618 - jnordin - INFO - SN ZTF18abshezu classified with type SLSN-I, skipping.
+2018-09-26 01:47:58,618 - jnordin - INFO - SN ZTF18abryewg classified with type SN Ia 91T-like, skipping.
+2018-09-26 01:47:58,618 - jnordin - INFO - SN ZTF18abryewg classified with type SN Ia 91T-like, skipping.
+2018-09-26 01:47:58,619 - jnordin - INFO - SN ZTF18abssukb classified with type SN Ia, skipping.
+2018-09-26 01:47:58,619 - jnordin - INFO - SN ZTF18abssukb classified with type SN Ia, skipping.
+2018-09-26 01:47:58,620 - jnordin - INFO - SN ZTF18absdjms classified with type SN Ia, skipping.
+2018-09-26 01:47:58,620 - jnordin - INFO - SN ZTF18absdjms classified with type SN Ia, skipping.
+2018-09-26 01:48:03,409 - jnordin - INFO - SN ZTF18absumwc has too few filters for saltfit.
+2018-09-26 01:48:03,409 - jnordin - INFO - SN ZTF18absumwc has too few filters for saltfit.
+2018-09-26 01:48:06,206 - jnordin - INFO - SN ZTF18abukmty classified with type SN Ia, skipping.
+2018-09-26 01:48:06,206 - jnordin - INFO - SN ZTF18abukmty classified with type SN Ia, skipping.
+2018-09-26 01:48:06,207 - jnordin - INFO - SN ZTF18abvbayb classified with type SN Ia, skipping.
+2018-09-26 01:48:06,207 - jnordin - INFO - SN ZTF18abvbayb classified with type SN Ia, skipping.
+2018-09-26 01:48:07,981 - jnordin - INFO - SN ZTF18abuhiaj has too few filters for saltfit.
+2018-09-26 01:48:07,981 - jnordin - INFO - SN ZTF18abuhiaj has too few filters for saltfit.
+2018-09-26 01:48:07,982 - jnordin - INFO - SN ZTF18abqapch classified with type SN Ia, skipping.
+2018-09-26 01:48:07,982 - jnordin - INFO - SN ZTF18abqapch classified with type SN Ia, skipping.
+2018-09-26 01:48:15,636 - jnordin - INFO - SN ZTF18abuiknd classified with type SN Ia, skipping.
+2018-09-26 01:48:15,636 - jnordin - INFO - SN ZTF18abuiknd classified with type SN Ia, skipping.
+2018-09-26 01:55:24,669 - jnordin - INFO - SN ZTF18aasdted classified with type SN Ia, skipping.
+2018-09-26 01:55:24,669 - jnordin - INFO - SN ZTF18aasdted classified with type SN Ia, skipping.
+2018-09-26 01:55:24,670 - jnordin - INFO - SN ZTF18aauvptt classified with type AGN, skipping.
+2018-09-26 01:55:24,670 - jnordin - INFO - SN ZTF18aauvptt classified with type AGN, skipping.
+2018-09-26 01:55:28,902 - jnordin - INFO - Not enugh good data for SN ZTF18ablviog. Manual inspection prob needed.
+2018-09-26 01:55:28,902 - jnordin - INFO - Not enugh good data for SN ZTF18ablviog. Manual inspection prob needed.
+2018-09-26 01:55:37,315 - jnordin - INFO - SN ZTF18abmxfrc classified with type SN Ia, skipping.
+2018-09-26 01:55:37,315 - jnordin - INFO - SN ZTF18abmxfrc classified with type SN Ia, skipping.
+2018-09-26 01:55:37,506 - jnordin - INFO - SN ZTF18abnxhmc classified with type SN Ia, skipping.
+2018-09-26 01:55:37,506 - jnordin - INFO - SN ZTF18abnxhmc classified with type SN Ia, skipping.
+2018-09-26 01:55:37,506 - jnordin - INFO - SN ZTF18abnvnqb classified with type SN Ia, skipping.
+2018-09-26 01:55:37,506 - jnordin - INFO - SN ZTF18abnvnqb classified with type SN Ia, skipping.
+2018-09-26 01:55:37,507 - jnordin - INFO - SN ZTF18abkxlcz classified with type SN Ia, skipping.
+2018-09-26 01:55:37,507 - jnordin - INFO - SN ZTF18abkxlcz classified with type SN Ia, skipping.
+2018-09-26 01:55:37,687 - jnordin - INFO - SN ZTF18aboaeqy classified with type SN Ia, skipping.
+2018-09-26 01:55:37,687 - jnordin - INFO - SN ZTF18aboaeqy classified with type SN Ia, skipping.
+2018-09-26 01:55:38,182 - jnordin - INFO - Not enugh good data for SN ZTF18abmjayl. Manual inspection prob needed.
+2018-09-26 01:55:38,182 - jnordin - INFO - Not enugh good data for SN ZTF18abmjayl. Manual inspection prob needed.
+2018-09-26 01:55:38,399 - jnordin - INFO - Not enugh good data for SN ZTF18abmszpd. Manual inspection prob needed.
+2018-09-26 01:55:38,399 - jnordin - INFO - Not enugh good data for SN ZTF18abmszpd. Manual inspection prob needed.
+2018-09-26 01:55:39,082 - jnordin - INFO - SN ZTF18abntwvr has too few filters for saltfit.
+2018-09-26 01:55:39,082 - jnordin - INFO - SN ZTF18abntwvr has too few filters for saltfit.
+2018-09-26 01:55:45,485 - jnordin - INFO - Not enugh good data for SN ZTF18abmadcc. Manual inspection prob needed.
+2018-09-26 01:55:45,485 - jnordin - INFO - Not enugh good data for SN ZTF18abmadcc. Manual inspection prob needed.
+2018-09-26 01:55:45,491 - jnordin - INFO - Not enugh good data for SN ZTF18ablrwlk. Manual inspection prob needed.
+2018-09-26 01:55:45,491 - jnordin - INFO - Not enugh good data for SN ZTF18ablrwlk. Manual inspection prob needed.
+2018-09-26 01:55:45,502 - jnordin - INFO - Not enugh good data for SN ZTF18abmdfba. Manual inspection prob needed.
+2018-09-26 01:55:45,502 - jnordin - INFO - Not enugh good data for SN ZTF18abmdfba. Manual inspection prob needed.
+2018-09-26 01:55:45,512 - jnordin - INFO - Not enugh good data for SN ZTF18abmorft. Manual inspection prob needed.
+2018-09-26 01:55:45,512 - jnordin - INFO - Not enugh good data for SN ZTF18abmorft. Manual inspection prob needed.
+2018-09-26 01:55:45,524 - jnordin - INFO - Not enugh good data for SN ZTF18abmpbjy. Manual inspection prob needed.
+2018-09-26 01:55:45,524 - jnordin - INFO - Not enugh good data for SN ZTF18abmpbjy. Manual inspection prob needed.
+2018-09-26 01:55:56,863 - jnordin - INFO - SN ZTF18abmwuml has too few filters for saltfit.
+2018-09-26 01:55:56,863 - jnordin - INFO - SN ZTF18abmwuml has too few filters for saltfit.
+2018-09-26 01:55:57,674 - jnordin - INFO - SN ZTF18abncqfx has too few filters for saltfit.
+2018-09-26 01:55:57,674 - jnordin - INFO - SN ZTF18abncqfx has too few filters for saltfit.
+2018-09-26 01:55:57,791 - jnordin - INFO - Not enugh good data for SN ZTF18abnzgwe. Manual inspection prob needed.
+2018-09-26 01:55:57,791 - jnordin - INFO - Not enugh good data for SN ZTF18abnzgwe. Manual inspection prob needed.
+2018-09-26 01:55:58,495 - jnordin - INFO - SN ZTF18abnucig classified with type SN Ia, skipping.
+2018-09-26 01:55:58,495 - jnordin - INFO - SN ZTF18abnucig classified with type SN Ia, skipping.
+2018-09-26 01:55:58,496 - jnordin - INFO - SN ZTF18abglwpn classified with type AGN, skipping.
+2018-09-26 01:55:58,496 - jnordin - INFO - SN ZTF18abglwpn classified with type AGN, skipping.
+2018-09-26 01:55:58,496 - jnordin - INFO - SN ZTF18abmaewl classified with type SN Ia, skipping.
+2018-09-26 01:55:58,496 - jnordin - INFO - SN ZTF18abmaewl classified with type SN Ia, skipping.
+2018-09-26 01:55:58,654 - jnordin - INFO - SN ZTF18ablwafp classified with type SLSN-I?, skipping.
+2018-09-26 01:55:58,654 - jnordin - INFO - SN ZTF18ablwafp classified with type SLSN-I?, skipping.
+2018-09-26 01:55:58,655 - jnordin - INFO - SN ZTF18abmjcbs classified with type SN Ia, skipping.
+2018-09-26 01:55:58,655 - jnordin - INFO - SN ZTF18abmjcbs classified with type SN Ia, skipping.
+2018-09-26 01:55:59,296 - jnordin - INFO - SN ZTF18abncimo classified with type SN Ia, skipping.
+2018-09-26 01:55:59,296 - jnordin - INFO - SN ZTF18abncimo classified with type SN Ia, skipping.
+2018-09-26 01:55:59,297 - jnordin - INFO - SN ZTF18abnygkb classified with type SN Ia, skipping.
+2018-09-26 01:55:59,297 - jnordin - INFO - SN ZTF18abnygkb classified with type SN Ia, skipping.
+2018-09-26 01:55:59,588 - jnordin - INFO - SN ZTF18abnvoel classified with type SN Ia, skipping.
+2018-09-26 01:55:59,588 - jnordin - INFO - SN ZTF18abnvoel classified with type SN Ia, skipping.
+2018-09-26 01:55:59,593 - jnordin - INFO - Not enugh good data for SN ZTF18aboqvfa. Manual inspection prob needed.
+2018-09-26 01:55:59,593 - jnordin - INFO - Not enugh good data for SN ZTF18aboqvfa. Manual inspection prob needed.
+2018-09-26 01:55:59,603 - jnordin - INFO - Not enugh good data for SN ZTF18aborbhi. Manual inspection prob needed.
+2018-09-26 01:55:59,603 - jnordin - INFO - Not enugh good data for SN ZTF18aborbhi. Manual inspection prob needed.
+2018-09-26 01:55:59,609 - jnordin - INFO - SN ZTF18aborkxd has too few filters for saltfit.
+2018-09-26 01:55:59,609 - jnordin - INFO - SN ZTF18aborkxd has too few filters for saltfit.
+2018-09-26 01:55:59,611 - jnordin - INFO - SN ZTF18aborkox has too few filters for saltfit.
+2018-09-26 01:55:59,611 - jnordin - INFO - SN ZTF18aborkox has too few filters for saltfit.
+2018-09-26 01:55:59,626 - jnordin - INFO - Not enugh good data for SN ZTF18abmkbqo. Manual inspection prob needed.
+2018-09-26 01:55:59,626 - jnordin - INFO - Not enugh good data for SN ZTF18abmkbqo. Manual inspection prob needed.
+2018-09-26 01:55:59,935 - jnordin - INFO - SN ZTF18abotaki has too few filters for saltfit.
+2018-09-26 01:55:59,935 - jnordin - INFO - SN ZTF18abotaki has too few filters for saltfit.
+2018-09-26 01:55:59,936 - jnordin - INFO - SN ZTF18abpavnx has too few filters for saltfit.
+2018-09-26 01:55:59,936 - jnordin - INFO - SN ZTF18abpavnx has too few filters for saltfit.
+2018-09-26 01:55:59,937 - jnordin - INFO - SN ZTF18abpaywm classified with type SN Ia, skipping.
+2018-09-26 01:55:59,937 - jnordin - INFO - SN ZTF18abpaywm classified with type SN Ia, skipping.
+2018-09-26 01:55:59,938 - jnordin - INFO - SN ZTF18aboztta classified with type SN Ia, skipping.
+2018-09-26 01:55:59,938 - jnordin - INFO - SN ZTF18aboztta classified with type SN Ia, skipping.
+2018-09-26 01:55:59,939 - jnordin - INFO - SN ZTF18abmwpyl classified with type SN Ia, skipping.
+2018-09-26 01:55:59,939 - jnordin - INFO - SN ZTF18abmwpyl classified with type SN Ia, skipping.
+2018-09-26 01:55:59,940 - jnordin - INFO - SN ZTF18abpttky classified with type SN Ia, skipping.
+2018-09-26 01:55:59,940 - jnordin - INFO - SN ZTF18abpttky classified with type SN Ia, skipping.
+2018-09-26 01:55:59,957 - jnordin - INFO - Not enugh good data for SN ZTF18abanjoi. Manual inspection prob needed.
+2018-09-26 01:55:59,957 - jnordin - INFO - Not enugh good data for SN ZTF18abanjoi. Manual inspection prob needed.
+2018-09-26 01:56:00,407 - jnordin - INFO - SN ZTF18abnuhuy classified with type AGN, skipping.
+2018-09-26 01:56:00,407 - jnordin - INFO - SN ZTF18abnuhuy classified with type AGN, skipping.
+2018-09-26 01:56:00,408 - jnordin - INFO - SN ZTF18abrlupd classified with type SN Ia, skipping.
+2018-09-26 01:56:00,408 - jnordin - INFO - SN ZTF18abrlupd classified with type SN Ia, skipping.
+2018-09-26 01:56:00,417 - jnordin - INFO - SN ZTF18abmskzu has too few filters for saltfit.
+2018-09-26 01:56:00,417 - jnordin - INFO - SN ZTF18abmskzu has too few filters for saltfit.
+2018-09-26 01:56:00,877 - jnordin - INFO - SN ZTF18abqbuaj classified with type SN Ibn, skipping.
+2018-09-26 01:56:00,877 - jnordin - INFO - SN ZTF18abqbuaj classified with type SN Ibn, skipping.
+2018-09-26 01:56:00,879 - jnordin - INFO - SN ZTF18abqboud classified with type CV, skipping.
+2018-09-26 01:56:00,879 - jnordin - INFO - SN ZTF18abqboud classified with type CV, skipping.
+2018-09-26 01:56:00,879 - jnordin - INFO - SN ZTF18abqlpgq classified with type SN Ia, skipping.
+2018-09-26 01:56:00,879 - jnordin - INFO - SN ZTF18abqlpgq classified with type SN Ia, skipping.
+2018-09-26 01:56:00,880 - jnordin - INFO - SN ZTF18abqbavl classified with type SN Ia, skipping.
+2018-09-26 01:56:00,880 - jnordin - INFO - SN ZTF18abqbavl classified with type SN Ia, skipping.
+2018-09-26 01:56:00,881 - jnordin - INFO - SN ZTF18abqdadp classified with type SN Ia, skipping.
+2018-09-26 01:56:00,881 - jnordin - INFO - SN ZTF18abqdadp classified with type SN Ia, skipping.
+2018-09-26 01:56:01,705 - jnordin - INFO - SN ZTF18abrwudp classified with type SN Ia, skipping.
+2018-09-26 01:56:01,705 - jnordin - INFO - SN ZTF18abrwudp classified with type SN Ia, skipping.
+2018-09-26 01:56:02,743 - jnordin - INFO - SN ZTF18abqjvyl classified with type SN Ia, skipping.
+2018-09-26 01:56:02,743 - jnordin - INFO - SN ZTF18abqjvyl classified with type SN Ia, skipping.
+2018-09-26 01:56:02,744 - jnordin - INFO - SN ZTF18abpaori has too few filters for saltfit.
+2018-09-26 01:56:02,744 - jnordin - INFO - SN ZTF18abpaori has too few filters for saltfit.
+2018-09-26 01:56:05,377 - jnordin - INFO - SN ZTF18abolvoh classified with type SN Ia, skipping.
+2018-09-26 01:56:05,377 - jnordin - INFO - SN ZTF18abolvoh classified with type SN Ia, skipping.
+2018-09-26 01:56:06,271 - jnordin - INFO - SN ZTF18abrzevz classified with type SN Ia, skipping.
+2018-09-26 01:56:06,271 - jnordin - INFO - SN ZTF18abrzevz classified with type SN Ia, skipping.
+2018-09-26 01:56:06,272 - jnordin - INFO - SN ZTF18abqyvzy classified with type SN II, skipping.
+2018-09-26 01:56:06,272 - jnordin - INFO - SN ZTF18abqyvzy classified with type SN II, skipping.
+2018-09-26 01:56:06,273 - jnordin - INFO - SN ZTF18absbsoz classified with type SN Ia, skipping.
+2018-09-26 01:56:06,273 - jnordin - INFO - SN ZTF18absbsoz classified with type SN Ia, skipping.
+2018-09-26 01:56:06,274 - jnordin - INFO - SN ZTF18ablvime classified with type SN Ia, skipping.
+2018-09-26 01:56:06,274 - jnordin - INFO - SN ZTF18ablvime classified with type SN Ia, skipping.
+2018-09-26 01:56:06,583 - jnordin - INFO - SN ZTF18absdxpk classified with type SN Ia, skipping.
+2018-09-26 01:56:06,583 - jnordin - INFO - SN ZTF18absdxpk classified with type SN Ia, skipping.
+2018-09-26 01:56:06,584 - jnordin - INFO - SN ZTF18absliyc classified with type SN Ia pec, skipping.
+2018-09-26 01:56:06,584 - jnordin - INFO - SN ZTF18absliyc classified with type SN Ia pec, skipping.
+2018-09-26 01:56:07,093 - jnordin - INFO - SN ZTF18absldfl classified with type SN II, skipping.
+2018-09-26 01:56:07,093 - jnordin - INFO - SN ZTF18absldfl classified with type SN II, skipping.
+2018-09-26 01:56:08,363 - jnordin - INFO - SN ZTF18abotcjv classified with type SN Ia, skipping.
+2018-09-26 01:56:08,363 - jnordin - INFO - SN ZTF18abotcjv classified with type SN Ia, skipping.
+2018-09-26 01:56:08,364 - jnordin - INFO - SN ZTF18abnysyy classified with type SN Ia, skipping.
+2018-09-26 01:56:08,364 - jnordin - INFO - SN ZTF18abnysyy classified with type SN Ia, skipping.
+2018-09-26 01:56:08,851 - jnordin - INFO - SN ZTF18abshezu classified with type SLSN-I, skipping.
+2018-09-26 01:56:08,851 - jnordin - INFO - SN ZTF18abshezu classified with type SLSN-I, skipping.
+2018-09-26 01:56:08,852 - jnordin - INFO - SN ZTF18abryewg classified with type SN Ia 91T-like, skipping.
+2018-09-26 01:56:08,852 - jnordin - INFO - SN ZTF18abryewg classified with type SN Ia 91T-like, skipping.
+2018-09-26 01:56:08,853 - jnordin - INFO - SN ZTF18abssukb classified with type SN Ia, skipping.
+2018-09-26 01:56:08,853 - jnordin - INFO - SN ZTF18abssukb classified with type SN Ia, skipping.
+2018-09-26 01:56:08,854 - jnordin - INFO - SN ZTF18absdjms classified with type SN Ia, skipping.
+2018-09-26 01:56:08,854 - jnordin - INFO - SN ZTF18absdjms classified with type SN Ia, skipping.
+2018-09-26 01:56:13,019 - jnordin - INFO - SN ZTF18absumwc has too few filters for saltfit.
+2018-09-26 01:56:13,019 - jnordin - INFO - SN ZTF18absumwc has too few filters for saltfit.
+2018-09-26 01:56:14,049 - jnordin - INFO - SN ZTF18abukmty classified with type SN Ia, skipping.
+2018-09-26 01:56:14,049 - jnordin - INFO - SN ZTF18abukmty classified with type SN Ia, skipping.
+2018-09-26 01:56:14,050 - jnordin - INFO - SN ZTF18abvbayb classified with type SN Ia, skipping.
+2018-09-26 01:56:14,050 - jnordin - INFO - SN ZTF18abvbayb classified with type SN Ia, skipping.
+2018-09-26 01:56:14,052 - jnordin - INFO - SN ZTF18abuhiaj has too few filters for saltfit.
+2018-09-26 01:56:14,052 - jnordin - INFO - SN ZTF18abuhiaj has too few filters for saltfit.
+2018-09-26 01:56:14,059 - jnordin - INFO - SN ZTF18abqapch classified with type SN Ia, skipping.
+2018-09-26 01:56:14,059 - jnordin - INFO - SN ZTF18abqapch classified with type SN Ia, skipping.
+2018-09-26 01:56:14,556 - jnordin - INFO - SN ZTF18abuiknd classified with type SN Ia, skipping.
+2018-09-26 01:56:14,556 - jnordin - INFO - SN ZTF18abuiknd classified with type SN Ia, skipping.
+2018-09-26 01:56:19,118 - jnordin - INFO - SN ZTF18abtxvhy has too few filters for saltfit.
+2018-09-26 01:56:19,118 - jnordin - INFO - SN ZTF18abtxvhy has too few filters for saltfit.
+2018-09-26 01:56:19,121 - jnordin - INFO - SN ZTF18abslxhz classified with type SN Ia, skipping.
+2018-09-26 01:56:19,121 - jnordin - INFO - SN ZTF18abslxhz classified with type SN Ia, skipping.
+2018-09-26 01:56:21,421 - jnordin - INFO - SN ZTF18abwdcdv classified with type SN Ia, skipping.
+2018-09-26 01:56:21,421 - jnordin - INFO - SN ZTF18abwdcdv classified with type SN Ia, skipping.
+2018-09-26 01:56:37,654 - jnordin - INFO - SN ZTF18abwclem has too few filters for saltfit.
+2018-09-26 01:56:37,654 - jnordin - INFO - SN ZTF18abwclem has too few filters for saltfit.
+2018-09-26 01:56:52,812 - jnordin - INFO - SN ZTF18abwlonm has too few filters for saltfit.
+2018-09-26 01:56:52,812 - jnordin - INFO - SN ZTF18abwlonm has too few filters for saltfit.
+2018-09-26 01:57:04,985 - jnordin - INFO - SN ZTF18abwbaim has too few filters for saltfit.
+2018-09-26 01:57:04,985 - jnordin - INFO - SN ZTF18abwbaim has too few filters for saltfit.
+2018-09-26 01:57:16,134 - jnordin - INFO - SN ZTF18abwxhjo has too few filters for saltfit.
+2018-09-26 01:57:16,134 - jnordin - INFO - SN ZTF18abwxhjo has too few filters for saltfit.
+2018-09-26 01:57:16,136 - jnordin - INFO - SN ZTF18abucvbf classified with type SN Ia, skipping.
+2018-09-26 01:57:16,136 - jnordin - INFO - SN ZTF18abucvbf classified with type SN Ia, skipping.
+2018-09-26 01:57:18,903 - jnordin - INFO - SN ZTF18abwlopg has too few filters for saltfit.
+2018-09-26 01:57:18,903 - jnordin - INFO - SN ZTF18abwlopg has too few filters for saltfit.
+2018-09-26 01:57:51,666 - jnordin - INFO - SN ZTF18abvkhul classified with type SN Ia, skipping.
+2018-09-26 01:57:51,666 - jnordin - INFO - SN ZTF18abvkhul classified with type SN Ia, skipping.
+2018-09-26 01:58:05,081 - jnordin - INFO - SN ZTF18abxfcql has too few filters for saltfit.
+2018-09-26 01:58:05,081 - jnordin - INFO - SN ZTF18abxfcql has too few filters for saltfit.
+2018-09-26 01:58:05,082 - jnordin - INFO - SN ZTF18abtcdfv classified with type SN Ia, skipping.
+2018-09-26 01:58:05,082 - jnordin - INFO - SN ZTF18abtcdfv classified with type SN Ia, skipping.
+2018-09-26 01:58:05,082 - jnordin - INFO - SN ZTF18absiymj classified with type SN Ia, skipping.
+2018-09-26 01:58:05,082 - jnordin - INFO - SN ZTF18absiymj classified with type SN Ia, skipping.
+2018-09-26 01:58:12,043 - jnordin - INFO - SN ZTF18abylgru has too few filters for saltfit.
+2018-09-26 01:58:12,043 - jnordin - INFO - SN ZTF18abylgru has too few filters for saltfit.
+2018-09-26 01:59:18,274 - jnordin - INFO - SN ZTF18aasdted classified with type SN Ia, skipping.
+2018-09-26 01:59:18,274 - jnordin - INFO - SN ZTF18aasdted classified with type SN Ia, skipping.
+2018-09-26 01:59:18,275 - jnordin - INFO - SN ZTF18aauvptt classified with type AGN, skipping.
+2018-09-26 01:59:18,275 - jnordin - INFO - SN ZTF18aauvptt classified with type AGN, skipping.
+2018-09-26 01:59:21,470 - jnordin - INFO - Not enugh good data for SN ZTF18ablviog. Manual inspection prob needed.
+2018-09-26 01:59:21,470 - jnordin - INFO - Not enugh good data for SN ZTF18ablviog. Manual inspection prob needed.
+2018-09-26 01:59:24,737 - jnordin - INFO - SN ZTF18abmxfrc classified with type SN Ia, skipping.
+2018-09-26 01:59:24,737 - jnordin - INFO - SN ZTF18abmxfrc classified with type SN Ia, skipping.
+2018-09-26 01:59:24,943 - jnordin - INFO - SN ZTF18abnxhmc classified with type SN Ia, skipping.
+2018-09-26 01:59:24,943 - jnordin - INFO - SN ZTF18abnxhmc classified with type SN Ia, skipping.
+2018-09-26 01:59:24,944 - jnordin - INFO - SN ZTF18abnvnqb classified with type SN Ia, skipping.
+2018-09-26 01:59:24,944 - jnordin - INFO - SN ZTF18abnvnqb classified with type SN Ia, skipping.
+2018-09-26 01:59:24,947 - jnordin - INFO - SN ZTF18abkxlcz classified with type SN Ia, skipping.
+2018-09-26 01:59:24,947 - jnordin - INFO - SN ZTF18abkxlcz classified with type SN Ia, skipping.
+2018-09-26 01:59:25,114 - jnordin - INFO - SN ZTF18aboaeqy classified with type SN Ia, skipping.
+2018-09-26 01:59:25,114 - jnordin - INFO - SN ZTF18aboaeqy classified with type SN Ia, skipping.
+2018-09-26 01:59:25,644 - jnordin - INFO - Not enugh good data for SN ZTF18abmjayl. Manual inspection prob needed.
+2018-09-26 01:59:25,644 - jnordin - INFO - Not enugh good data for SN ZTF18abmjayl. Manual inspection prob needed.
+2018-09-26 01:59:25,943 - jnordin - INFO - Not enugh good data for SN ZTF18abmszpd. Manual inspection prob needed.
+2018-09-26 01:59:25,943 - jnordin - INFO - Not enugh good data for SN ZTF18abmszpd. Manual inspection prob needed.
+2018-09-26 01:59:26,184 - jnordin - INFO - SN ZTF18abntwvr has too few filters for saltfit.
+2018-09-26 01:59:26,184 - jnordin - INFO - SN ZTF18abntwvr has too few filters for saltfit.
+2018-09-26 01:59:28,294 - jnordin - INFO - Not enugh good data for SN ZTF18abmadcc. Manual inspection prob needed.
+2018-09-26 01:59:28,294 - jnordin - INFO - Not enugh good data for SN ZTF18abmadcc. Manual inspection prob needed.
+2018-09-26 01:59:28,299 - jnordin - INFO - Not enugh good data for SN ZTF18ablrwlk. Manual inspection prob needed.
+2018-09-26 01:59:28,299 - jnordin - INFO - Not enugh good data for SN ZTF18ablrwlk. Manual inspection prob needed.
+2018-09-26 01:59:28,307 - jnordin - INFO - Not enugh good data for SN ZTF18abmdfba. Manual inspection prob needed.
+2018-09-26 01:59:28,307 - jnordin - INFO - Not enugh good data for SN ZTF18abmdfba. Manual inspection prob needed.
+2018-09-26 01:59:28,317 - jnordin - INFO - Not enugh good data for SN ZTF18abmorft. Manual inspection prob needed.
+2018-09-26 01:59:28,317 - jnordin - INFO - Not enugh good data for SN ZTF18abmorft. Manual inspection prob needed.
+2018-09-26 01:59:28,324 - jnordin - INFO - Not enugh good data for SN ZTF18abmpbjy. Manual inspection prob needed.
+2018-09-26 01:59:28,324 - jnordin - INFO - Not enugh good data for SN ZTF18abmpbjy. Manual inspection prob needed.
+2018-09-26 01:59:32,740 - jnordin - INFO - SN ZTF18abmwuml has too few filters for saltfit.
+2018-09-26 01:59:32,740 - jnordin - INFO - SN ZTF18abmwuml has too few filters for saltfit.
+2018-09-26 01:59:33,556 - jnordin - INFO - SN ZTF18abncqfx has too few filters for saltfit.
+2018-09-26 01:59:33,556 - jnordin - INFO - SN ZTF18abncqfx has too few filters for saltfit.
+2018-09-26 01:59:33,711 - jnordin - INFO - Not enugh good data for SN ZTF18abnzgwe. Manual inspection prob needed.
+2018-09-26 01:59:33,711 - jnordin - INFO - Not enugh good data for SN ZTF18abnzgwe. Manual inspection prob needed.
+2018-09-26 01:59:34,465 - jnordin - INFO - SN ZTF18abnucig classified with type SN Ia, skipping.
+2018-09-26 01:59:34,465 - jnordin - INFO - SN ZTF18abnucig classified with type SN Ia, skipping.
+2018-09-26 01:59:34,465 - jnordin - INFO - SN ZTF18abglwpn classified with type AGN, skipping.
+2018-09-26 01:59:34,465 - jnordin - INFO - SN ZTF18abglwpn classified with type AGN, skipping.
+2018-09-26 01:59:34,466 - jnordin - INFO - SN ZTF18abmaewl classified with type SN Ia, skipping.
+2018-09-26 01:59:34,466 - jnordin - INFO - SN ZTF18abmaewl classified with type SN Ia, skipping.
+2018-09-26 01:59:34,670 - jnordin - INFO - SN ZTF18ablwafp classified with type SLSN-I?, skipping.
+2018-09-26 01:59:34,670 - jnordin - INFO - SN ZTF18ablwafp classified with type SLSN-I?, skipping.
+2018-09-26 01:59:34,671 - jnordin - INFO - SN ZTF18abmjcbs classified with type SN Ia, skipping.
+2018-09-26 01:59:34,671 - jnordin - INFO - SN ZTF18abmjcbs classified with type SN Ia, skipping.
+2018-09-26 01:59:35,234 - jnordin - INFO - SN ZTF18abncimo classified with type SN Ia, skipping.
+2018-09-26 01:59:35,234 - jnordin - INFO - SN ZTF18abncimo classified with type SN Ia, skipping.
+2018-09-26 01:59:35,235 - jnordin - INFO - SN ZTF18abnygkb classified with type SN Ia, skipping.
+2018-09-26 01:59:35,235 - jnordin - INFO - SN ZTF18abnygkb classified with type SN Ia, skipping.
+2018-09-26 01:59:35,513 - jnordin - INFO - SN ZTF18abnvoel classified with type SN Ia, skipping.
+2018-09-26 01:59:35,513 - jnordin - INFO - SN ZTF18abnvoel classified with type SN Ia, skipping.
+2018-09-26 01:59:35,518 - jnordin - INFO - Not enugh good data for SN ZTF18aboqvfa. Manual inspection prob needed.
+2018-09-26 01:59:35,518 - jnordin - INFO - Not enugh good data for SN ZTF18aboqvfa. Manual inspection prob needed.
+2018-09-26 01:59:35,525 - jnordin - INFO - Not enugh good data for SN ZTF18aborbhi. Manual inspection prob needed.
+2018-09-26 01:59:35,525 - jnordin - INFO - Not enugh good data for SN ZTF18aborbhi. Manual inspection prob needed.
+2018-09-26 01:59:35,527 - jnordin - INFO - SN ZTF18aborkxd has too few filters for saltfit.
+2018-09-26 01:59:35,527 - jnordin - INFO - SN ZTF18aborkxd has too few filters for saltfit.
+2018-09-26 01:59:35,529 - jnordin - INFO - SN ZTF18aborkox has too few filters for saltfit.
+2018-09-26 01:59:35,529 - jnordin - INFO - SN ZTF18aborkox has too few filters for saltfit.
+2018-09-26 01:59:35,538 - jnordin - INFO - Not enugh good data for SN ZTF18abmkbqo. Manual inspection prob needed.
+2018-09-26 01:59:35,538 - jnordin - INFO - Not enugh good data for SN ZTF18abmkbqo. Manual inspection prob needed.
+2018-09-26 01:59:35,770 - jnordin - INFO - SN ZTF18abotaki has too few filters for saltfit.
+2018-09-26 01:59:35,770 - jnordin - INFO - SN ZTF18abotaki has too few filters for saltfit.
+2018-09-26 01:59:35,771 - jnordin - INFO - SN ZTF18abpavnx has too few filters for saltfit.
+2018-09-26 01:59:35,771 - jnordin - INFO - SN ZTF18abpavnx has too few filters for saltfit.
+2018-09-26 01:59:35,771 - jnordin - INFO - SN ZTF18abpaywm classified with type SN Ia, skipping.
+2018-09-26 01:59:35,771 - jnordin - INFO - SN ZTF18abpaywm classified with type SN Ia, skipping.
+2018-09-26 01:59:35,772 - jnordin - INFO - SN ZTF18aboztta classified with type SN Ia, skipping.
+2018-09-26 01:59:35,772 - jnordin - INFO - SN ZTF18aboztta classified with type SN Ia, skipping.
+2018-09-26 01:59:35,773 - jnordin - INFO - SN ZTF18abmwpyl classified with type SN Ia, skipping.
+2018-09-26 01:59:35,773 - jnordin - INFO - SN ZTF18abmwpyl classified with type SN Ia, skipping.
+2018-09-26 01:59:35,774 - jnordin - INFO - SN ZTF18abpttky classified with type SN Ia, skipping.
+2018-09-26 01:59:35,774 - jnordin - INFO - SN ZTF18abpttky classified with type SN Ia, skipping.
+2018-09-26 01:59:35,784 - jnordin - INFO - Not enugh good data for SN ZTF18abanjoi. Manual inspection prob needed.
+2018-09-26 01:59:35,784 - jnordin - INFO - Not enugh good data for SN ZTF18abanjoi. Manual inspection prob needed.
+2018-09-26 01:59:36,154 - jnordin - INFO - SN ZTF18abnuhuy classified with type AGN, skipping.
+2018-09-26 01:59:36,154 - jnordin - INFO - SN ZTF18abnuhuy classified with type AGN, skipping.
+2018-09-26 01:59:36,155 - jnordin - INFO - SN ZTF18abrlupd classified with type SN Ia, skipping.
+2018-09-26 01:59:36,155 - jnordin - INFO - SN ZTF18abrlupd classified with type SN Ia, skipping.
+2018-09-26 01:59:36,161 - jnordin - INFO - SN ZTF18abmskzu has too few filters for saltfit.
+2018-09-26 01:59:36,161 - jnordin - INFO - SN ZTF18abmskzu has too few filters for saltfit.
+2018-09-26 01:59:36,608 - jnordin - INFO - SN ZTF18abqbuaj classified with type SN Ibn, skipping.
+2018-09-26 01:59:36,608 - jnordin - INFO - SN ZTF18abqbuaj classified with type SN Ibn, skipping.
+2018-09-26 01:59:36,609 - jnordin - INFO - SN ZTF18abqboud classified with type CV, skipping.
+2018-09-26 01:59:36,609 - jnordin - INFO - SN ZTF18abqboud classified with type CV, skipping.
+2018-09-26 01:59:36,609 - jnordin - INFO - SN ZTF18abqlpgq classified with type SN Ia, skipping.
+2018-09-26 01:59:36,609 - jnordin - INFO - SN ZTF18abqlpgq classified with type SN Ia, skipping.
+2018-09-26 01:59:36,610 - jnordin - INFO - SN ZTF18abqbavl classified with type SN Ia, skipping.
+2018-09-26 01:59:36,610 - jnordin - INFO - SN ZTF18abqbavl classified with type SN Ia, skipping.
+2018-09-26 01:59:36,611 - jnordin - INFO - SN ZTF18abqdadp classified with type SN Ia, skipping.
+2018-09-26 01:59:36,611 - jnordin - INFO - SN ZTF18abqdadp classified with type SN Ia, skipping.
+2018-09-26 01:59:37,695 - jnordin - INFO - SN ZTF18abrwudp classified with type SN Ia, skipping.
+2018-09-26 01:59:37,695 - jnordin - INFO - SN ZTF18abrwudp classified with type SN Ia, skipping.
+2018-09-26 01:59:38,886 - jnordin - INFO - SN ZTF18abqjvyl classified with type SN Ia, skipping.
+2018-09-26 01:59:38,886 - jnordin - INFO - SN ZTF18abqjvyl classified with type SN Ia, skipping.
+2018-09-26 01:59:38,887 - jnordin - INFO - SN ZTF18abpaori has too few filters for saltfit.
+2018-09-26 01:59:38,887 - jnordin - INFO - SN ZTF18abpaori has too few filters for saltfit.
+2018-09-26 01:59:40,331 - jnordin - INFO - SN ZTF18abolvoh classified with type SN Ia, skipping.
+2018-09-26 01:59:40,331 - jnordin - INFO - SN ZTF18abolvoh classified with type SN Ia, skipping.
+2018-09-26 01:59:41,265 - jnordin - INFO - SN ZTF18abrzevz classified with type SN Ia, skipping.
+2018-09-26 01:59:41,265 - jnordin - INFO - SN ZTF18abrzevz classified with type SN Ia, skipping.
+2018-09-26 01:59:41,266 - jnordin - INFO - SN ZTF18abqyvzy classified with type SN II, skipping.
+2018-09-26 01:59:41,266 - jnordin - INFO - SN ZTF18abqyvzy classified with type SN II, skipping.
+2018-09-26 01:59:41,268 - jnordin - INFO - SN ZTF18absbsoz classified with type SN Ia, skipping.
+2018-09-26 01:59:41,268 - jnordin - INFO - SN ZTF18absbsoz classified with type SN Ia, skipping.
+2018-09-26 01:59:41,271 - jnordin - INFO - SN ZTF18ablvime classified with type SN Ia, skipping.
+2018-09-26 01:59:41,271 - jnordin - INFO - SN ZTF18ablvime classified with type SN Ia, skipping.
+2018-09-26 01:59:41,534 - jnordin - INFO - SN ZTF18absdxpk classified with type SN Ia, skipping.
+2018-09-26 01:59:41,534 - jnordin - INFO - SN ZTF18absdxpk classified with type SN Ia, skipping.
+2018-09-26 01:59:41,534 - jnordin - INFO - SN ZTF18absliyc classified with type SN Ia pec, skipping.
+2018-09-26 01:59:41,534 - jnordin - INFO - SN ZTF18absliyc classified with type SN Ia pec, skipping.
+2018-09-26 01:59:41,980 - jnordin - INFO - SN ZTF18absldfl classified with type SN II, skipping.
+2018-09-26 01:59:41,980 - jnordin - INFO - SN ZTF18absldfl classified with type SN II, skipping.
+2018-09-26 01:59:43,280 - jnordin - INFO - SN ZTF18abotcjv classified with type SN Ia, skipping.
+2018-09-26 01:59:43,280 - jnordin - INFO - SN ZTF18abotcjv classified with type SN Ia, skipping.
+2018-09-26 01:59:43,281 - jnordin - INFO - SN ZTF18abnysyy classified with type SN Ia, skipping.
+2018-09-26 01:59:43,281 - jnordin - INFO - SN ZTF18abnysyy classified with type SN Ia, skipping.
+2018-09-26 01:59:43,690 - jnordin - INFO - SN ZTF18abshezu classified with type SLSN-I, skipping.
+2018-09-26 01:59:43,690 - jnordin - INFO - SN ZTF18abshezu classified with type SLSN-I, skipping.
+2018-09-26 01:59:43,691 - jnordin - INFO - SN ZTF18abryewg classified with type SN Ia 91T-like, skipping.
+2018-09-26 01:59:43,691 - jnordin - INFO - SN ZTF18abryewg classified with type SN Ia 91T-like, skipping.
+2018-09-26 01:59:43,694 - jnordin - INFO - SN ZTF18abssukb classified with type SN Ia, skipping.
+2018-09-26 01:59:43,694 - jnordin - INFO - SN ZTF18abssukb classified with type SN Ia, skipping.
+2018-09-26 01:59:43,697 - jnordin - INFO - SN ZTF18absdjms classified with type SN Ia, skipping.
+2018-09-26 01:59:43,697 - jnordin - INFO - SN ZTF18absdjms classified with type SN Ia, skipping.
+2018-09-26 01:59:47,854 - jnordin - INFO - SN ZTF18absumwc has too few filters for saltfit.
+2018-09-26 01:59:47,854 - jnordin - INFO - SN ZTF18absumwc has too few filters for saltfit.
+2018-09-26 01:59:48,978 - jnordin - INFO - SN ZTF18abukmty classified with type SN Ia, skipping.
+2018-09-26 01:59:48,978 - jnordin - INFO - SN ZTF18abukmty classified with type SN Ia, skipping.
+2018-09-26 01:59:48,979 - jnordin - INFO - SN ZTF18abvbayb classified with type SN Ia, skipping.
+2018-09-26 01:59:48,979 - jnordin - INFO - SN ZTF18abvbayb classified with type SN Ia, skipping.
+2018-09-26 01:59:48,980 - jnordin - INFO - SN ZTF18abuhiaj has too few filters for saltfit.
+2018-09-26 01:59:48,980 - jnordin - INFO - SN ZTF18abuhiaj has too few filters for saltfit.
+2018-09-26 01:59:48,981 - jnordin - INFO - SN ZTF18abqapch classified with type SN Ia, skipping.
+2018-09-26 01:59:48,981 - jnordin - INFO - SN ZTF18abqapch classified with type SN Ia, skipping.
+2018-09-26 01:59:49,943 - jnordin - INFO - SN ZTF18abuiknd classified with type SN Ia, skipping.
+2018-09-26 01:59:49,943 - jnordin - INFO - SN ZTF18abuiknd classified with type SN Ia, skipping.
+2018-09-26 01:59:50,185 - jnordin - INFO - SN ZTF18abtxvhy has too few filters for saltfit.
+2018-09-26 01:59:50,185 - jnordin - INFO - SN ZTF18abtxvhy has too few filters for saltfit.
+2018-09-26 01:59:50,186 - jnordin - INFO - SN ZTF18abslxhz classified with type SN Ia, skipping.
+2018-09-26 01:59:50,186 - jnordin - INFO - SN ZTF18abslxhz classified with type SN Ia, skipping.
+2018-09-26 01:59:50,709 - jnordin - INFO - SN ZTF18abwdcdv classified with type SN Ia, skipping.
+2018-09-26 01:59:50,709 - jnordin - INFO - SN ZTF18abwdcdv classified with type SN Ia, skipping.
+2018-09-26 01:59:51,026 - jnordin - INFO - SN ZTF18abwclem has too few filters for saltfit.
+2018-09-26 01:59:51,026 - jnordin - INFO - SN ZTF18abwclem has too few filters for saltfit.
+2018-09-26 01:59:52,904 - jnordin - INFO - SN ZTF18abwlonm has too few filters for saltfit.
+2018-09-26 01:59:52,904 - jnordin - INFO - SN ZTF18abwlonm has too few filters for saltfit.
+2018-09-26 01:59:53,514 - jnordin - INFO - SN ZTF18abwbaim has too few filters for saltfit.
+2018-09-26 01:59:53,514 - jnordin - INFO - SN ZTF18abwbaim has too few filters for saltfit.
+2018-09-26 01:59:53,961 - jnordin - INFO - SN ZTF18abwxhjo has too few filters for saltfit.
+2018-09-26 01:59:53,961 - jnordin - INFO - SN ZTF18abwxhjo has too few filters for saltfit.
+2018-09-26 01:59:53,962 - jnordin - INFO - SN ZTF18abucvbf classified with type SN Ia, skipping.
+2018-09-26 01:59:53,962 - jnordin - INFO - SN ZTF18abucvbf classified with type SN Ia, skipping.
+2018-09-26 01:59:53,963 - jnordin - INFO - SN ZTF18abwlopg has too few filters for saltfit.
+2018-09-26 01:59:53,963 - jnordin - INFO - SN ZTF18abwlopg has too few filters for saltfit.
+2018-09-26 01:59:58,682 - jnordin - INFO - SN ZTF18abvkhul classified with type SN Ia, skipping.
+2018-09-26 01:59:58,682 - jnordin - INFO - SN ZTF18abvkhul classified with type SN Ia, skipping.
+2018-09-26 01:59:59,273 - jnordin - INFO - SN ZTF18abxfcql has too few filters for saltfit.
+2018-09-26 01:59:59,273 - jnordin - INFO - SN ZTF18abxfcql has too few filters for saltfit.
+2018-09-26 01:59:59,274 - jnordin - INFO - SN ZTF18abtcdfv classified with type SN Ia, skipping.
+2018-09-26 01:59:59,274 - jnordin - INFO - SN ZTF18abtcdfv classified with type SN Ia, skipping.
+2018-09-26 01:59:59,275 - jnordin - INFO - SN ZTF18absiymj classified with type SN Ia, skipping.
+2018-09-26 01:59:59,275 - jnordin - INFO - SN ZTF18absiymj classified with type SN Ia, skipping.
+2018-09-26 01:59:59,276 - jnordin - INFO - SN ZTF18abylgru has too few filters for saltfit.
+2018-09-26 01:59:59,276 - jnordin - INFO - SN ZTF18abylgru has too few filters for saltfit.
+2018-09-26 02:00:10,829 - jnordin - INFO - SN ZTF18abdkkwa classified with type SN Ic, skipping.
+2018-09-26 02:00:10,829 - jnordin - INFO - SN ZTF18abdkkwa classified with type SN Ic, skipping.
+2018-09-26 02:03:02,162 - jnordin - INFO - ZTF18aakgsmi Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:03:02,162 - jnordin - INFO - ZTF18aakgsmi Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:03:08,063 - jnordin - INFO - ZTF18abmwzws Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:03:08,063 - jnordin - INFO - ZTF18abmwzws Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:03:11,426 - jnordin - INFO - ZTF18abddhaa Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:03:11,426 - jnordin - INFO - ZTF18abddhaa Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:03:22,509 - jnordin - INFO - ZTF18abddgzz Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:03:22,509 - jnordin - INFO - ZTF18abddgzz Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:03:25,254 - jnordin - INFO - ZTF18abgucjb Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:03:25,254 - jnordin - INFO - ZTF18abgucjb Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:03:28,008 - jnordin - INFO - ZTF18ablvpuj Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:03:28,008 - jnordin - INFO - ZTF18ablvpuj Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:03:30,347 - jnordin - INFO - ZTF18ablqqeb Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:03:30,347 - jnordin - INFO - ZTF18ablqqeb Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:03:32,422 - jnordin - INFO - ZTF18ablwwwb Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:03:32,422 - jnordin - INFO - ZTF18ablwwwb Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:03:33,960 - jnordin - INFO - ZTF18ablowct Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:03:33,960 - jnordin - INFO - ZTF18ablowct Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:03:36,144 - jnordin - INFO - ZTF18abmjzjq Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:03:36,144 - jnordin - INFO - ZTF18abmjzjq Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:03:38,405 - jnordin - INFO - ZTF18abokvkt Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:03:38,405 - jnordin - INFO - ZTF18abokvkt Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:03:43,177 - jnordin - INFO - We should make sure to type ZTF18aboivnq. 
+2018-09-26 02:03:43,177 - jnordin - INFO - We should make sure to type ZTF18aboivnq. 
+2018-09-26 02:03:47,093 - jnordin - INFO - ZTF18abnblil Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:03:47,093 - jnordin - INFO - ZTF18abnblil Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:03:48,936 - jnordin - INFO - ZTF18ablovvu Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:03:48,936 - jnordin - INFO - ZTF18ablovvu Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:03:50,715 - jnordin - INFO - SN ZTF18abmacke hould be observed as part of RCF.
+2018-09-26 02:03:50,715 - jnordin - INFO - SN ZTF18abmacke hould be observed as part of RCF.
+2018-09-26 02:03:53,711 - jnordin - INFO - ZTF18aayhpph Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:03:53,711 - jnordin - INFO - ZTF18aayhpph Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:03:56,512 - jnordin - INFO - ZTF18abmrqmv Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:03:56,512 - jnordin - INFO - ZTF18abmrqmv Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:03:58,727 - jnordin - INFO - ZTF18abmdxst Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:03:58,727 - jnordin - INFO - ZTF18abmdxst Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:04:03,731 - jnordin - INFO - ZTF17aaaafcd Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:04:03,731 - jnordin - INFO - ZTF17aaaafcd Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:04:05,866 - jnordin - INFO - ZTF18ablxhtc Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:04:05,866 - jnordin - INFO - ZTF18ablxhtc Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:04:09,493 - jnordin - INFO - We should make sure to type ZTF18abcqvhs. 
+2018-09-26 02:04:09,493 - jnordin - INFO - We should make sure to type ZTF18abcqvhs. 
+2018-09-26 02:04:13,046 - jnordin - INFO - ZTF18ablxjic Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:04:13,046 - jnordin - INFO - ZTF18ablxjic Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:04:15,054 - jnordin - INFO - ZTF18abmmxpg Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:04:15,054 - jnordin - INFO - ZTF18abmmxpg Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:04:17,300 - jnordin - INFO - ZTF18ablpztl Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:04:17,300 - jnordin - INFO - ZTF18ablpztl Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:04:19,183 - jnordin - INFO - ZTF18ablskwf Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:04:19,183 - jnordin - INFO - ZTF18ablskwf Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:04:21,373 - jnordin - INFO - ZTF18abmnssw Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:04:21,373 - jnordin - INFO - ZTF18abmnssw Faded too much while waiting. Call P200 or Keck?
+2018-09-26 02:11:21,432 - jnordin - INFO - Object ZTF18abokvkt most likely not SNIa. 
+2018-09-26 02:11:21,432 - jnordin - INFO - Object ZTF18abokvkt most likely not SNIa. 
+2018-09-26 02:11:42,997 - jnordin - INFO - Object ZTF18aboivnq most likely not SNIa. 
+2018-09-26 02:11:42,997 - jnordin - INFO - Object ZTF18aboivnq most likely not SNIa. 
+2018-09-26 02:11:49,818 - jnordin - INFO - Object ZTF18abnblil most likely not SNIa. 
+2018-09-26 02:11:49,818 - jnordin - INFO - Object ZTF18abnblil most likely not SNIa. 
+2018-09-26 02:11:56,973 - jnordin - INFO - Object ZTF18ablovvu most likely not SNIa. 
+2018-09-26 02:11:56,973 - jnordin - INFO - Object ZTF18ablovvu most likely not SNIa. 
+2018-09-26 02:12:01,995 - jnordin - INFO - Object ZTF18abmacke most likely not SNIa. 
+2018-09-26 02:12:01,995 - jnordin - INFO - Object ZTF18abmacke most likely not SNIa. 
+2018-09-26 02:12:06,499 - jnordin - INFO - Object ZTF18aayhpph most likely not SNIa. 
+2018-09-26 02:12:06,499 - jnordin - INFO - Object ZTF18aayhpph most likely not SNIa. 
+2018-09-26 02:12:12,971 - jnordin - INFO - Object ZTF18abmrqmv most likely not SNIa. 
+2018-09-26 02:12:12,971 - jnordin - INFO - Object ZTF18abmrqmv most likely not SNIa. 
+2018-09-26 02:12:19,171 - jnordin - INFO - Object ZTF18abmdxst most likely not SNIa. 
+2018-09-26 02:12:19,171 - jnordin - INFO - Object ZTF18abmdxst most likely not SNIa. 
+2018-09-26 02:12:23,043 - jnordin - INFO - Object ZTF17aaaafcd most likely not SNIa. 
+2018-09-26 02:12:23,043 - jnordin - INFO - Object ZTF17aaaafcd most likely not SNIa. 
+2018-09-26 02:12:26,134 - jnordin - INFO - Object ZTF18ablxhtc most likely not SNIa. 
+2018-09-26 02:12:26,134 - jnordin - INFO - Object ZTF18ablxhtc most likely not SNIa. 
+2018-09-26 02:19:00,454 - jnordin - INFO - Nice looking likely SN ZTF18abcqvhs.
+2018-09-26 02:19:00,454 - jnordin - INFO - Nice looking likely SN ZTF18abcqvhs.
+2018-09-26 02:19:03,230 - jnordin - INFO - Object ZTF18ablxjic most likely not SNIa. 
+2018-09-26 02:19:03,230 - jnordin - INFO - Object ZTF18ablxjic most likely not SNIa. 
+2018-09-26 02:19:05,912 - jnordin - INFO - Too little data of ZTF18abmmxpg, skip. 
+2018-09-26 02:19:05,912 - jnordin - INFO - Too little data of ZTF18abmmxpg, skip. 
+2018-09-26 02:19:08,721 - jnordin - INFO - Too little data of ZTF18ablpztl, skip. 
+2018-09-26 02:19:08,721 - jnordin - INFO - Too little data of ZTF18ablpztl, skip. 
+2018-09-26 02:19:11,040 - jnordin - INFO - Too little data of ZTF18ablskwf, skip. 
+2018-09-26 02:19:11,040 - jnordin - INFO - Too little data of ZTF18ablskwf, skip. 
+2018-09-26 02:19:12,970 - jnordin - INFO - Too little data of ZTF18abmnssw, skip. 
+2018-09-26 02:19:12,970 - jnordin - INFO - Too little data of ZTF18abmnssw, skip. 
+2018-09-26 02:19:14,604 - jnordin - INFO - Too little data of ZTF18ablvibs, skip. 
+2018-09-26 02:19:14,604 - jnordin - INFO - Too little data of ZTF18ablvibs, skip. 
+2018-09-26 02:19:16,545 - jnordin - INFO - Too little data of ZTF18abnunsl, skip. 
+2018-09-26 02:19:16,545 - jnordin - INFO - Too little data of ZTF18abnunsl, skip. 
+2018-09-26 02:19:28,669 - jnordin - INFO - Get SN ZTF18abnujuy if we can.
+2018-09-26 02:19:28,669 - jnordin - INFO - Get SN ZTF18abnujuy if we can.
+2018-09-26 02:19:33,846 - jnordin - INFO - Too little data of ZTF18abnpbjv, skip. 
+2018-09-26 02:19:33,846 - jnordin - INFO - Too little data of ZTF18abnpbjv, skip. 
+2018-09-26 02:26:32,653 - jnordin - INFO - Adding ZTF18abcqvhs to obs queue with setting VeryGood.
+2018-09-26 02:26:32,653 - jnordin - INFO - Adding ZTF18abcqvhs to obs queue with setting VeryGood.
+2018-09-26 02:26:32,655 - jnordin - INFO - Adding ZTF18abnujuy to obs queue with setting Possibly.
+2018-09-26 02:26:32,655 - jnordin - INFO - Adding ZTF18abnujuy to obs queue with setting Possibly.
+2018-09-26 02:36:28,084 - jnordin - INFO - ZTF18abnujuy could be RCF target? peakmag 18.35 recentmag 19.52.
+2018-09-26 02:36:28,084 - jnordin - INFO - ZTF18abnujuy could be RCF target? peakmag 18.35 recentmag 19.52.
+2018-09-26 02:41:17,972 - jnordin - INFO - ZTF18abnujuy could be RCF target? peakmag 18.35 recentmag 19.52.
+2018-09-26 02:41:17,972 - jnordin - INFO - ZTF18abnujuy could be RCF target? peakmag 18.35 recentmag 19.52.
+2018-09-26 02:41:17,976 - jnordin - INFO - ZTF18abnujuy could be Cosmology SEDM target? peakmag 19.47 recentmag 19.86.
+2018-09-26 02:41:17,976 - jnordin - INFO - ZTF18abnujuy could be Cosmology SEDM target? peakmag 19.47 recentmag 19.86.
+2018-09-26 02:42:42,618 - jnordin - INFO - ZTF18abnujuy could be RCF target? peakmag 18.35 recentmag 19.52.
+2018-09-26 02:42:42,618 - jnordin - INFO - ZTF18abnujuy could be RCF target? peakmag 18.35 recentmag 19.52.
+2018-09-26 02:42:42,621 - jnordin - INFO - ZTF18abnujuy could be Cosmology SEDM target? peakmag 19.47 recentmag 19.86.
+2018-09-26 02:42:42,621 - jnordin - INFO - ZTF18abnujuy could be Cosmology SEDM target? peakmag 19.47 recentmag 19.86.
+2018-09-26 02:43:53,130 - jnordin - INFO - ZTF18abnujuy could be RCF target? peakmag 18.35 recentmag 19.52.
+2018-09-26 02:43:53,130 - jnordin - INFO - ZTF18abnujuy could be RCF target? peakmag 18.35 recentmag 19.52.
+2018-09-26 02:43:53,133 - jnordin - INFO - ZTF18abnujuy could be Cosmology SEDM target? peakmag 19.47 recentmag 19.86.
+2018-09-26 02:43:53,133 - jnordin - INFO - ZTF18abnujuy could be Cosmology SEDM target? peakmag 19.47 recentmag 19.86.
+2018-09-26 02:44:01,113 - jnordin - INFO - ZTF18abnujuy could be RCF target? peakmag 18.35 recentmag 19.52.
+2018-09-26 02:44:01,113 - jnordin - INFO - ZTF18abnujuy could be RCF target? peakmag 18.35 recentmag 19.52.
+2018-09-26 02:44:01,116 - jnordin - INFO - ZTF18abnujuy could be Cosmology SEDM target? peakmag 19.47 recentmag 19.86.
+2018-09-26 02:44:01,116 - jnordin - INFO - ZTF18abnujuy could be Cosmology SEDM target? peakmag 19.47 recentmag 19.86.
+2018-09-26 02:47:59,458 - jnordin - INFO - Triggered SEDM obs of: []
+2018-09-26 02:47:59,458 - jnordin - INFO - Triggered SEDM obs of: []
+2018-09-26 02:51:46,566 - jnordin - INFO - Adding ZTF18abcqvhs to obs queue with setting VeryGood.
+2018-09-26 02:51:46,566 - jnordin - INFO - Adding ZTF18abcqvhs to obs queue with setting VeryGood.
+2018-09-26 02:51:46,569 - jnordin - INFO - Adding ZTF18abnujuy to obs queue with setting Possibly.
+2018-09-26 02:51:46,569 - jnordin - INFO - Adding ZTF18abnujuy to obs queue with setting Possibly.
+2018-09-26 02:51:47,699 - jnordin - INFO - ZTF18abnujuy could be RCF target? peakmag 18.35 recentmag 19.52.
+2018-09-26 02:51:47,699 - jnordin - INFO - ZTF18abnujuy could be RCF target? peakmag 18.35 recentmag 19.52.
+2018-09-26 02:51:47,702 - jnordin - INFO - ZTF18abnujuy could be Cosmology SEDM target? peakmag 19.47 recentmag 19.86.
+2018-09-26 02:51:47,702 - jnordin - INFO - ZTF18abnujuy could be Cosmology SEDM target? peakmag 19.47 recentmag 19.86.
+2018-09-26 02:51:51,280 - jnordin - INFO - Triggered SEDM obs of: []
+2018-09-26 02:51:51,280 - jnordin - INFO - Triggered SEDM obs of: []
