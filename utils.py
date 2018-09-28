@@ -20,7 +20,32 @@ def get_config():
         slackfilepath = input("Please enter the absolute path where you keep the AMPEL files from Slack:")
         config = {'username': username, 'slackfilepath': slackfilepath}
         json.dump(config, open('.config', 'w'))
-        return config          
+        return config
+
+def match_iband_field(fieldids):
+    """Quickly match fieldids to the i-band footprint
+    Return dictionary with months in which each field is in i-band survey
+    """
+    blocks = [
+        ['March', 'April', 'May'],
+        ['June'],
+        ['July'],
+        ['August'],
+        ['September', 'October', 'November']
+    ]
+    iband = np.genfromtxt('ztf-i-band-fields-v6.dat')
+
+    if type(fieldids) == int:
+            fieldids = [fieldids]
+
+    out = {}
+    for f_ in fieldids:
+        out[f_] = []
+        for k, block in enumerate(blocks):
+            if f_ in iband[:, k]:
+                out[f_].extend(block)
+
+    return out
 
 ################
 ## Scheduling ##
