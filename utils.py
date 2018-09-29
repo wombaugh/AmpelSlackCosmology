@@ -47,6 +47,20 @@ def match_iband_field(fieldids):
 
     return out
 
+
+def has_iband(fieldids,months):
+    """Quickly match fieldids to the i-band footprint
+    Returns tue if any month in [months] has i-band 
+    """
+
+    matches = match_iband_field(fieldids)
+    for field, ibandmonths in matches.items():
+        i = ( (set(ibandmonths)) & set(months))
+        if len(i)>0:
+            return True
+    return False
+
+
 ################
 ## Scheduling ##
 ################
