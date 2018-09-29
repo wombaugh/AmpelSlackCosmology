@@ -1,0 +1,187 @@
+2018-09-28 23:08:37,824 - jnordin - INFO - Cutting down alert info to subset with nrefframes keyword
+2018-09-28 23:10:17,316 - jnordin - INFO - SN ZTF18aakgsmi had last obs -5.731944837905758 days go, skipping.
+2018-09-28 23:10:17,317 - jnordin - INFO - SN ZTF18aasdted classified with type SN Ia, skipping.
+2018-09-28 23:10:19,427 - jnordin - INFO - SN ZTF18aauvptt classified with type AGN, skipping.
+2018-09-28 23:10:21,139 - jnordin - INFO - SN ZTF18abmwzws had last obs -15.734589084546315 days go, skipping.
+2018-09-28 23:10:21,140 - jnordin - INFO - SN ZTF18aawlhkh classified with type AGN, skipping.
+2018-09-28 23:10:27,731 - jnordin - INFO - SN ZTF18abddhaa had last obs -11.686365391913569 days go, skipping.
+2018-09-28 23:10:31,417 - jnordin - INFO - SN ZTF18abgucjb had last obs -10.497708055336261 days go, skipping.
+2018-09-28 23:10:38,085 - jnordin - INFO - SN ZTF18ablvpuj had last obs -15.725385196252319 days go, skipping.
+2018-09-28 23:10:39,714 - jnordin - INFO - SN ZTF18ablqqeb had last obs -17.695404078440333 days go, skipping.
+2018-09-28 23:10:41,453 - jnordin - INFO - Not enugh good data for SN ZTF18ablviog. Manual inspection prob needed.
+2018-09-28 23:10:50,366 - jnordin - INFO - SN ZTF18ablwwwb had last obs -19.73142736778391 days go, skipping.
+2018-09-28 23:10:52,104 - jnordin - INFO - SN ZTF18ablowct had last obs -16.585947476909496 days go, skipping.
+2018-09-28 23:10:52,104 - jnordin - INFO - SN ZTF18ablprcf classified with type AGN, skipping.
+2018-09-28 23:10:52,105 - jnordin - INFO - SN ZTF18abmxfrc classified with type SN Ia, skipping.
+2018-09-28 23:10:58,865 - jnordin - INFO - SN ZTF18abmjzjq had last obs -11.750625735607173 days go, skipping.
+2018-09-28 23:10:58,867 - jnordin - INFO - SN ZTF18abnxhmc classified with type SN Ia, skipping.
+2018-09-28 23:10:58,867 - jnordin - INFO - SN ZTF18abnvnqb classified with type SN Ia, skipping.
+2018-09-28 23:10:58,869 - jnordin - INFO - SN ZTF18abkxlcz classified with type SN Ia, skipping.
+2018-09-28 23:11:00,501 - jnordin - INFO - SN ZTF18abokvkt had last obs -14.539544675506477 days go, skipping.
+2018-09-28 23:11:00,502 - jnordin - INFO - SN ZTF18abmnvkx classified with type AGN, skipping.
+2018-09-28 23:11:00,503 - jnordin - INFO - SN ZTF18aboaeqy classified with type SN Ia, skipping.
+2018-09-28 23:11:02,452 - jnordin - INFO - SN ZTF18aboivnq had last obs -11.670067251026921 days go, skipping.
+2018-09-28 23:11:09,306 - jnordin - INFO - SN ZTF18abmjayl had last obs -37.56044658099563 days go, skipping.
+2018-09-28 23:11:10,946 - jnordin - INFO - SN ZTF18abnblil had last obs -18.634265562570363 days go, skipping.
+2018-09-28 23:11:12,581 - jnordin - INFO - SN ZTF18abmszpd had last obs -36.66808449171367 days go, skipping.
+2018-09-28 23:11:19,139 - jnordin - INFO - SN ZTF18ablovvu had last obs -25.536860385873297 days go, skipping.
+2018-09-28 23:11:20,670 - jnordin - INFO - SN ZTF18abmacke had last obs -23.551278110957355 days go, skipping.
+2018-09-28 23:11:22,305 - jnordin - INFO - SN ZTF18abntwvr has too few filters for saltfit.
+2018-09-28 23:11:30,911 - jnordin - INFO - SN ZTF18abmrqmv had last obs -10.564596637137583 days go, skipping.
+2018-09-28 23:11:37,672 - jnordin - INFO - SN ZTF18abmdxst had last obs -18.54047489425284 days go, skipping.
+2018-09-28 23:11:47,094 - jnordin - INFO - SN ZTF18ablxhtc had last obs -12.729583944179467 days go, skipping.
+2018-09-28 23:11:55,949 - jnordin - INFO - SN ZTF18ablxjic had last obs -15.695986425169394 days go, skipping.
+2018-09-28 23:11:57,636 - jnordin - INFO - SN ZTF18abmadcc had last obs -38.47630595180817 days go, skipping.
+2018-09-28 23:12:04,291 - jnordin - INFO - SN ZTF18ablrwlk had last obs -36.58928297760576 days go, skipping.
+2018-09-28 23:12:05,930 - jnordin - INFO - SN ZTF18abmdfba had last obs -37.54290195136127 days go, skipping.
+2018-09-28 23:12:07,521 - jnordin - INFO - SN ZTF18abmorft had last obs -37.60842036901886 days go, skipping.
+2018-09-28 23:12:14,226 - jnordin - INFO - SN ZTF18abmpbjy had last obs -34.61289797027712 days go, skipping.
+2018-09-28 23:12:15,965 - jnordin - INFO - SN ZTF18abmmxpg had last obs -10.609318094575428 days go, skipping.
+2018-09-28 23:12:17,811 - jnordin - INFO - SN ZTF18ablpztl had last obs -21.512939459331392 days go, skipping.
+2018-09-28 23:12:24,486 - jnordin - INFO - SN ZTF18ablskwf had last obs -12.595116709373542 days go, skipping.
+2018-09-28 23:12:26,200 - jnordin - INFO - SN ZTF18abmwuml has too few filters for saltfit.
+2018-09-28 23:12:27,743 - jnordin - INFO - SN ZTF18abmnssw had last obs -32.52585441857809 days go, skipping.
+2018-09-28 23:12:34,501 - jnordin - INFO - SN ZTF18ablvibs had last obs -23.553532639729383 days go, skipping.
+2018-09-28 23:12:36,243 - jnordin - INFO - SN ZTF18abnunsl had last obs -22.540252795144625 days go, skipping.
+2018-09-28 23:12:45,047 - jnordin - INFO - SN ZTF18abnpbjv had last obs -23.656154688971583 days go, skipping.
+2018-09-28 23:12:46,678 - jnordin - INFO - SN ZTF18abncqfx has too few filters for saltfit.
+2018-09-28 23:12:48,219 - jnordin - INFO - SN ZTF18abnudmu had last obs -13.651391405175673 days go, skipping.
+2018-09-28 23:12:54,975 - jnordin - INFO - SN ZTF18abnzgwe had last obs -38.44936960708583 days go, skipping.
+2018-09-28 23:12:56,722 - jnordin - INFO - SN ZTF18abobtul had last obs -23.65628982445196 days go, skipping.
+2018-09-28 23:12:58,256 - jnordin - INFO - SN ZTF18aboqwkr had last obs -7.578607575545902 days go, skipping.
+2018-09-28 23:13:04,916 - jnordin - INFO - SN ZTF18abmkdun had last obs -12.713984656584216 days go, skipping.
+2018-09-28 23:13:04,916 - jnordin - INFO - SN ZTF18abnucig classified with type SN Ia, skipping.
+2018-09-28 23:13:04,917 - jnordin - INFO - SN ZTF18abglwpn classified with type AGN, skipping.
+2018-09-28 23:13:04,918 - jnordin - INFO - SN ZTF18abmaewl classified with type SN Ia, skipping.
+2018-09-28 23:13:06,549 - jnordin - INFO - SN ZTF18abnbhpu had last obs -16.610803566101822 days go, skipping.
+2018-09-28 23:13:06,550 - jnordin - INFO - SN ZTF18ablwafp classified with type SLSN-I?, skipping.
+2018-09-28 23:13:06,551 - jnordin - INFO - SN ZTF18abmjcbs classified with type SN Ia, skipping.
+2018-09-28 23:13:08,192 - jnordin - INFO - SN ZTF18abmnbne had last obs -9.536522577611322 days go, skipping.
+2018-09-28 23:13:14,837 - jnordin - INFO - SN ZTF18abmkaca had last obs -11.753999488333648 days go, skipping.
+2018-09-28 23:13:14,838 - jnordin - INFO - SN ZTF18abncimo classified with type SN Ia, skipping.
+2018-09-28 23:13:14,839 - jnordin - INFO - SN ZTF18abnygkb classified with type SN Ia, skipping.
+2018-09-28 23:13:16,693 - jnordin - INFO - SN ZTF18abnvzah had last obs -13.684520972594328 days go, skipping.
+2018-09-28 23:13:16,694 - jnordin - INFO - SN ZTF18abnvoel classified with type SN Ia, skipping.
+2018-09-28 23:13:18,225 - jnordin - INFO - SN ZTF18aboqvfa had last obs -35.52613869772904 days go, skipping.
+2018-09-28 23:13:24,882 - jnordin - INFO - SN ZTF18aborbhi had last obs -36.50721574348427 days go, skipping.
+2018-09-28 23:13:26,410 - jnordin - INFO - SN ZTF18aborkxd has too few filters for saltfit.
+2018-09-28 23:13:28,048 - jnordin - INFO - SN ZTF18aborkox has too few filters for saltfit.
+2018-09-28 23:13:34,608 - jnordin - INFO - SN ZTF18abmkbqo had last obs -36.646328313596314 days go, skipping.
+2018-09-28 23:13:36,143 - jnordin - INFO - SN ZTF18abnnnzk had last obs -7.4918460787666845 days go, skipping.
+2018-09-28 23:13:37,668 - jnordin - INFO - SN ZTF18abotaki has too few filters for saltfit.
+2018-09-28 23:13:44,238 - jnordin - INFO - SN ZTF18abpavnx has too few filters for saltfit.
+2018-09-28 23:13:44,238 - jnordin - INFO - SN ZTF18abpaywm classified with type SN Ia, skipping.
+2018-09-28 23:13:44,239 - jnordin - INFO - SN ZTF18aboztta classified with type SN Ia, skipping.
+2018-09-28 23:13:44,240 - jnordin - INFO - SN ZTF18abmwpyl classified with type SN Ia, skipping.
+2018-09-28 23:13:44,241 - jnordin - INFO - SN ZTF18abpttky classified with type SN Ia, skipping.
+2018-09-28 23:13:47,926 - jnordin - INFO - Not enugh good data for SN ZTF18abanjoi. Manual inspection prob needed.
+2018-09-28 23:13:55,399 - jnordin - INFO - SN ZTF18abnuhuy classified with type AGN, skipping.
+2018-09-28 23:13:55,401 - jnordin - INFO - SN ZTF18abrlupd classified with type SN Ia, skipping.
+2018-09-28 23:13:57,029 - jnordin - INFO - SN ZTF18abmskzu has too few filters for saltfit.
+2018-09-28 23:13:58,772 - jnordin - INFO - SN ZTF18abnujcx had last obs -14.540707984335313 days go, skipping.
+2018-09-28 23:14:05,328 - jnordin - INFO - SN ZTF18abqbdcd had last obs -16.722983870859025 days go, skipping.
+2018-09-28 23:14:05,328 - jnordin - INFO - SN ZTF18abqbuaj classified with type SN Ibn, skipping.
+2018-09-28 23:14:05,329 - jnordin - INFO - SN ZTF18abqboud classified with type CV, skipping.
+2018-09-28 23:14:05,330 - jnordin - INFO - SN ZTF18abqlpgq classified with type SN Ia, skipping.
+2018-09-28 23:14:05,331 - jnordin - INFO - SN ZTF18abqbavl classified with type SN Ia, skipping.
+2018-09-28 23:14:05,333 - jnordin - INFO - SN ZTF18abqdadp classified with type SN Ia, skipping.
+2018-09-28 23:14:07,585 - jnordin - INFO - SN ZTF18aaovssm had last obs -18.72250999379321 days go, skipping.
+2018-09-28 23:14:09,320 - jnordin - INFO - SN ZTF18ablruzq had last obs -14.726130080074654 days go, skipping.
+2018-09-28 23:14:09,321 - jnordin - INFO - SN ZTF18abrwudp classified with type SN Ia, skipping.
+2018-09-28 23:14:16,076 - jnordin - INFO - SN ZTF18ablwtla had last obs -17.709408260205237 days go, skipping.
+2018-09-28 23:14:17,723 - jnordin - INFO - SN ZTF18abglikj had last obs -12.721527336507279 days go, skipping.
+2018-09-28 23:14:19,918 - jnordin - INFO - SN ZTF18abqjvyl classified with type SN Ia, skipping.
+2018-09-28 23:14:26,729 - jnordin - INFO - SN ZTF18abpaori has too few filters for saltfit.
+2018-09-28 23:14:28,361 - jnordin - INFO - SN ZTF18ablrmnj had last obs -18.757550442853244 days go, skipping.
+2018-09-28 23:14:28,363 - jnordin - INFO - SN ZTF18abolvoh classified with type SN Ia, skipping.
+2018-09-28 23:14:29,904 - jnordin - INFO - SN ZTF18abrxwon had last obs -16.586768316825328 days go, skipping.
+2018-09-28 23:14:36,561 - jnordin - INFO - SN ZTF18abqcyqv had last obs -24.54214536678046 days go, skipping.
+2018-09-28 23:14:36,562 - jnordin - INFO - SN ZTF18abrzevz classified with type SN Ia, skipping.
+2018-09-28 23:14:36,564 - jnordin - INFO - SN ZTF18abqyvzy classified with type SN II, skipping.
+2018-09-28 23:14:36,564 - jnordin - INFO - SN ZTF18absbsoz classified with type SN Ia, skipping.
+2018-09-28 23:14:36,565 - jnordin - INFO - SN ZTF18ablvime classified with type SN Ia, skipping.
+2018-09-28 23:14:38,350 - jnordin - INFO - SN ZTF18absdxpk classified with type SN Ia, skipping.
+2018-09-28 23:14:38,351 - jnordin - INFO - SN ZTF18absliyc classified with type SN Ia pec, skipping.
+2018-09-28 23:14:40,491 - jnordin - INFO - SN ZTF18absldfl classified with type SN II, skipping.
+2018-09-28 23:14:47,108 - jnordin - INFO - SN ZTF18aayejrb had last obs -12.625767436016758 days go, skipping.
+2018-09-28 23:14:48,736 - jnordin - INFO - SN ZTF18abrwwlv had last obs -20.672886273954646 days go, skipping.
+2018-09-28 23:14:50,276 - jnordin - INFO - SN ZTF18absdeij had last obs -17.75570410396176 days go, skipping.
+2018-09-28 23:14:50,277 - jnordin - INFO - SN ZTF18abotcjv classified with type SN Ia, skipping.
+2018-09-28 23:14:50,278 - jnordin - INFO - SN ZTF18abnysyy classified with type SN Ia, skipping.
+2018-09-28 23:14:58,467 - jnordin - INFO - SN ZTF18abshezu classified with type SLSN-I, skipping.
+2018-09-28 23:14:58,468 - jnordin - INFO - SN ZTF18abryewg classified with type SN Ia 91T-like, skipping.
+2018-09-28 23:14:58,468 - jnordin - INFO - SN ZTF18abssukb classified with type SN Ia, skipping.
+2018-09-28 23:14:58,469 - jnordin - INFO - SN ZTF18abscygs classified with type SN Ia, skipping.
+2018-09-28 23:14:58,470 - jnordin - INFO - SN ZTF18absdjms classified with type SN Ia, skipping.
+2018-09-28 23:15:00,114 - jnordin - INFO - SN ZTF18ablhsgt had last obs -24.730417963088257 days go, skipping.
+2018-09-28 23:15:01,743 - jnordin - INFO - SN ZTF18abnorzb had last obs -12.725336822128156 days go, skipping.
+2018-09-28 23:15:08,502 - jnordin - INFO - SN ZTF18abottbj had last obs -12.482815053852391 days go, skipping.
+2018-09-28 23:15:10,039 - jnordin - INFO - SN ZTF18absqsey had last obs -16.391532845016627 days go, skipping.
+2018-09-28 23:15:19,155 - jnordin - INFO - SN ZTF18abtkctg had last obs -7.569838333685766 days go, skipping.
+2018-09-28 23:15:20,796 - jnordin - INFO - SN ZTF18abklshn had last obs -8.748057341465028 days go, skipping.
+2018-09-28 23:15:32,465 - jnordin - INFO - SN ZTF18abufaej classified with type SN II, skipping.
+2018-09-28 23:15:32,465 - jnordin - INFO - SN ZTF18abtogdl classified with type SN Ia, skipping.
+2018-09-28 23:15:41,265 - jnordin - INFO - SN ZTF18absumwc has too few filters for saltfit.
+2018-09-28 23:15:42,910 - jnordin - INFO - SN ZTF18absmqmw had last obs -19.71131327846524 days go, skipping.
+2018-09-28 23:15:53,663 - jnordin - INFO - SN ZTF18abmwxvv had last obs -23.678237738335156 days go, skipping.
+2018-09-28 23:15:55,636 - jnordin - INFO - SN ZTF18abukmty classified with type SN Ia, skipping.
+2018-09-28 23:16:02,519 - jnordin - INFO - SN ZTF18abvbayb classified with type SN Ia, skipping.
+2018-09-28 23:16:04,201 - jnordin - INFO - SN ZTF18abuhiaj has too few filters for saltfit.
+2018-09-28 23:16:04,202 - jnordin - INFO - SN ZTF18abqapch classified with type SN Ia, skipping.
+2018-09-28 23:16:06,160 - jnordin - INFO - SN ZTF18abuiknd classified with type SN Ia, skipping.
+2018-09-28 23:16:16,723 - jnordin - INFO - SN ZTF18abslxhz classified with type SN Ia, skipping.
+2018-09-28 23:16:23,828 - jnordin - INFO - SN ZTF18abwdcdv classified with type SN Ia, skipping.
+2018-09-28 23:16:36,661 - jnordin - INFO - SN ZTF18abwclem has too few filters for saltfit.
+2018-09-28 23:16:45,742 - jnordin - INFO - SN ZTF18aabhooi had last obs -6.391840510754264 days go, skipping.
+2018-09-28 23:16:47,310 - jnordin - INFO - SN ZTF18abwlonm has too few filters for saltfit.
+2018-09-28 23:16:49,060 - jnordin - INFO - SN ZTF18abwblyl had last obs -6.373978911193262 days go, skipping.
+2018-09-28 23:16:55,742 - jnordin - INFO - SN ZTF18abwqgsc had last obs -6.494056258816272 days go, skipping.
+2018-09-28 23:16:57,536 - jnordin - INFO - SN ZTF18abwtops classified with type SN Ia, skipping.
+2018-09-28 23:16:59,295 - jnordin - INFO - SN ZTF18abwbaim has too few filters for saltfit.
+2018-09-28 23:17:05,954 - jnordin - INFO - SN ZTF18abtywgf had last obs -12.48417445535597 days go, skipping.
+2018-09-28 23:17:09,533 - jnordin - INFO - SN ZTF18abwxhjo has too few filters for saltfit.
+2018-09-28 23:17:16,386 - jnordin - INFO - SN ZTF18abucvbf classified with type SN Ia, skipping.
+2018-09-28 23:17:18,138 - jnordin - INFO - SN ZTF18abwlopg has too few filters for saltfit.
+2018-09-28 23:17:42,309 - jnordin - INFO - SN ZTF18abwkhdc had last obs -9.465995227728854 days go, skipping.
+2018-09-28 23:17:49,126 - jnordin - INFO - SN ZTF18abvkhul classified with type SN Ia, skipping.
+2018-09-28 23:18:01,572 - jnordin - INFO - SN ZTF18abxfcql has too few filters for saltfit.
+2018-09-28 23:18:01,572 - jnordin - INFO - SN ZTF18abtcdfv classified with type SN Ia, skipping.
+2018-09-28 23:18:01,573 - jnordin - INFO - SN ZTF18absiymj classified with type SN Ia, skipping.
+2018-09-28 23:18:01,574 - jnordin - INFO - SN ZTF18abwnsoc classified with type SN Ia, skipping.
+2018-09-28 23:18:13,762 - jnordin - INFO - SN ZTF18abylgru has too few filters for saltfit.
+2018-09-28 23:18:20,511 - jnordin - INFO - SN ZTF18abvhasp had last obs -5.739937376732996 days go, skipping.
+2018-09-28 23:18:31,158 - jnordin - INFO - SN ZTF18abbgdto had last obs -5.613260605663527 days go, skipping.
+2018-09-28 23:18:31,159 - jnordin - INFO - SN ZTF18abdkkwa classified with type SN Ic, skipping.
+2018-09-28 23:18:41,752 - jnordin - INFO - SN ZTF18abyxwrf classified with type SN Ia, skipping.
+2018-09-28 23:23:38,103 - jnordin - INFO - Object ZTF18aaupjtd most likely not SNIa. 
+2018-09-28 23:23:46,305 - jnordin - INFO - Nice looking likely SN ZTF18abwktmm.
+2018-09-28 23:23:53,109 - jnordin - INFO - Get SN ZTF18abxyudf if we can.
+2018-09-28 23:23:56,536 - jnordin - INFO - Get SN ZTF18abxwiqz if we can.
+2018-09-28 23:24:03,450 - jnordin - INFO - Nice looking likely SN ZTF18abxbhov.
+2018-09-28 23:24:21,741 - jnordin - INFO - Nice looking likely SN ZTF18abvtrnc.
+2018-09-28 23:24:24,884 - jnordin - INFO - Nice looking likely SN ZTF18absgvqb.
+2018-09-28 23:24:31,377 - jnordin - INFO - Get SN ZTF17aabihdn if we can.
+2018-09-28 23:24:37,656 - jnordin - INFO - Adding ZTF18abwktmm to obs queue with setting VeryGood.
+2018-09-28 23:24:37,658 - jnordin - INFO - Adding ZTF18abxyudf to obs queue with setting Possibly.
+2018-09-28 23:24:37,660 - jnordin - INFO - ...with I-band!
+2018-09-28 23:24:37,661 - jnordin - INFO - Adding ZTF18abxwiqz to obs queue with setting Possibly.
+2018-09-28 23:24:37,665 - jnordin - INFO - Adding ZTF18abxbhov to obs queue with setting VeryGood.
+2018-09-28 23:24:37,666 - jnordin - INFO - Adding ZTF18abvtrnc to obs queue with setting VeryGood.
+2018-09-28 23:24:37,667 - jnordin - INFO - ZTF18absgvqb already in obs queue. Adding with setting VeryGood.
+2018-09-28 23:24:37,668 - jnordin - INFO - Adding ZTF17aabihdn to obs queue with setting Possibly.
+2018-09-28 23:25:07,946 - jnordin - INFO - ZTF17aabihdn could be RCF target? peakmag 18.21 recentmag 19.025.
+2018-09-28 23:25:14,919 - jnordin - INFO - ZTF17aabihdn could be RCF target? peakmag 18.76 recentmag 19.04321428571429.
+2018-09-28 23:26:12,161 - jnordin - INFO - ZTF17aabihdn could be RCF target? peakmag 18.66 recentmag 18.912881355932203.
+2018-09-28 23:26:30,156 - jnordin - INFO - ZTF17aabihdn could be RCF target? peakmag 18.73 recentmag 19.25590909090909.
+2018-09-28 23:26:31,710 - jnordin - INFO - ZTF17aabihdn could be RCF target? peakmag 18.37 recentmag 18.820000000000004.
+2018-09-28 23:26:40,001 - jnordin - INFO - ZTF17aabihdn could be RCF target? peakmag 17.4 recentmag 17.486666666666668.
+2018-09-28 23:26:48,405 - jnordin - INFO - ZTF17aabihdn could be RCF target? peakmag 18.65 recentmag 19.57.
+2018-09-28 23:26:50,035 - jnordin - INFO - ZTF17aabihdn could be RCF target? peakmag 17.99 recentmag 18.6875.
+2018-09-28 23:26:51,579 - jnordin - INFO - ZTF17aabihdn could be RCF target? peakmag 18.13 recentmag 19.19666666666667.
+2018-09-28 23:27:01,509 - jnordin - INFO - ZTF17aabihdn could be RCF target? peakmag 18.18 recentmag 18.39.
+2018-09-28 23:27:17,997 - jnordin - INFO - ZTF17aabihdn could be RCF target? peakmag 18.85 recentmag 19.0425.
+2018-09-28 23:27:23,015 - jnordin - INFO - ZTF17aabihdn could be RCF target? peakmag 18.26 recentmag 18.35.
+2018-09-28 23:27:24,655 - jnordin - INFO - ZTF17aabihdn could be RCF target? peakmag 18.68 recentmag 18.925.
+2018-09-28 23:27:31,295 - jnordin - INFO - ZTF17aabihdn could be RCF target? peakmag 18.53 recentmag 18.9875.
+2018-09-28 23:27:32,943 - jnordin - INFO - ZTF17aabihdn could be RCF target? peakmag 18.84 recentmag 18.9025.
+2018-09-28 23:27:39,704 - jnordin - INFO - ZTF17aabihdn could be RCF target? peakmag 18.88 recentmag 19.025714285714287.
