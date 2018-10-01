@@ -77,7 +77,7 @@ def plot_visibility(snnames, obs_windows, dark_time, priorities=None, labeltype=
         labels = ['%s (%i)'%(name, k) for k, name in zip(priorities, snnames)]
         priorities = np.zeros(len(snnames), dtype=int)
     
-    show_vis = np.zeros((3*(len(obs_windows.keys())+max(priorities))-1, len(dark_time)))
+    show_vis = np.zeros((3*(len(snnames)+max(priorities))-1, len(dark_time)))
     for k, snname in enumerate(snnames):
         obs_w = obs_windows[snname]
         idx = np.array([np.where(dark_time == t_)[0][0] for t_ in obs_w['visible']])
@@ -133,7 +133,7 @@ def prepare_snifs_schedule(names, coords, obs_windows, obsdate,
                                                          coords[name]['dec']))
     f.close()
 
-    out_str = '%s {type => "Candidate", start => "%s UTC", end => "%s UTC", exp => 1800, nexp => 1} '
+    out_str = '%s {type => "Candidate", start => "%s UTC", end => "%s UTC", exp => 1800, nexp => 1}\n '
     f = open(os.path.join(outdir, 'timelord_%s'%obsdate), 'w')
     for name in names:
         f.write(out_str%(name, obs_windows[name]['visible'][0].iso[:19],

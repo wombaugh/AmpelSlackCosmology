@@ -324,6 +324,8 @@ class Observatory():
 			moon_pos = self.compute_sun_moon(trange, which='moon', dt_min=dt_min)
 			moon_pos = moon_pos[dark_mask]
 			moon_dist = target_pos.separation(moon_pos)
+			if np.any(moon_dist < min_moon_dist*u.deg):
+				self.logger.info('Too close the the moon.')
 			is_visible = np.logical_and(is_visible, moon_dist > min_moon_dist*u.deg)
 
 		# done, print some stats and return

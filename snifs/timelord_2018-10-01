@@ -1,0 +1,14 @@
+ZTF18abvxqtp {type => "Candidate", start => "2018-10-01 05:55:00 UTC", end => "2018-10-01 13:25:00 UTC", exp => 1800, nexp => 1}
+ ZTF18abwlpzf {type => "Candidate", start => "2018-10-01 05:20:00 UTC", end => "2018-10-01 08:35:00 UTC", exp => 1800, nexp => 1}
+ ZTF18abuicad {type => "Candidate", start => "2018-10-01 07:00:00 UTC", end => "2018-10-01 15:00:00 UTC", exp => 1800, nexp => 1}
+ ZTF18abuioue {type => "Candidate", start => "2018-10-01 08:05:00 UTC", end => "2018-10-01 15:00:00 UTC", exp => 1800, nexp => 1}
+ ZTF18abwkxgo {type => "Candidate", start => "2018-10-01 11:40:00 UTC", end => "2018-10-01 15:00:00 UTC", exp => 1800, nexp => 1}
+ ZTF18abuksxd {type => "Candidate", start => "2018-10-01 05:20:00 UTC", end => "2018-10-01 10:40:00 UTC", exp => 1800, nexp => 1}
+ ZTF18aburkuo {type => "Candidate", start => "2018-10-01 05:20:00 UTC", end => "2018-10-01 11:40:00 UTC", exp => 1800, nexp => 1}
+ ZTF18abtghbi {type => "Candidate", start => "2018-10-01 07:10:00 UTC", end => "2018-10-01 15:00:00 UTC", exp => 1800, nexp => 1}
+ ZTF18abvrgjc {type => "Candidate", start => "2018-10-01 07:30:00 UTC", end => "2018-10-01 15:00:00 UTC", exp => 1800, nexp => 1}
+ ZTF18absgvqb {type => "Candidate", start => "2018-10-01 05:20:00 UTC", end => "2018-10-01 12:30:00 UTC", exp => 1800, nexp => 1}
+ ZTF18abuluko {type => "Candidate", start => "2018-10-01 05:20:00 UTC", end => "2018-10-01 13:30:00 UTC", exp => 1800, nexp => 1}
+ ZTF18abwbtco {type => "Candidate", start => "2018-10-01 08:40:00 UTC", end => "2018-10-01 15:00:00 UTC", exp => 1800, nexp => 1}
+ ZTF18abwblyl {type => "Candidate", start => "2018-10-01 11:55:00 UTC", end => "2018-10-01 15:00:00 UTC", exp => 1800, nexp => 1}
+ 
