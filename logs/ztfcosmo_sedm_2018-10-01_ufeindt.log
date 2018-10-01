@@ -1,0 +1,54 @@
+2018-10-01 17:47:23,372 - ufeindt - INFO - Step 3: Checking new sources
+2018-10-01 17:48:28,784 - ufeindt - INFO - Source ZTF18abcqvhs skipped.
+2018-10-01 17:49:20,231 - ufeindt - INFO - Source ZTF18abnujuy skipped.
+2018-10-01 17:49:55,870 - ufeindt - INFO - Source ZTF18abqbdcd added (status: done).
+2018-10-01 17:52:04,151 - ufeindt - INFO - Source ZTF18abrwswl added (status: in_progress).
+2018-10-01 18:03:53,303 - ufeindt - INFO - Source ZTF18abptskn added (status: done).
+2018-10-01 18:03:53,308 - ufeindt - INFO - Source ZTF18abscygs has classification SN Ia on the marshal now. Marking it as done.
+2018-10-01 18:04:13,560 - ufeindt - INFO - Source ZTF18abtkctg skipped.
+2018-10-01 18:05:34,302 - ufeindt - INFO - Source ZTF18absnsqx added (status: done).
+2018-10-01 18:05:59,605 - ufeindt - INFO - Source ZTF18abrwrch skipped.
+2018-10-01 18:05:59,607 - ufeindt - INFO - Source ZTF18abtogdl has classification SN Ia on the marshal now. Marking it as done.
+2018-10-01 18:06:23,724 - ufeindt - INFO - Source ZTF18abuicad skipped.
+2018-10-01 18:06:45,627 - ufeindt - INFO - Source ZTF18absmqmw skipped.
+2018-10-01 18:07:29,293 - ufeindt - INFO - Source ZTF18absbspk added (status: in_progress).
+2018-10-01 18:08:02,170 - ufeindt - INFO - Source ZTF18abuluko added (status: failed).
+2018-10-01 18:08:26,363 - ufeindt - INFO - Source ZTF18aburkuo added (status: failed).
+2018-10-01 18:08:53,402 - ufeindt - INFO - Source ZTF18abuksxd added (status: failed).
+2018-10-01 18:09:12,609 - ufeindt - INFO - Source ZTF18abvnqqk added (status: failed).
+2018-10-01 18:09:43,524 - ufeindt - INFO - Source ZTF18abuioue added (status: in_progress).
+2018-10-01 18:10:01,377 - ufeindt - INFO - Source ZTF18abvvqtf added (status: in_progress).
+2018-10-01 18:10:01,384 - ufeindt - INFO - Source ZTF18abwtops has classification SN Ia on the marshal now. Marking it as done.
+2018-10-01 18:10:33,274 - ufeindt - INFO - Source ZTF18abwblyl skipped.
+2018-10-01 18:10:49,024 - ufeindt - INFO - Source ZTF18abtywgf skipped.
+2018-10-01 18:11:16,264 - ufeindt - INFO - Source ZTF18abucflq added (status: done).
+2018-10-01 18:11:52,254 - ufeindt - INFO - Source ZTF18abvrgjc skipped.
+2018-10-01 18:12:22,583 - ufeindt - INFO - Source ZTF18abwkxgo skipped.
+2018-10-01 18:12:22,587 - ufeindt - INFO - Source ZTF18abxygvv has classification SN Ia on the marshal now. Marking it as done.
+2018-10-01 18:12:44,857 - ufeindt - INFO - Source ZTF18abwlejr added (status: failed).
+2018-10-01 18:12:44,860 - ufeindt - INFO - Source ZTF18abwnsoc has classification SN Ia on the marshal now. Marking it as done.
+2018-10-01 18:13:27,346 - ufeindt - INFO - Source ZTF18abxdkny skipped.
+2018-10-01 18:13:45,468 - ufeindt - INFO - Source ZTF18abwlpzf skipped.
+2018-10-01 18:16:14,227 - ufeindt - INFO - Source ZTF18ablllyw added (status: failed).
+2018-10-01 18:16:57,003 - ufeindt - INFO - Source ZTF18abthaii added (status: done).
+2018-10-01 18:17:44,524 - ufeindt - INFO - Source ZTF18abtghbi skipped.
+2018-10-01 18:18:06,224 - ufeindt - INFO - Source ZTF18abtswjk added (status: in_progress).
+2018-10-01 18:18:29,167 - ufeindt - INFO - Source ZTF18abqdwze added (status: failed).
+2018-10-01 18:18:57,460 - ufeindt - INFO - Source ZTF18abwfmot added (status: in_progress).
+2018-10-01 18:18:57,461 - ufeindt - INFO - Source ZTF18absoomk has classification SN Ia on the marshal now. Marking it as done.
+2018-10-01 18:19:17,105 - ufeindt - INFO - Source ZTF18abvnwzz skipped.
+2018-10-01 18:19:49,743 - ufeindt - INFO - Source ZTF18aaupjtd skipped.
+2018-10-01 18:20:08,214 - ufeindt - INFO - Source ZTF18ablruzq skipped.
+2018-10-01 18:20:08,218 - ufeindt - INFO - Source ZTF18abtxvhy has classification SN Ia on the marshal now. Marking it as done.
+2018-10-01 18:20:47,365 - ufeindt - INFO - Source ZTF18abrzuqw added (status: in_progress).
+2018-10-01 18:21:09,061 - ufeindt - INFO - Source ZTF18abvrzqj added (status: in_progress).
+2018-10-01 18:21:38,979 - ufeindt - INFO - Source ZTF18abwbtco added (status: done).
+2018-10-01 18:22:04,534 - ufeindt - INFO - Source ZTF18abvfecb added (status: done).
+2018-10-01 18:23:10,820 - ufeindt - INFO - Source ZTF18abxdkni added (status: failed).
+2018-10-01 18:23:29,882 - ufeindt - INFO - Source ZTF18absgvqb skipped.
+2018-10-01 18:24:16,658 - ufeindt - INFO - Source ZTF18abwktmm added (status: done).
+2018-10-01 18:25:07,456 - ufeindt - INFO - Source ZTF18abxyudf added (status: in_progress).
+2018-10-01 18:25:33,376 - ufeindt - INFO - Source ZTF18abxwiqz added (status: in_progress).
+2018-10-01 18:26:27,478 - ufeindt - INFO - Source ZTF18abxbhov added (status: failed).
+2018-10-01 18:26:27,482 - ufeindt - INFO - Source ZTF18abvtrnc has classification SN Ia on the marshal now. Marking it as done.
+2018-10-01 18:27:04,109 - ufeindt - INFO - Source ZTF17aabihdn skipped.
