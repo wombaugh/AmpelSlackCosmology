@@ -133,7 +133,7 @@ def prepare_snifs_schedule(names, coords, obs_windows, obsdate,
                                                          coords[name]['dec']))
     f.close()
 
-    out_str = '%s {type => "Candidate", start => "%s UTC", end => "%s UTC", exp => 1800, nexp => 1}\n '
+    out_str = '%s {type => "Candidate", start => "%s UTC", end => "%s UTC", exp => 1800, nexp => 1}\n'
     f = open(os.path.join(outdir, 'timelord_%s'%obsdate), 'w')
     for name in names:
         f.write(out_str%(name, obs_windows[name]['visible'][0].iso[:19],
