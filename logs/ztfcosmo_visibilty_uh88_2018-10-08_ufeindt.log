@@ -1,0 +1,809 @@
+2018-10-07 15:29:05,773 - ufeindt - INFO - Initialized Observatory uh88 at position (lon 19.82 deg, lat -155.47 deg, alt: 4205.0 m)
+2018-10-07 15:29:05,780 - ufeindt - INFO - Initialized Observatory ntt at position (lon -29.25 deg, lat -70.73 deg, alt: 2375.0 m)
+2018-10-07 15:29:13,496 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:13,497 - ufeindt - INFO - Calculating visibility of source ZTF18abcqvhs (ra: 301.674905, dec: 37.783455) with uh88.
+2018-10-07 15:29:13,499 - ufeindt - INFO - computing visibility of source at (ra: 301.674905, dec: 37.783455) from observatory uh88
+2018-10-07 15:29:13,500 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:13,683 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:14,107 - ufeindt - INFO - source is visible for a total of 4.750 hours. Took 6.09e-01 sec
+2018-10-07 15:29:14,108 - ufeindt - INFO - Calculating visibility of source ZTF18abnujuy (ra: 330.124841, dec: 43.553731) with uh88.
+2018-10-07 15:29:14,110 - ufeindt - INFO - computing visibility of source at (ra: 330.124841, dec: 43.553731) from observatory uh88
+2018-10-07 15:29:14,111 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:14,296 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:14,729 - ufeindt - INFO - source is visible for a total of 6.667 hours. Took 6.21e-01 sec
+2018-10-07 15:29:14,730 - ufeindt - INFO - Calculating visibility of source ZTF18abqbdcd (ra: 236.134779, dec: 50.338095) with uh88.
+2018-10-07 15:29:14,732 - ufeindt - INFO - computing visibility of source at (ra: 236.134779, dec: 50.338095) from observatory uh88
+2018-10-07 15:29:14,733 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:14,918 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:15,344 - ufeindt - INFO - source is visible for a total of 0.417 hours. Took 6.14e-01 sec
+2018-10-07 15:29:15,345 - ufeindt - INFO - Calculating visibility of source ZTF18abrwswl (ra: 257.671830, dec: 63.696934) with uh88.
+2018-10-07 15:29:15,347 - ufeindt - INFO - computing visibility of source at (ra: 257.671830, dec: 63.696934) from observatory uh88
+2018-10-07 15:29:15,348 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:15,535 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:15,949 - ufeindt - INFO - source is visible for a total of 1.667 hours. Took 6.03e-01 sec
+2018-10-07 15:29:15,950 - ufeindt - INFO - Calculating visibility of source ZTF18abptskn (ra: 265.457201, dec: 18.746132) with uh88.
+2018-10-07 15:29:15,952 - ufeindt - INFO - computing visibility of source at (ra: 265.457201, dec: 18.746132) from observatory uh88
+2018-10-07 15:29:15,952 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:16,146 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:16,589 - ufeindt - INFO - source is visible for a total of 2.167 hours. Took 6.38e-01 sec
+2018-10-07 15:29:16,589 - ufeindt - INFO - Calculating visibility of source ZTF18abscygs (ra: 73.527834, dec: 48.900418) with uh88.
+2018-10-07 15:29:16,592 - ufeindt - INFO - computing visibility of source at (ra: 73.527834, dec: 48.900418) from observatory uh88
+2018-10-07 15:29:16,593 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:16,776 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:17,194 - ufeindt - INFO - source is visible for a total of 5.667 hours. Took 6.04e-01 sec
+2018-10-07 15:29:17,195 - ufeindt - INFO - Calculating visibility of source ZTF18abtkctg (ra: 3.233628, dec: -16.451883) with uh88.
+2018-10-07 15:29:17,197 - ufeindt - INFO - computing visibility of source at (ra: 3.233628, dec: -16.451883) from observatory uh88
+2018-10-07 15:29:17,198 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:17,380 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:17,815 - ufeindt - INFO - source is visible for a total of 6.833 hours. Took 6.19e-01 sec
+2018-10-07 15:29:17,816 - ufeindt - INFO - Calculating visibility of source ZTF18absnsqx (ra: 296.680317, dec: 65.568355) with uh88.
+2018-10-07 15:29:17,818 - ufeindt - INFO - computing visibility of source at (ra: 296.680317, dec: 65.568355) from observatory uh88
+2018-10-07 15:29:17,819 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:18,002 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:18,415 - ufeindt - INFO - source is visible for a total of 4.167 hours. Took 5.98e-01 sec
+2018-10-07 15:29:18,416 - ufeindt - INFO - Calculating visibility of source ZTF18abrwrch (ra: 252.504128, dec: 55.839673) with uh88.
+2018-10-07 15:29:18,418 - ufeindt - INFO - computing visibility of source at (ra: 252.504128, dec: 55.839673) from observatory uh88
+2018-10-07 15:29:18,420 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:18,618 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:19,041 - ufeindt - INFO - source is visible for a total of 1.500 hours. Took 6.24e-01 sec
+2018-10-07 15:29:19,042 - ufeindt - INFO - Calculating visibility of source ZTF18abtogdl (ra: 267.797108, dec: 53.314470) with uh88.
+2018-10-07 15:29:19,045 - ufeindt - INFO - computing visibility of source at (ra: 267.797108, dec: 53.314470) from observatory uh88
+2018-10-07 15:29:19,046 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:19,227 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:19,660 - ufeindt - INFO - source is visible for a total of 2.500 hours. Took 6.17e-01 sec
+2018-10-07 15:29:19,660 - ufeindt - INFO - Calculating visibility of source ZTF18abuicad (ra: 19.500917, dec: 2.057647) with uh88.
+2018-10-07 15:29:19,663 - ufeindt - INFO - computing visibility of source at (ra: 19.500917, dec: 2.057647) from observatory uh88
+2018-10-07 15:29:19,665 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:19,863 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:20,303 - ufeindt - INFO - source is visible for a total of 8.167 hours. Took 6.42e-01 sec
+2018-10-07 15:29:20,304 - ufeindt - INFO - Calculating visibility of source ZTF18absmqmw (ra: 220.505952, dec: 47.009100) with uh88.
+2018-10-07 15:29:20,307 - ufeindt - INFO - computing visibility of source at (ra: 220.505952, dec: 47.009100) from observatory uh88
+2018-10-07 15:29:20,308 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:20,486 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:20,917 - ufeindt - INFO - source is visible for a total of 0.000 hours. Took 6.12e-01 sec
+2018-10-07 15:29:20,917 - ufeindt - INFO - Source ZTF18absmqmw (ra: 220.505952, dec: 47.009100) not observable with uh88.
+2018-10-07 15:29:20,918 - ufeindt - INFO - Calculating visibility of source ZTF18absbspk (ra: 347.597983, dec: 27.641015) with uh88.
+2018-10-07 15:29:20,920 - ufeindt - INFO - computing visibility of source at (ra: 347.597983, dec: 27.641015) from observatory uh88
+2018-10-07 15:29:20,921 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:21,103 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:21,559 - ufeindt - INFO - source is visible for a total of 7.750 hours. Took 6.40e-01 sec
+2018-10-07 15:29:21,559 - ufeindt - INFO - Calculating visibility of source ZTF18abuluko (ra: 349.135362, dec: 33.447221) with uh88.
+2018-10-07 15:29:21,564 - ufeindt - INFO - computing visibility of source at (ra: 349.135362, dec: 33.447221) from observatory uh88
+2018-10-07 15:29:21,565 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:21,763 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:22,193 - ufeindt - INFO - source is visible for a total of 7.917 hours. Took 6.31e-01 sec
+2018-10-07 15:29:22,195 - ufeindt - INFO - Calculating visibility of source ZTF18aburkuo (ra: 322.388385, dec: 24.898952) with uh88.
+2018-10-07 15:29:22,197 - ufeindt - INFO - computing visibility of source at (ra: 322.388385, dec: 24.898952) from observatory uh88
+2018-10-07 15:29:22,199 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:22,385 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:22,817 - ufeindt - INFO - source is visible for a total of 6.000 hours. Took 6.22e-01 sec
+2018-10-07 15:29:22,818 - ufeindt - INFO - Calculating visibility of source ZTF18abuksxd (ra: 308.058962, dec: 23.377840) with uh88.
+2018-10-07 15:29:22,820 - ufeindt - INFO - computing visibility of source at (ra: 308.058962, dec: 23.377840) from observatory uh88
+2018-10-07 15:29:22,821 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:22,999 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:23,432 - ufeindt - INFO - source is visible for a total of 5.083 hours. Took 6.13e-01 sec
+2018-10-07 15:29:23,432 - ufeindt - INFO - Calculating visibility of source ZTF18abvnqqk (ra: 271.624063, dec: 42.008167) with uh88.
+2018-10-07 15:29:23,435 - ufeindt - INFO - computing visibility of source at (ra: 271.624063, dec: 42.008167) from observatory uh88
+2018-10-07 15:29:23,435 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:23,621 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:24,075 - ufeindt - INFO - source is visible for a total of 2.833 hours. Took 6.42e-01 sec
+2018-10-07 15:29:24,076 - ufeindt - INFO - Calculating visibility of source ZTF18abuioue (ra: 28.153562, dec: -13.056826) with uh88.
+2018-10-07 15:29:24,078 - ufeindt - INFO - computing visibility of source at (ra: 28.153562, dec: -13.056826) from observatory uh88
+2018-10-07 15:29:24,079 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:24,279 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:24,716 - ufeindt - INFO - source is visible for a total of 7.167 hours. Took 6.39e-01 sec
+2018-10-07 15:29:24,717 - ufeindt - INFO - Calculating visibility of source ZTF18abvvqtf (ra: 292.497297, dec: 56.437386) with uh88.
+2018-10-07 15:29:24,719 - ufeindt - INFO - computing visibility of source at (ra: 292.497297, dec: 56.437386) from observatory uh88
+2018-10-07 15:29:24,720 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:24,906 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:25,351 - ufeindt - INFO - source is visible for a total of 4.167 hours. Took 6.34e-01 sec
+2018-10-07 15:29:25,352 - ufeindt - INFO - Calculating visibility of source ZTF18abwtops (ra: 281.486752, dec: 36.402689) with uh88.
+2018-10-07 15:29:25,355 - ufeindt - INFO - computing visibility of source at (ra: 281.486752, dec: 36.402689) from observatory uh88
+2018-10-07 15:29:25,355 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:25,544 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:25,969 - ufeindt - INFO - source is visible for a total of 3.417 hours. Took 6.16e-01 sec
+2018-10-07 15:29:25,970 - ufeindt - INFO - Calculating visibility of source ZTF18abwblyl (ra: 101.842117, dec: 50.758869) with uh88.
+2018-10-07 15:29:25,972 - ufeindt - INFO - computing visibility of source at (ra: 101.842117, dec: 50.758869) from observatory uh88
+2018-10-07 15:29:25,973 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:26,191 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:26,702 - ufeindt - INFO - source is visible for a total of 3.750 hours. Took 7.32e-01 sec
+2018-10-07 15:29:26,703 - ufeindt - INFO - Calculating visibility of source ZTF18abtywgf (ra: 28.926450, dec: -0.979819) with uh88.
+2018-10-07 15:29:26,705 - ufeindt - INFO - computing visibility of source at (ra: 28.926450, dec: -0.979819) from observatory uh88
+2018-10-07 15:29:26,707 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:26,896 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:27,322 - ufeindt - INFO - source is visible for a total of 7.917 hours. Took 6.18e-01 sec
+2018-10-07 15:29:27,323 - ufeindt - INFO - Calculating visibility of source ZTF18abucflq (ra: 290.869453, dec: 42.183267) with uh88.
+2018-10-07 15:29:27,325 - ufeindt - INFO - computing visibility of source at (ra: 290.869453, dec: 42.183267) from observatory uh88
+2018-10-07 15:29:27,326 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:27,513 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:27,930 - ufeindt - INFO - source is visible for a total of 4.083 hours. Took 6.07e-01 sec
+2018-10-07 15:29:27,931 - ufeindt - INFO - Calculating visibility of source ZTF18abvrgjc (ra: 26.016567, dec: -1.971001) with uh88.
+2018-10-07 15:29:27,933 - ufeindt - INFO - computing visibility of source at (ra: 26.016567, dec: -1.971001) from observatory uh88
+2018-10-07 15:29:27,934 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:28,122 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:28,653 - ufeindt - INFO - source is visible for a total of 7.917 hours. Took 7.21e-01 sec
+2018-10-07 15:29:28,654 - ufeindt - INFO - Calculating visibility of source ZTF18abwkxgo (ra: 97.368882, dec: 58.090770) with uh88.
+2018-10-07 15:29:28,656 - ufeindt - INFO - computing visibility of source at (ra: 97.368882, dec: 58.090770) from observatory uh88
+2018-10-07 15:29:28,657 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:28,845 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:29,265 - ufeindt - INFO - source is visible for a total of 4.000 hours. Took 6.10e-01 sec
+2018-10-07 15:29:29,265 - ufeindt - INFO - Calculating visibility of source ZTF18abxygvv (ra: 293.846132, dec: 64.758349) with uh88.
+2018-10-07 15:29:29,268 - ufeindt - INFO - computing visibility of source at (ra: 293.846132, dec: 64.758349) from observatory uh88
+2018-10-07 15:29:29,270 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:29,452 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:29,883 - ufeindt - INFO - source is visible for a total of 4.083 hours. Took 6.17e-01 sec
+2018-10-07 15:29:29,884 - ufeindt - INFO - Calculating visibility of source ZTF18abwlejr (ra: 98.393554, dec: 21.166290) with uh88.
+2018-10-07 15:29:29,886 - ufeindt - INFO - computing visibility of source at (ra: 98.393554, dec: 21.166290) from observatory uh88
+2018-10-07 15:29:29,887 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:30,093 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:30,592 - ufeindt - INFO - source is visible for a total of 3.750 hours. Took 7.08e-01 sec
+2018-10-07 15:29:30,593 - ufeindt - INFO - Calculating visibility of source ZTF18abwnsoc (ra: 280.856899, dec: 72.123867) with uh88.
+2018-10-07 15:29:30,597 - ufeindt - INFO - computing visibility of source at (ra: 280.856899, dec: 72.123867) from observatory uh88
+2018-10-07 15:29:30,598 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:30,811 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:31,234 - ufeindt - INFO - source is visible for a total of 2.750 hours. Took 6.40e-01 sec
+2018-10-07 15:29:31,235 - ufeindt - INFO - Calculating visibility of source ZTF18abxdkny (ra: 284.045885, dec: 78.865301) with uh88.
+2018-10-07 15:29:31,237 - ufeindt - INFO - computing visibility of source at (ra: 284.045885, dec: 78.865301) from observatory uh88
+2018-10-07 15:29:31,240 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:31,434 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:31,860 - ufeindt - INFO - source is visible for a total of 1.750 hours. Took 6.24e-01 sec
+2018-10-07 15:29:31,860 - ufeindt - INFO - Calculating visibility of source ZTF18abwlpzf (ra: 273.898651, dec: 34.761001) with uh88.
+2018-10-07 15:29:31,863 - ufeindt - INFO - computing visibility of source at (ra: 273.898651, dec: 34.761001) from observatory uh88
+2018-10-07 15:29:31,866 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:32,045 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:32,461 - ufeindt - INFO - source is visible for a total of 2.917 hours. Took 6.00e-01 sec
+2018-10-07 15:29:32,462 - ufeindt - INFO - Calculating visibility of source ZTF18ablllyw (ra: 262.519039, dec: 79.838583) with uh88.
+2018-10-07 15:29:32,464 - ufeindt - INFO - computing visibility of source at (ra: 262.519039, dec: 79.838583) from observatory uh88
+2018-10-07 15:29:32,465 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:32,647 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:33,064 - ufeindt - INFO - source is visible for a total of 0.000 hours. Took 6.02e-01 sec
+2018-10-07 15:29:33,065 - ufeindt - INFO - Source ZTF18ablllyw (ra: 262.519039, dec: 79.838583) not observable with uh88.
+2018-10-07 15:29:33,066 - ufeindt - INFO - Calculating visibility of source ZTF18abthaii (ra: 40.934224, dec: -12.584582) with uh88.
+2018-10-07 15:29:33,068 - ufeindt - INFO - computing visibility of source at (ra: 40.934224, dec: -12.584582) from observatory uh88
+2018-10-07 15:29:33,069 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:33,253 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:33,679 - ufeindt - INFO - source is visible for a total of 6.750 hours. Took 6.13e-01 sec
+2018-10-07 15:29:33,680 - ufeindt - INFO - Calculating visibility of source ZTF18abtghbi (ra: 30.456320, dec: 52.434334) with uh88.
+2018-10-07 15:29:33,682 - ufeindt - INFO - computing visibility of source at (ra: 30.456320, dec: 52.434334) from observatory uh88
+2018-10-07 15:29:33,683 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:33,865 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:34,285 - ufeindt - INFO - source is visible for a total of 8.500 hours. Took 6.04e-01 sec
+2018-10-07 15:29:34,286 - ufeindt - INFO - Calculating visibility of source ZTF18abtswjk (ra: 38.298011, dec: -1.305626) with uh88.
+2018-10-07 15:29:34,288 - ufeindt - INFO - computing visibility of source at (ra: 38.298011, dec: -1.305626) from observatory uh88
+2018-10-07 15:29:34,289 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:34,482 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:34,911 - ufeindt - INFO - source is visible for a total of 7.333 hours. Took 6.25e-01 sec
+2018-10-07 15:29:34,912 - ufeindt - INFO - Calculating visibility of source ZTF18abqdwze (ra: 16.556125, dec: 40.764561) with uh88.
+2018-10-07 15:29:34,914 - ufeindt - INFO - computing visibility of source at (ra: 16.556125, dec: 40.764561) from observatory uh88
+2018-10-07 15:29:34,915 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:35,100 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:35,522 - ufeindt - INFO - source is visible for a total of 9.250 hours. Took 6.09e-01 sec
+2018-10-07 15:29:35,523 - ufeindt - INFO - Calculating visibility of source ZTF18abwfmot (ra: 16.119899, dec: 62.994597) with uh88.
+2018-10-07 15:29:35,525 - ufeindt - INFO - computing visibility of source at (ra: 16.119899, dec: 62.994597) from observatory uh88
+2018-10-07 15:29:35,527 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:35,714 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:36,135 - ufeindt - INFO - source is visible for a total of 8.917 hours. Took 6.12e-01 sec
+2018-10-07 15:29:36,136 - ufeindt - INFO - Calculating visibility of source ZTF18absoomk (ra: 3.425240, dec: 27.567624) with uh88.
+2018-10-07 15:29:36,139 - ufeindt - INFO - computing visibility of source at (ra: 3.425240, dec: 27.567624) from observatory uh88
+2018-10-07 15:29:36,140 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:36,349 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:36,801 - ufeindt - INFO - source is visible for a total of 8.833 hours. Took 6.64e-01 sec
+2018-10-07 15:29:36,802 - ufeindt - INFO - Calculating visibility of source ZTF18abvnwzz (ra: 292.355917, dec: 27.252450) with uh88.
+2018-10-07 15:29:36,804 - ufeindt - INFO - computing visibility of source at (ra: 292.355917, dec: 27.252450) from observatory uh88
+2018-10-07 15:29:36,805 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:36,995 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:37,415 - ufeindt - INFO - source is visible for a total of 4.083 hours. Took 6.13e-01 sec
+2018-10-07 15:29:37,416 - ufeindt - INFO - Calculating visibility of source ZTF18aaupjtd (ra: 288.703620, dec: 65.525847) with uh88.
+2018-10-07 15:29:37,418 - ufeindt - INFO - computing visibility of source at (ra: 288.703620, dec: 65.525847) from observatory uh88
+2018-10-07 15:29:37,419 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:37,608 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:38,027 - ufeindt - INFO - source is visible for a total of 3.667 hours. Took 6.11e-01 sec
+2018-10-07 15:29:38,028 - ufeindt - INFO - Calculating visibility of source ZTF18ablruzq (ra: 284.338311, dec: 11.433452) with uh88.
+2018-10-07 15:29:38,030 - ufeindt - INFO - computing visibility of source at (ra: 284.338311, dec: 11.433452) from observatory uh88
+2018-10-07 15:29:38,031 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:38,209 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:38,681 - ufeindt - INFO - source is visible for a total of 3.250 hours. Took 6.53e-01 sec
+2018-10-07 15:29:38,682 - ufeindt - INFO - Calculating visibility of source ZTF18abtxvhy (ra: 344.803300, dec: 0.404988) with uh88.
+2018-10-07 15:29:38,684 - ufeindt - INFO - computing visibility of source at (ra: 344.803300, dec: 0.404988) from observatory uh88
+2018-10-07 15:29:38,685 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:38,881 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:39,342 - ufeindt - INFO - source is visible for a total of 7.083 hours. Took 6.59e-01 sec
+2018-10-07 15:29:39,343 - ufeindt - INFO - Calculating visibility of source ZTF18abrzuqw (ra: 278.572180, dec: 28.739593) with uh88.
+2018-10-07 15:29:39,345 - ufeindt - INFO - computing visibility of source at (ra: 278.572180, dec: 28.739593) from observatory uh88
+2018-10-07 15:29:39,346 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:39,534 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:39,969 - ufeindt - INFO - source is visible for a total of 3.167 hours. Took 6.25e-01 sec
+2018-10-07 15:29:39,970 - ufeindt - INFO - Calculating visibility of source ZTF18abvrzqj (ra: 17.330200, dec: -15.594812) with uh88.
+2018-10-07 15:29:39,972 - ufeindt - INFO - computing visibility of source at (ra: 17.330200, dec: -15.594812) from observatory uh88
+2018-10-07 15:29:39,973 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:40,155 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:40,581 - ufeindt - INFO - source is visible for a total of 6.917 hours. Took 6.10e-01 sec
+2018-10-07 15:29:40,582 - ufeindt - INFO - Calculating visibility of source ZTF18abwbtco (ra: 50.870613, dec: 25.570822) with uh88.
+2018-10-07 15:29:40,584 - ufeindt - INFO - computing visibility of source at (ra: 50.870613, dec: 25.570822) from observatory uh88
+2018-10-07 15:29:40,585 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:40,766 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:41,189 - ufeindt - INFO - source is visible for a total of 7.000 hours. Took 6.06e-01 sec
+2018-10-07 15:29:41,190 - ufeindt - INFO - Calculating visibility of source ZTF18abvfecb (ra: 47.588868, dec: -7.685023) with uh88.
+2018-10-07 15:29:41,192 - ufeindt - INFO - computing visibility of source at (ra: 47.588868, dec: -7.685023) from observatory uh88
+2018-10-07 15:29:41,193 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:41,373 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:41,792 - ufeindt - INFO - source is visible for a total of 6.500 hours. Took 6.02e-01 sec
+2018-10-07 15:29:41,793 - ufeindt - INFO - Calculating visibility of source ZTF18abxdkni (ra: 315.270352, dec: 31.037348) with uh88.
+2018-10-07 15:29:41,795 - ufeindt - INFO - computing visibility of source at (ra: 315.270352, dec: 31.037348) from observatory uh88
+2018-10-07 15:29:41,796 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:41,975 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:42,397 - ufeindt - INFO - source is visible for a total of 5.667 hours. Took 6.03e-01 sec
+2018-10-07 15:29:42,398 - ufeindt - INFO - Calculating visibility of source ZTF18absgvqb (ra: 332.913911, dec: 48.965935) with uh88.
+2018-10-07 15:29:42,401 - ufeindt - INFO - computing visibility of source at (ra: 332.913911, dec: 48.965935) from observatory uh88
+2018-10-07 15:29:42,402 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:42,585 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:42,999 - ufeindt - INFO - source is visible for a total of 6.917 hours. Took 6.01e-01 sec
+2018-10-07 15:29:43,000 - ufeindt - INFO - Calculating visibility of source ZTF18abwktmm (ra: 59.259873, dec: -8.502708) with uh88.
+2018-10-07 15:29:43,003 - ufeindt - INFO - computing visibility of source at (ra: 59.259873, dec: -8.502708) from observatory uh88
+2018-10-07 15:29:43,004 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:43,185 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:43,616 - ufeindt - INFO - source is visible for a total of 5.667 hours. Took 6.15e-01 sec
+2018-10-07 15:29:43,616 - ufeindt - INFO - Calculating visibility of source ZTF18abxyudf (ra: 330.356689, dec: 10.648603) with uh88.
+2018-10-07 15:29:43,619 - ufeindt - INFO - computing visibility of source at (ra: 330.356689, dec: 10.648603) from observatory uh88
+2018-10-07 15:29:43,620 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:43,803 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:44,224 - ufeindt - INFO - source is visible for a total of 6.333 hours. Took 6.07e-01 sec
+2018-10-07 15:29:44,225 - ufeindt - INFO - Calculating visibility of source ZTF18abxwiqz (ra: 102.069765, dec: 55.273665) with uh88.
+2018-10-07 15:29:44,227 - ufeindt - INFO - computing visibility of source at (ra: 102.069765, dec: 55.273665) from observatory uh88
+2018-10-07 15:29:44,228 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:44,406 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:44,830 - ufeindt - INFO - source is visible for a total of 3.667 hours. Took 6.04e-01 sec
+2018-10-07 15:29:44,831 - ufeindt - INFO - Calculating visibility of source ZTF18abxbhov (ra: 110.069724, dec: 41.346650) with uh88.
+2018-10-07 15:29:44,833 - ufeindt - INFO - computing visibility of source at (ra: 110.069724, dec: 41.346650) from observatory uh88
+2018-10-07 15:29:44,834 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:45,014 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:45,435 - ufeindt - INFO - source is visible for a total of 3.167 hours. Took 6.04e-01 sec
+2018-10-07 15:29:45,436 - ufeindt - INFO - Calculating visibility of source ZTF18abvtrnc (ra: 92.848330, dec: 43.734964) with uh88.
+2018-10-07 15:29:45,438 - ufeindt - INFO - computing visibility of source at (ra: 92.848330, dec: 43.734964) from observatory uh88
+2018-10-07 15:29:45,439 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:45,618 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:46,033 - ufeindt - INFO - source is visible for a total of 4.333 hours. Took 5.96e-01 sec
+2018-10-07 15:29:46,034 - ufeindt - INFO - Calculating visibility of source ZTF17aabihdn (ra: 81.603904, dec: 40.110447) with uh88.
+2018-10-07 15:29:46,036 - ufeindt - INFO - computing visibility of source at (ra: 81.603904, dec: 40.110447) from observatory uh88
+2018-10-07 15:29:46,037 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:29:46,213 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:29:46,627 - ufeindt - INFO - source is visible for a total of 5.083 hours. Took 5.92e-01 sec
+2018-10-07 15:33:08,917 - ufeindt - INFO - Calculating visibility of source ZTF18abwbaim (ra: 53.358339, dec: -18.835591) with uh88.
+2018-10-07 15:33:08,919 - ufeindt - INFO - computing visibility of source at (ra: 53.358339, dec: -18.835591) from observatory uh88
+2018-10-07 15:33:08,921 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:33:09,107 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:33:09,522 - ufeindt - INFO - source is visible for a total of 5.667 hours. Took 6.05e-01 sec
+2018-10-07 15:33:09,523 - ufeindt - INFO - Calculating visibility of source ZTF18abvrzqj (ra: 17.330200, dec: -15.594812) with uh88.
+2018-10-07 15:33:09,526 - ufeindt - INFO - computing visibility of source at (ra: 17.330200, dec: -15.594812) from observatory uh88
+2018-10-07 15:33:09,527 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:33:09,711 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:33:10,154 - ufeindt - INFO - source is visible for a total of 6.917 hours. Took 6.30e-01 sec
+2018-10-07 15:33:10,155 - ufeindt - INFO - Calculating visibility of source ZTF18abxdkni (ra: 315.270352, dec: 31.037348) with uh88.
+2018-10-07 15:33:10,157 - ufeindt - INFO - computing visibility of source at (ra: 315.270352, dec: 31.037348) from observatory uh88
+2018-10-07 15:33:10,158 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:33:10,341 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:33:10,779 - ufeindt - INFO - source is visible for a total of 5.667 hours. Took 6.23e-01 sec
+2018-10-07 15:33:10,780 - ufeindt - INFO - Calculating visibility of source ZTF18abwktmm (ra: 59.259873, dec: -8.502708) with uh88.
+2018-10-07 15:33:10,782 - ufeindt - INFO - computing visibility of source at (ra: 59.259873, dec: -8.502708) from observatory uh88
+2018-10-07 15:33:10,783 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:33:10,963 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:33:11,387 - ufeindt - INFO - source is visible for a total of 5.667 hours. Took 6.06e-01 sec
+2018-10-07 15:34:32,963 - ufeindt - INFO - Calculating visibility of source ZTF18abwbaim (ra: 53.358339, dec: -18.835591) with uh88.
+2018-10-07 15:34:32,969 - ufeindt - INFO - computing visibility of source at (ra: 53.358339, dec: -18.835591) from observatory uh88
+2018-10-07 15:34:32,970 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:34:33,161 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:34:33,579 - ufeindt - INFO - source is visible for a total of 5.667 hours. Took 6.13e-01 sec
+2018-10-07 15:34:33,580 - ufeindt - INFO - Calculating visibility of source ZTF18abvrzqj (ra: 17.330200, dec: -15.594812) with uh88.
+2018-10-07 15:34:33,583 - ufeindt - INFO - computing visibility of source at (ra: 17.330200, dec: -15.594812) from observatory uh88
+2018-10-07 15:34:33,588 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:34:33,769 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:34:34,206 - ufeindt - INFO - source is visible for a total of 6.917 hours. Took 6.25e-01 sec
+2018-10-07 15:34:34,207 - ufeindt - INFO - Calculating visibility of source ZTF18abxdkni (ra: 315.270352, dec: 31.037348) with uh88.
+2018-10-07 15:34:34,209 - ufeindt - INFO - computing visibility of source at (ra: 315.270352, dec: 31.037348) from observatory uh88
+2018-10-07 15:34:34,210 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:34:34,390 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:34:34,871 - ufeindt - INFO - source is visible for a total of 5.667 hours. Took 6.63e-01 sec
+2018-10-07 15:34:34,872 - ufeindt - INFO - Calculating visibility of source ZTF18abwktmm (ra: 59.259873, dec: -8.502708) with uh88.
+2018-10-07 15:34:34,874 - ufeindt - INFO - computing visibility of source at (ra: 59.259873, dec: -8.502708) from observatory uh88
+2018-10-07 15:34:34,874 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:34:35,102 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:34:35,566 - ufeindt - INFO - source is visible for a total of 5.667 hours. Took 6.93e-01 sec
+2018-10-07 15:34:50,308 - ufeindt - INFO - Calculating visibility of source ZTF18abwbaim (ra: 53.358339, dec: -18.835591) with uh88.
+2018-10-07 15:34:50,315 - ufeindt - INFO - computing visibility of source at (ra: 53.358339, dec: -18.835591) from observatory uh88
+2018-10-07 15:34:50,316 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:34:50,514 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:34:50,936 - ufeindt - INFO - source is visible for a total of 5.667 hours. Took 6.23e-01 sec
+2018-10-07 15:34:50,937 - ufeindt - INFO - Calculating visibility of source ZTF18abvrzqj (ra: 17.330200, dec: -15.594812) with uh88.
+2018-10-07 15:34:50,940 - ufeindt - INFO - computing visibility of source at (ra: 17.330200, dec: -15.594812) from observatory uh88
+2018-10-07 15:34:50,941 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:34:51,129 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:34:51,559 - ufeindt - INFO - source is visible for a total of 6.917 hours. Took 6.22e-01 sec
+2018-10-07 15:34:51,560 - ufeindt - INFO - Calculating visibility of source ZTF18abxdkni (ra: 315.270352, dec: 31.037348) with uh88.
+2018-10-07 15:34:51,564 - ufeindt - INFO - computing visibility of source at (ra: 315.270352, dec: 31.037348) from observatory uh88
+2018-10-07 15:34:51,565 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:34:51,768 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:34:52,258 - ufeindt - INFO - source is visible for a total of 5.667 hours. Took 6.95e-01 sec
+2018-10-07 15:34:52,259 - ufeindt - INFO - Calculating visibility of source ZTF18abwktmm (ra: 59.259873, dec: -8.502708) with uh88.
+2018-10-07 15:34:52,261 - ufeindt - INFO - computing visibility of source at (ra: 59.259873, dec: -8.502708) from observatory uh88
+2018-10-07 15:34:52,262 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:34:52,441 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:34:52,863 - ufeindt - INFO - source is visible for a total of 5.667 hours. Took 6.03e-01 sec
+2018-10-07 15:34:52,864 - ufeindt - INFO - Calculating visibility of source ZTF18abxbugc (ra: 157.056147, dec: 79.340345) with uh88.
+2018-10-07 15:34:52,866 - ufeindt - INFO - computing visibility of source at (ra: 157.056147, dec: 79.340345) from observatory uh88
+2018-10-07 15:34:52,867 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:34:53,049 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:34:53,506 - ufeindt - INFO - source is visible for a total of 0.000 hours. Took 6.41e-01 sec
+2018-10-07 15:34:53,506 - ufeindt - INFO - Source ZTF18abxbugc (ra: 157.056147, dec: 79.340345) not observable with uh88.
+2018-10-07 15:37:21,289 - ufeindt - INFO - Calculating visibility of source ZTF18abwbaim (ra: 53.358339, dec: -18.835591) with uh88.
+2018-10-07 15:37:21,295 - ufeindt - INFO - computing visibility of source at (ra: 53.358339, dec: -18.835591) from observatory uh88
+2018-10-07 15:37:21,300 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:37:21,498 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:37:21,922 - ufeindt - INFO - source is visible for a total of 5.667 hours. Took 6.30e-01 sec
+2018-10-07 15:37:21,923 - ufeindt - INFO - Calculating visibility of source ZTF18abvrzqj (ra: 17.330200, dec: -15.594812) with uh88.
+2018-10-07 15:37:21,926 - ufeindt - INFO - computing visibility of source at (ra: 17.330200, dec: -15.594812) from observatory uh88
+2018-10-07 15:37:21,927 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:37:22,112 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:37:22,541 - ufeindt - INFO - source is visible for a total of 6.917 hours. Took 6.17e-01 sec
+2018-10-07 15:37:22,542 - ufeindt - INFO - Calculating visibility of source ZTF18abxdkni (ra: 315.270352, dec: 31.037348) with uh88.
+2018-10-07 15:37:22,544 - ufeindt - INFO - computing visibility of source at (ra: 315.270352, dec: 31.037348) from observatory uh88
+2018-10-07 15:37:22,547 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:37:22,726 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:37:23,213 - ufeindt - INFO - source is visible for a total of 5.667 hours. Took 6.70e-01 sec
+2018-10-07 15:37:23,214 - ufeindt - INFO - Calculating visibility of source ZTF18abwktmm (ra: 59.259873, dec: -8.502708) with uh88.
+2018-10-07 15:37:23,219 - ufeindt - INFO - computing visibility of source at (ra: 59.259873, dec: -8.502708) from observatory uh88
+2018-10-07 15:37:23,221 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:37:23,446 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:37:23,870 - ufeindt - INFO - source is visible for a total of 5.667 hours. Took 6.53e-01 sec
+2018-10-07 15:37:23,870 - ufeindt - INFO - Calculating visibility of source ZTF18abxbugc (ra: 157.056147, dec: 79.340345) with uh88.
+2018-10-07 15:37:23,873 - ufeindt - INFO - computing visibility of source at (ra: 157.056147, dec: 79.340345) from observatory uh88
+2018-10-07 15:37:23,874 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:37:24,056 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:37:24,494 - ufeindt - INFO - source is visible for a total of 0.000 hours. Took 6.23e-01 sec
+2018-10-07 15:37:24,495 - ufeindt - INFO - Source ZTF18abxbugc (ra: 157.056147, dec: 79.340345) not observable with uh88.
+2018-10-07 15:37:24,496 - ufeindt - INFO - Calculating visibility of source ZTF18abxdtyz (ra: 345.937664, dec: 18.138368) with uh88.
+2018-10-07 15:37:24,499 - ufeindt - INFO - computing visibility of source at (ra: 345.937664, dec: 18.138368) from observatory uh88
+2018-10-07 15:37:24,500 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:37:24,695 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:37:25,111 - ufeindt - INFO - source is visible for a total of 7.500 hours. Took 6.14e-01 sec
+2018-10-07 15:37:25,112 - ufeindt - INFO - Calculating visibility of source ZTF18abwxhjo (ra: 358.628410, dec: -4.785466) with uh88.
+2018-10-07 15:37:25,114 - ufeindt - INFO - computing visibility of source at (ra: 358.628410, dec: -4.785466) from observatory uh88
+2018-10-07 15:37:25,115 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:37:25,295 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:37:25,717 - ufeindt - INFO - source is visible for a total of 7.750 hours. Took 6.04e-01 sec
+2018-10-07 15:37:25,718 - ufeindt - INFO - Calculating visibility of source ZTF18abvptts (ra: 333.219844, dec: 33.047503) with uh88.
+2018-10-07 15:37:25,720 - ufeindt - INFO - computing visibility of source at (ra: 333.219844, dec: 33.047503) from observatory uh88
+2018-10-07 15:37:25,721 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:37:25,910 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:37:26,325 - ufeindt - INFO - source is visible for a total of 6.833 hours. Took 6.07e-01 sec
+2018-10-07 15:37:26,326 - ufeindt - INFO - Calculating visibility of source ZTF18abxygvv (ra: 293.846132, dec: 64.758349) with uh88.
+2018-10-07 15:37:26,328 - ufeindt - INFO - computing visibility of source at (ra: 293.846132, dec: 64.758349) from observatory uh88
+2018-10-07 15:37:26,329 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:37:26,517 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:37:26,934 - ufeindt - INFO - source is visible for a total of 4.083 hours. Took 6.07e-01 sec
+2018-10-07 15:40:45,767 - ufeindt - INFO - Calculating visibility of source ZTF18abwbaim (ra: 53.358339, dec: -18.835591) with uh88.
+2018-10-07 15:40:45,782 - ufeindt - INFO - computing visibility of source at (ra: 53.358339, dec: -18.835591) from observatory uh88
+2018-10-07 15:40:45,788 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:40:46,014 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:40:46,428 - ufeindt - INFO - source is visible for a total of 5.667 hours. Took 6.57e-01 sec
+2018-10-07 15:40:46,429 - ufeindt - INFO - Calculating visibility of source ZTF18abvrzqj (ra: 17.330200, dec: -15.594812) with uh88.
+2018-10-07 15:40:46,432 - ufeindt - INFO - computing visibility of source at (ra: 17.330200, dec: -15.594812) from observatory uh88
+2018-10-07 15:40:46,434 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:40:46,632 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:40:47,067 - ufeindt - INFO - source is visible for a total of 6.917 hours. Took 6.37e-01 sec
+2018-10-07 15:40:47,068 - ufeindt - INFO - Calculating visibility of source ZTF18abxdkni (ra: 315.270352, dec: 31.037348) with uh88.
+2018-10-07 15:40:47,069 - ufeindt - INFO - computing visibility of source at (ra: 315.270352, dec: 31.037348) from observatory uh88
+2018-10-07 15:40:47,071 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:40:47,268 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:40:47,772 - ufeindt - INFO - source is visible for a total of 5.667 hours. Took 7.04e-01 sec
+2018-10-07 15:40:47,773 - ufeindt - INFO - Calculating visibility of source ZTF18abwktmm (ra: 59.259873, dec: -8.502708) with uh88.
+2018-10-07 15:40:47,775 - ufeindt - INFO - computing visibility of source at (ra: 59.259873, dec: -8.502708) from observatory uh88
+2018-10-07 15:40:47,776 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:40:47,955 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:40:48,373 - ufeindt - INFO - source is visible for a total of 5.667 hours. Took 5.99e-01 sec
+2018-10-07 15:40:48,374 - ufeindt - INFO - Calculating visibility of source ZTF18abxbugc (ra: 157.056147, dec: 79.340345) with uh88.
+2018-10-07 15:40:48,376 - ufeindt - INFO - computing visibility of source at (ra: 157.056147, dec: 79.340345) from observatory uh88
+2018-10-07 15:40:48,377 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:40:48,562 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:40:48,994 - ufeindt - INFO - source is visible for a total of 0.000 hours. Took 6.20e-01 sec
+2018-10-07 15:40:48,995 - ufeindt - INFO - Source ZTF18abxbugc (ra: 157.056147, dec: 79.340345) not observable with uh88.
+2018-10-07 15:40:48,996 - ufeindt - INFO - Calculating visibility of source ZTF18abxdtyz (ra: 345.937664, dec: 18.138368) with uh88.
+2018-10-07 15:40:48,998 - ufeindt - INFO - computing visibility of source at (ra: 345.937664, dec: 18.138368) from observatory uh88
+2018-10-07 15:40:48,999 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:40:49,192 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:40:49,661 - ufeindt - INFO - source is visible for a total of 7.500 hours. Took 6.65e-01 sec
+2018-10-07 15:40:49,662 - ufeindt - INFO - Calculating visibility of source ZTF18abwxhjo (ra: 358.628410, dec: -4.785466) with uh88.
+2018-10-07 15:40:49,665 - ufeindt - INFO - computing visibility of source at (ra: 358.628410, dec: -4.785466) from observatory uh88
+2018-10-07 15:40:49,666 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:40:49,846 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:40:50,264 - ufeindt - INFO - source is visible for a total of 7.750 hours. Took 6.01e-01 sec
+2018-10-07 15:40:50,265 - ufeindt - INFO - Calculating visibility of source ZTF18abvptts (ra: 333.219844, dec: 33.047503) with uh88.
+2018-10-07 15:40:50,267 - ufeindt - INFO - computing visibility of source at (ra: 333.219844, dec: 33.047503) from observatory uh88
+2018-10-07 15:40:50,268 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:40:50,473 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:40:50,927 - ufeindt - INFO - source is visible for a total of 6.833 hours. Took 6.62e-01 sec
+2018-10-07 15:40:50,928 - ufeindt - INFO - Calculating visibility of source ZTF18abxygvv (ra: 293.846132, dec: 64.758349) with uh88.
+2018-10-07 15:40:50,931 - ufeindt - INFO - computing visibility of source at (ra: 293.846132, dec: 64.758349) from observatory uh88
+2018-10-07 15:40:50,933 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:40:51,119 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:40:51,560 - ufeindt - INFO - source is visible for a total of 4.083 hours. Took 6.31e-01 sec
+2018-10-07 15:40:51,561 - ufeindt - INFO - Calculating visibility of source ZTF18abxxssh (ra: 268.395573, dec: 43.216112) with uh88.
+2018-10-07 15:40:51,563 - ufeindt - INFO - computing visibility of source at (ra: 268.395573, dec: 43.216112) from observatory uh88
+2018-10-07 15:40:51,566 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:40:51,771 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:40:52,196 - ufeindt - INFO - source is visible for a total of 2.583 hours. Took 6.35e-01 sec
+2018-10-07 15:40:52,197 - ufeindt - INFO - Calculating visibility of source ZTF18abxyudf (ra: 330.356689, dec: 10.648603) with uh88.
+2018-10-07 15:40:52,200 - ufeindt - INFO - computing visibility of source at (ra: 330.356689, dec: 10.648603) from observatory uh88
+2018-10-07 15:40:52,201 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:40:52,385 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:40:52,893 - ufeindt - INFO - source is visible for a total of 6.333 hours. Took 6.95e-01 sec
+2018-10-07 15:40:52,894 - ufeindt - INFO - Calculating visibility of source ZTF18abyxwrf (ra: 43.900137, dec: 43.057589) with uh88.
+2018-10-07 15:40:52,897 - ufeindt - INFO - computing visibility of source at (ra: 43.900137, dec: 43.057589) from observatory uh88
+2018-10-07 15:40:52,898 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:40:53,127 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:40:53,629 - ufeindt - INFO - source is visible for a total of 7.583 hours. Took 7.34e-01 sec
+2018-10-07 15:40:53,630 - ufeindt - INFO - Calculating visibility of source ZTF18abykswp (ra: 98.545228, dec: 52.129800) with uh88.
+2018-10-07 15:40:53,632 - ufeindt - INFO - computing visibility of source at (ra: 98.545228, dec: 52.129800) from observatory uh88
+2018-10-07 15:40:53,633 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:40:53,812 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:40:54,296 - ufeindt - INFO - source is visible for a total of 3.917 hours. Took 6.65e-01 sec
+2018-10-07 15:40:54,298 - ufeindt - INFO - Calculating visibility of source ZTF18abwwfyo (ra: 321.696625, dec: -4.792770) with uh88.
+2018-10-07 15:40:54,300 - ufeindt - INFO - computing visibility of source at (ra: 321.696625, dec: -4.792770) from observatory uh88
+2018-10-07 15:40:54,301 - ufeindt - INFO - using visibility constraints:
+					-Time resolution: 5.00 min
+					-Airmass limit: 2.00
+					-Sun altitude: -17.00 deg
+					-Moon distance: 30.00 deg
+2018-10-07 15:40:54,499 - ufeindt - INFO - computed dark times (sun_alt: -17.00) between 2018-10-08 00:00:00.000 and 2018-10-08 23:55:00.000. Total of 9.92 hours of dark
+2018-10-07 15:40:54,946 - ufeindt - INFO - source is visible for a total of 5.333 hours. Took 6.48e-01 sec
