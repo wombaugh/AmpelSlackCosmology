@@ -1,0 +1,230 @@
+2018-10-09 15:13:53,745 - mgiomi - INFO - Cutting down alert info to subset with nrefframes keyword
+2018-10-09 15:14:02,709 - mgiomi - INFO - There were 260 candidates reported 2018-10-09
+2018-10-09 15:14:09,607 - mgiomi - INFO - Out of these 63 already have Marshal type and will be skipped.
+2018-10-09 15:14:14,591 - mgiomi - INFO - 39 have a catalog z larger than 0.1  and will be skipped.
+2018-10-09 15:14:19,753 - mgiomi - INFO - Detected 22 already saved candidates and 136 new
+2018-10-09 15:14:29,891 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abvvokw, less than 5 detections
+2018-10-09 15:14:29,897 - mgiomi - INFO - 2018-10-09: Skipping ZTF18aawyjjq, never reached limit 19.5
+2018-10-09 15:14:29,900 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abtqziv, never reached limit 19.5
+2018-10-09 15:14:29,903 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abtvjqy, never reached limit 19.5
+2018-10-09 15:14:29,906 - mgiomi - INFO - 2018-10-09: Skipping ZTF18aaxndxa, age 37.97429390018806 longer than limit 30
+2018-10-09 15:14:29,922 - mgiomi - INFO - 2018-10-09: Skipping ZTF18absoaff, never reached limit 19.5
+2018-10-09 15:14:29,925 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abhtrqa, never reached limit 19.5
+2018-10-09 15:14:29,927 - mgiomi - INFO - 2018-10-09: Skipping ZTF18aaodyze, less than 5 detections
+2018-10-09 15:14:29,930 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abmdnmi, age 32.90944440010935 longer than limit 30
+2018-10-09 15:14:29,935 - mgiomi - INFO - 2018-10-09: Skipping ZTF18aatzuep, never reached limit 19.5
+2018-10-09 15:14:29,939 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abtpgms, never reached limit 19.5
+2018-10-09 15:14:29,943 - mgiomi - INFO - 2018-10-09: Skipping ZTF18absccoi, never reached limit 19.5
+2018-10-09 15:14:29,955 - mgiomi - INFO - 2018-10-09: Skipping ZTF18ablvxfo, less than 5 detections
+2018-10-09 15:14:29,958 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abtvrpt, never reached limit 19.5
+2018-10-09 15:14:29,970 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abtotsq, never reached limit 19.5
+2018-10-09 15:14:29,980 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abwfhqb, never reached limit 19.5
+2018-10-09 15:14:29,984 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abihisa, never reached limit 19.5
+2018-10-09 15:14:29,990 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abuwqdi, never reached limit 19.5
+2018-10-09 15:14:29,997 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abuleom, never reached limit 19.5
+2018-10-09 15:14:30,003 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abostla, never reached limit 19.5
+2018-10-09 15:14:30,006 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abdklhh, never reached limit 19.5
+2018-10-09 15:14:30,010 - mgiomi - INFO - 2018-10-09: Skipping ZTF18aaojnbl, never reached limit 19.5
+2018-10-09 15:14:30,016 - mgiomi - INFO - 2018-10-09: Skipping ZTF18absorph, never reached limit 19.5
+2018-10-09 15:14:30,021 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abuluko, never reached limit 19.5
+2018-10-09 15:14:30,025 - mgiomi - INFO - 2018-10-09: Skipping ZTF18aavzlch, less than 5 detections
+2018-10-09 15:14:30,029 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abvoydx, never reached limit 19.5
+2018-10-09 15:14:30,035 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abgyjlk, never reached limit 19.5
+2018-10-09 15:14:30,038 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abvzfgy, never reached limit 19.5
+2018-10-09 15:14:30,041 - mgiomi - INFO - 2018-10-09: Skipping ZTF18aazydub, never reached limit 19.5
+2018-10-09 15:14:30,044 - mgiomi - INFO - 2018-10-09: Skipping ZTF18absbuyv, never reached limit 19.5
+2018-10-09 15:14:30,055 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abuksoh, never reached limit 19.5
+2018-10-09 15:14:30,061 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abgubgi, less than 5 detections
+2018-10-09 15:14:30,067 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abjhatv, age 35.93202550010756 longer than limit 30
+2018-10-09 15:14:30,084 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abszecm, never reached limit 19.5
+2018-10-09 15:14:30,087 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abltbxa, never reached limit 19.5
+2018-10-09 15:14:30,091 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abvxyyb, never reached limit 19.5
+2018-10-09 15:14:30,094 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abvuaiv, never reached limit 19.5
+2018-10-09 15:14:30,097 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abrpkdw, age 36.9360533002764 longer than limit 30
+2018-10-09 15:14:30,100 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abflqxq, age 36.0176735999994 longer than limit 30
+2018-10-09 15:14:30,108 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abeiqpq, never reached limit 19.5
+2018-10-09 15:14:30,120 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abgrlpv, age 32.89317120052874 longer than limit 30
+2018-10-09 15:14:30,123 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abssohz, never reached limit 19.5
+2018-10-09 15:14:30,125 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abtizze, never reached limit 19.5
+2018-10-09 15:14:30,133 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abmwfxd, age 33.92225700011477 longer than limit 30
+2018-10-09 15:14:30,136 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abjgrod, never reached limit 19.5
+2018-10-09 15:14:30,155 - mgiomi - INFO - 2018-10-09: Skipping ZTF18aaxvbau, never reached limit 19.5
+2018-10-09 15:14:30,164 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abskuxt, never reached limit 19.5
+2018-10-09 15:14:30,167 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abecjrr, age 35.9661458004266 longer than limit 30
+2018-10-09 15:14:30,173 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abtphnh, less than 5 detections
+2018-10-09 15:14:30,177 - mgiomi - INFO - 2018-10-09: Skipping ZTF18absgmfy, age 31.89222229970619 longer than limit 30
+2018-10-09 15:14:30,186 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abkmfaj, never reached limit 19.5
+2018-10-09 15:14:30,191 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abakcez, never reached limit 19.5
+2018-10-09 15:14:30,204 - mgiomi - INFO - 2018-10-09: Skipping ZTF18aauayco, never reached limit 19.5
+2018-10-09 15:14:30,215 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abtnryk, never reached limit 19.5
+2018-10-09 15:14:30,219 - mgiomi - INFO - 2018-10-09: Skipping ZTF18aapgbfm, never reached limit 19.5
+2018-10-09 15:14:30,224 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abolndd, age 35.94020840106532 longer than limit 30
+2018-10-09 15:14:30,233 - mgiomi - INFO - 2018-10-09: Skipping ZTF18aanxtko, never reached limit 19.5
+2018-10-09 15:14:30,238 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abtkzfh, never reached limit 19.5
+2018-10-09 15:14:30,241 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abszxqc, never reached limit 19.5
+2018-10-09 15:14:30,245 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abwwzpt, never reached limit 19.5
+2018-10-09 15:14:30,249 - mgiomi - INFO - 2018-10-09: Skipping ZTF18aanvpol, less than 5 detections
+2018-10-09 15:14:30,264 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abtkzfi, only 1 filters
+2018-10-09 15:14:30,266 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abuussw, never reached limit 19.5
+2018-10-09 15:14:30,271 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abtnqwx, never reached limit 19.5
+2018-10-09 15:14:30,286 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abtxzeu, never reached limit 19.5
+2018-10-09 15:14:30,297 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abmarax, age 36.99071760009974 longer than limit 30
+2018-10-09 15:14:30,305 - mgiomi - INFO - 2018-10-09: Skipping ZTF18aaxugta, never reached limit 19.5
+2018-10-09 15:14:30,308 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abcleke, less than 5 detections
+2018-10-09 15:14:30,317 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abubjqi, never reached limit 19.5
+2018-10-09 15:14:30,321 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abmjgxz, never reached limit 19.5
+2018-10-09 15:14:30,329 - mgiomi - INFO - 2018-10-09: Skipping ZTF18acasuxc, never reached limit 19.5
+2018-10-09 15:14:30,332 - mgiomi - INFO - 2018-10-09: Skipping ZTF18acahiwq, never reached limit 19.5
+2018-10-09 15:14:30,336 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abzuvxy, never reached limit 19.5
+2018-10-09 15:14:30,339 - mgiomi - INFO - 2018-10-09: Skipping ZTF18acatizc, never reached limit 19.5
+2018-10-09 15:14:30,341 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abxmdan, less than 5 detections
+2018-10-09 15:14:30,344 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abyzzft, less than 5 detections
+2018-10-09 15:14:30,354 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abryobq, less than 5 detections
+2018-10-09 15:14:30,356 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abmenfr, less than 5 detections
+2018-10-09 15:14:30,359 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abuusta, never reached limit 19.5
+2018-10-09 15:14:30,362 - mgiomi - INFO - 2018-10-09: Skipping ZTF18acahsik, less than 5 detections
+2018-10-09 15:14:30,370 - mgiomi - INFO - 2018-10-09: Skipping ZTF18acaughd, never reached limit 19.5
+2018-10-09 15:14:30,373 - mgiomi - INFO - 2018-10-09: Skipping ZTF18acatjhf, never reached limit 19.5
+2018-10-09 15:14:30,382 - mgiomi - INFO - 2018-10-09: Skipping ZTF18acaedcs, never reached limit 19.5
+2018-10-09 15:14:30,387 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abxxssh, less than 5 detections
+2018-10-09 15:14:30,393 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abyzeub, less than 5 detections
+2018-10-09 15:14:30,400 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abxmblp, never reached limit 19.5
+2018-10-09 15:14:30,404 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abzweln, never reached limit 19.5
+2018-10-09 15:14:30,407 - mgiomi - INFO - 2018-10-09: Skipping ZTF18acajowp, less than 5 detections
+2018-10-09 15:14:30,410 - mgiomi - INFO - 2018-10-09: Skipping ZTF18acajksj, never reached limit 19.5
+2018-10-09 15:14:30,416 - mgiomi - INFO - 2018-10-09: Skipping ZTF18aazfghl, less than 5 detections
+2018-10-09 15:14:30,420 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abyvenk, less than 5 detections
+2018-10-09 15:14:30,422 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abuussp, never reached limit 19.5
+2018-10-09 15:14:30,424 - mgiomi - INFO - 2018-10-09: Skipping ZTF18acajopa, never reached limit 19.5
+2018-10-09 15:14:30,428 - mgiomi - INFO - 2018-10-09: Skipping ZTF18acaednl, never reached limit 19.5
+2018-10-09 15:14:30,433 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abxnvgm, never reached limit 19.5
+2018-10-09 15:14:30,438 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abxzbdj, less than 5 detections
+2018-10-09 15:14:30,441 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abybyqw, less than 5 detections
+2018-10-09 15:14:30,444 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abzppse, never reached limit 19.5
+2018-10-09 15:14:30,448 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abxphmy, never reached limit 19.5
+2018-10-09 15:14:30,454 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abzrvqt, less than 5 detections
+2018-10-09 15:14:30,457 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abzvpif, less than 5 detections
+2018-10-09 15:14:30,463 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abjheac, never reached limit 19.5
+2018-10-09 15:14:30,466 - mgiomi - INFO - 2018-10-09: Skipping ZTF18acahmxg, never reached limit 19.5
+2018-10-09 15:14:30,470 - mgiomi - INFO - 2018-10-09: Skipping ZTF18acajnjl, never reached limit 19.5
+2018-10-09 15:14:30,475 - mgiomi - INFO - 2018-10-09: Skipping ZTF18acaulpn, never reached limit 19.5
+2018-10-09 15:14:30,481 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abzvdux, never reached limit 19.5
+2018-10-09 15:14:30,484 - mgiomi - INFO - 2018-10-09: Skipping ZTF18acacnmr, less than 5 detections
+2018-10-09 15:14:30,487 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abywclh, less than 5 detections
+2018-10-09 15:14:30,492 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abxekqb, never reached limit 19.5
+2018-10-09 15:14:30,498 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abzpudi, never reached limit 19.5
+2018-10-09 15:14:30,502 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abyzrsg, less than 5 detections
+2018-10-09 15:14:30,506 - mgiomi - INFO - 2018-10-09: Skipping ZTF18acaptey, never reached limit 19.5
+2018-10-09 15:14:30,510 - mgiomi - INFO - 2018-10-09: Skipping ZTF18acauiww, never reached limit 19.5
+2018-10-09 15:14:30,516 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abbvbfv, never reached limit 19.5
+2018-10-09 15:14:30,523 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abznydu, less than 5 detections
+2018-10-09 15:14:30,526 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abxmahg, never reached limit 19.5
+2018-10-09 15:14:30,528 - mgiomi - INFO - 2018-10-09: Skipping ZTF18abywidy, never reached limit 19.5
+2018-10-09 15:15:36,429 - mgiomi - INFO - I never want to see SN 0 ZTF18abulqzb again!
+2018-10-09 15:16:19,872 - mgiomi - INFO - I want to scan some more, go back!
+2018-10-09 15:16:23,017 - mgiomi - INFO - I never want to see SN 0 ZTF18abulqzb again!
+2018-10-09 15:16:35,602 - mgiomi - INFO - Waiting for further obs for SN 1 ZTF18abulemm
+2018-10-09 15:16:40,500 - mgiomi - INFO - Waiting for further obs for SN 2 ZTF18aanxggu
+2018-10-09 15:16:44,967 - mgiomi - INFO - Sending SN 3 ZTF18abwhsnx for possible follow-up
+2018-10-09 15:16:53,549 - mgiomi - INFO - Waiting for further obs for SN 4 ZTF18aampiwv
+2018-10-09 15:17:10,388 - mgiomi - INFO - Sending SN 5 ZTF18aajswer for possible follow-up
+2018-10-09 15:17:12,781 - mgiomi - INFO - I never want to see SN 6 ZTF18abmxatl again!
+2018-10-09 15:17:19,086 - mgiomi - INFO - Waiting for further obs for SN 7 ZTF18aagteoy
+2018-10-09 15:17:33,727 - mgiomi - INFO - Sending SN 8 ZTF18aampjcm for possible follow-up
+2018-10-09 15:17:42,141 - mgiomi - INFO - Waiting for further obs for SN 9 ZTF18abbmenz
+2018-10-09 15:18:02,916 - mgiomi - INFO - Sending SN 10 ZTF18abnvotk for possible follow-up
+2018-10-09 15:18:11,094 - mgiomi - INFO - Waiting for further obs for SN 11 ZTF18abujobx
+2018-10-09 15:18:20,559 - mgiomi - INFO - Waiting for further obs for SN 12 ZTF18absnsqx
+2018-10-09 15:18:22,998 - mgiomi - INFO - I never want to see SN 13 ZTF18abadmii again!
+2018-10-09 15:18:31,358 - mgiomi - INFO - Waiting for further obs for SN 14 ZTF18aaqzomm
+2018-10-09 15:18:36,513 - mgiomi - INFO - Waiting for further obs for SN 15 ZTF18abslxpd
+2018-10-09 15:18:42,092 - mgiomi - INFO - I never want to see SN 16 ZTF18abkhqww again!
+2018-10-09 15:18:53,140 - mgiomi - INFO - Sending SN 17 ZTF18abyzksx for possible follow-up
+2018-10-09 15:18:57,084 - mgiomi - INFO - I never want to see SN 18 ZTF18abznred again!
+2018-10-09 15:19:05,836 - mgiomi - INFO - Full decision set: {0: 'Garbage', 1: 'Wait', 2: 'Wait', 3: 'Submit', 4: 'Wait', 5: 'Submit', 6: 'Garbage', 7: 'Wait', 8: 'Submit', 9: 'Wait', 10: 'Submit', 11: 'Wait', 12: 'Wait', 13: 'Garbage', 14: 'Wait', 15: 'Wait', 16: 'Garbage', 17: 'Submit', 18: 'Garbage'}
+2018-10-09 15:24:47,912 - mgiomi - INFO - Trying to ingest ZTF18abwhsnx through avroid 646221285715015002
+2018-10-09 15:24:47,914 - mgiomi - INFO - ... already a candidate with id 646221285715015002
+2018-10-09 15:24:47,916 - mgiomi - INFO - Trying to ingest ZTF18aajswer through avroid 625215333115015018
+2018-10-09 15:24:47,918 - mgiomi - INFO - Trying to ingest ZTF18aampjcm through avroid 634117813415015072
+2018-10-09 15:24:47,919 - mgiomi - INFO - ... already a candidate with id 646133123415015069
+2018-10-09 15:24:47,921 - mgiomi - INFO - Trying to ingest ZTF18abnvotk through avroid 634120125315015107
+2018-10-09 15:24:47,921 - mgiomi - INFO - ... already a candidate with id 646180265315015053
+2018-10-09 15:24:47,923 - mgiomi - INFO - Trying to ingest ZTF18abyzksx through avroid 646254310615015020
+2018-10-09 15:24:47,924 - mgiomi - INFO - ... already a candidate with id 646254310615015020
+2018-10-09 15:26:25,572 - mgiomi - INFO - Tried to ingest [625215333115015018], failed for ['625215333115015018']
+2018-10-09 15:38:54,457 - mgiomi - INFO - Trying to ingest ZTF18abwhsnx through avroid 646221285715015002
+2018-10-09 15:38:54,459 - mgiomi - INFO - ... already a candidate with id 646221285715015002
+2018-10-09 15:38:54,461 - mgiomi - INFO - Trying to ingest ZTF18aajswer through avroid 625215333115015018
+2018-10-09 15:38:54,462 - mgiomi - INFO - ... already a candidate with id 646199653115015015
+2018-10-09 15:38:54,464 - mgiomi - INFO - Trying to ingest ZTF18aampjcm through avroid 634117813415015072
+2018-10-09 15:38:54,465 - mgiomi - INFO - ... already a candidate with id 646133123415015069
+2018-10-09 15:38:54,467 - mgiomi - INFO - Trying to ingest ZTF18abnvotk through avroid 634120125315015107
+2018-10-09 15:38:54,469 - mgiomi - INFO - ... already a candidate with id 646180265315015053
+2018-10-09 15:38:54,471 - mgiomi - INFO - Trying to ingest ZTF18abyzksx through avroid 646254310615015020
+2018-10-09 15:38:54,472 - mgiomi - INFO - ... already a candidate with id 646254310615015020
+2018-10-09 15:38:54,475 - mgiomi - INFO - Tried to ingest [], failed for []
+2018-10-09 15:39:25,692 - mgiomi - INFO - Lacking candid for ZTF18abwhsnx
+2018-10-09 15:39:25,693 - mgiomi - INFO - Lacking candid for ZTF18aajswer
+2018-10-09 15:39:25,694 - mgiomi - INFO - Try to save ZTF18aampjcm through candid 1545023
+2018-10-09 15:39:27,549 - mgiomi - INFO - Try to save ZTF18abnvotk through candid 1558164
+2018-10-09 15:39:29,250 - mgiomi - INFO - Try to save ZTF18abyzksx through candid 1545854
+2018-10-09 15:41:18,032 - mgiomi - INFO - Lacking candid for ZTF18abwhsnx
+2018-10-09 15:41:18,034 - mgiomi - INFO - Lacking candid for ZTF18aajswer
+2018-10-09 15:41:18,035 - mgiomi - INFO - Try to save ZTF18aampjcm through candid 1545023
+2018-10-09 15:41:19,725 - mgiomi - INFO - Try to save ZTF18abnvotk through candid 1558164
+2018-10-09 15:41:21,454 - mgiomi - INFO - Try to save ZTF18abyzksx through candid 1545854
+2018-10-09 15:42:53,303 - mgiomi - INFO - SN ZTF18abwhsnx was not saved. Oj oj.
+2018-10-09 15:42:53,304 - mgiomi - INFO - SN ZTF18aajswer was not saved. Oj oj.
+2018-10-09 15:42:53,306 - mgiomi - INFO - SN ZTF18aampjcm was saved
+2018-10-09 15:42:53,308 - mgiomi - INFO - SN ZTF18abnvotk was saved
+2018-10-09 15:42:53,309 - mgiomi - INFO - SN ZTF18abyzksx was saved
+2018-10-09 15:43:10,829 - mgiomi - INFO - Lacking candid for ZTF18abwhsnx
+2018-10-09 15:43:10,834 - mgiomi - INFO - Lacking candid for ZTF18aajswer
+2018-10-09 15:43:10,834 - mgiomi - INFO - Try to save ZTF18aampjcm through candid 1545023
+2018-10-09 15:43:12,445 - mgiomi - INFO - Try to save ZTF18abnvotk through candid 1558164
+2018-10-09 15:43:14,043 - mgiomi - INFO - Try to save ZTF18abyzksx through candid 1545854
+2018-10-09 15:43:44,148 - mgiomi - INFO - Lacking candid for ZTF18abwhsnx
+2018-10-09 15:43:44,150 - mgiomi - INFO - Lacking candid for ZTF18aajswer
+2018-10-09 15:43:44,151 - mgiomi - INFO - Try to save ZTF18aampjcm through candid 1545023
+2018-10-09 15:43:45,689 - mgiomi - INFO - Try to save ZTF18abnvotk through candid 1558164
+2018-10-09 15:43:47,396 - mgiomi - INFO - Try to save ZTF18abyzksx through candid 1545854
+2018-10-09 15:44:03,939 - mgiomi - INFO - SN ZTF18abwhsnx was not saved. Oj oj.
+2018-10-09 15:44:03,942 - mgiomi - INFO - SN ZTF18aajswer was not saved. Oj oj.
+2018-10-09 15:44:03,944 - mgiomi - INFO - SN ZTF18aampjcm was saved
+2018-10-09 15:44:03,946 - mgiomi - INFO - SN ZTF18abnvotk was saved
+2018-10-09 15:44:03,949 - mgiomi - INFO - SN ZTF18abyzksx was saved
+2018-10-09 15:48:21,245 - mgiomi - INFO - Lacking candid for ZTF18abwhsnx
+2018-10-09 15:48:21,246 - mgiomi - INFO - Lacking candid for ZTF18aajswer
+2018-10-09 15:48:21,247 - mgiomi - INFO - Try to save ZTF18aampjcm through candid 1545023
+2018-10-09 15:48:22,792 - mgiomi - INFO - Try to save ZTF18abnvotk through candid 1558164
+2018-10-09 15:48:24,623 - mgiomi - INFO - Try to save ZTF18abyzksx through candid 1545854
+2018-10-09 15:49:49,080 - mgiomi - INFO - SN ZTF18abwhsnx was not saved. Oj oj.
+2018-10-09 15:49:49,081 - mgiomi - INFO - SN ZTF18aajswer was not saved. Oj oj.
+2018-10-09 15:49:49,082 - mgiomi - INFO - SN ZTF18aampjcm was saved
+2018-10-09 15:49:49,083 - mgiomi - INFO - SN ZTF18abnvotk was saved
+2018-10-09 15:49:49,084 - mgiomi - INFO - SN ZTF18abyzksx was saved
+2018-10-09 16:00:00,157 - mgiomi - INFO - Lacking candid for ZTF18abwhsnx
+2018-10-09 16:00:00,158 - mgiomi - INFO - Lacking candid for ZTF18aajswer
+2018-10-09 16:00:00,159 - mgiomi - INFO - Try to save ZTF18aampjcm through candid 1545023
+2018-10-09 16:00:02,073 - mgiomi - INFO - Try to save ZTF18abnvotk through candid 1558164
+2018-10-09 16:00:03,807 - mgiomi - INFO - Try to save ZTF18abyzksx through candid 1545854
+2018-10-09 16:00:21,145 - mgiomi - INFO - SN ZTF18abwhsnx was not saved. Oj oj.
+2018-10-09 16:00:21,147 - mgiomi - INFO - SN ZTF18aajswer was not saved. Oj oj.
+2018-10-09 16:00:21,148 - mgiomi - INFO - SN ZTF18aampjcm was saved
+2018-10-09 16:00:21,149 - mgiomi - INFO - SN ZTF18abnvotk was saved
+2018-10-09 16:00:21,151 - mgiomi - INFO - SN ZTF18abyzksx was saved
+2018-10-09 16:01:41,686 - mgiomi - INFO - Lacking candid for ZTF18abwhsnx
+2018-10-09 16:01:41,687 - mgiomi - INFO - Lacking candid for ZTF18aajswer
+2018-10-09 16:01:41,688 - mgiomi - INFO - Try to save ZTF18aampjcm through candid 1545023
+2018-10-09 16:01:43,401 - mgiomi - INFO - Try to save ZTF18abnvotk through candid 1558164
+2018-10-09 16:01:44,954 - mgiomi - INFO - Try to save ZTF18abyzksx through candid 1545854
+2018-10-09 16:04:15,361 - mgiomi - INFO - Lacking candid for ZTF18abwhsnx
+2018-10-09 16:04:15,363 - mgiomi - INFO - Lacking candid for ZTF18aajswer
+2018-10-09 16:04:15,364 - mgiomi - INFO - Try to save ZTF18aampjcm through candid 1545023
+2018-10-09 16:04:17,318 - mgiomi - INFO - Try to save ZTF18abnvotk through candid 1558164
+2018-10-09 16:04:18,961 - mgiomi - INFO - Try to save ZTF18abyzksx through candid 1545854
+2018-10-09 16:04:25,201 - mgiomi - INFO - SN ZTF18abwhsnx was not saved. Oj oj.
+2018-10-09 16:04:25,204 - mgiomi - INFO - SN ZTF18aajswer was not saved. Oj oj.
+2018-10-09 16:04:25,204 - mgiomi - INFO - SN ZTF18aampjcm was saved
+2018-10-09 16:04:25,205 - mgiomi - INFO - SN ZTF18abnvotk was saved
+2018-10-09 16:04:25,206 - mgiomi - INFO - SN ZTF18abyzksx was saved

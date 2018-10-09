@@ -1,0 +1,638 @@
+2018-10-09 16:06:32,600 - mgiomi - INFO - Cutting down alert info to subset with nrefframes keyword
+2018-10-09 16:06:32,600 - mgiomi - INFO - Cutting down alert info to subset with nrefframes keyword
+2018-10-09 16:07:01,582 - mgiomi - INFO - SN ZTF18aakgsmi had last obs -16.43801274598809 days go, skipping.
+2018-10-09 16:07:01,582 - mgiomi - INFO - SN ZTF18aakgsmi had last obs -16.43801274598809 days go, skipping.
+2018-10-09 16:07:01,583 - mgiomi - INFO - SN ZTF18aasdted classified with type SN Ia, skipping.
+2018-10-09 16:07:01,583 - mgiomi - INFO - SN ZTF18aasdted classified with type SN Ia, skipping.
+2018-10-09 16:07:04,071 - mgiomi - INFO - SN ZTF18aauvptt classified with type AGN, skipping.
+2018-10-09 16:07:04,071 - mgiomi - INFO - SN ZTF18aauvptt classified with type AGN, skipping.
+2018-10-09 16:07:05,661 - mgiomi - INFO - SN ZTF18abmwzws had last obs -26.440659925348882 days go, skipping.
+2018-10-09 16:07:05,661 - mgiomi - INFO - SN ZTF18abmwzws had last obs -26.440659925348882 days go, skipping.
+2018-10-09 16:07:05,662 - mgiomi - INFO - SN ZTF18aawlhkh classified with type AGN, skipping.
+2018-10-09 16:07:05,662 - mgiomi - INFO - SN ZTF18aawlhkh classified with type AGN, skipping.
+2018-10-09 16:07:07,402 - mgiomi - INFO - SN ZTF18abddhaa had last obs -22.392380103432515 days go, skipping.
+2018-10-09 16:07:07,402 - mgiomi - INFO - SN ZTF18abddhaa had last obs -22.392380103432515 days go, skipping.
+2018-10-09 16:07:09,084 - mgiomi - INFO - SN ZTF18abddgzz had last obs -10.411899533391988 days go, skipping.
+2018-10-09 16:07:09,084 - mgiomi - INFO - SN ZTF18abddgzz had last obs -10.411899533391988 days go, skipping.
+2018-10-09 16:07:11,035 - mgiomi - INFO - SN ZTF18abgucjb had last obs -21.20372211078211 days go, skipping.
+2018-10-09 16:07:11,035 - mgiomi - INFO - SN ZTF18abgucjb had last obs -21.20372211078211 days go, skipping.
+2018-10-09 16:07:12,658 - mgiomi - INFO - SN ZTF18ablvpuj had last obs -26.431340917246416 days go, skipping.
+2018-10-09 16:07:12,658 - mgiomi - INFO - SN ZTF18ablvpuj had last obs -26.431340917246416 days go, skipping.
+2018-10-09 16:07:14,616 - mgiomi - INFO - SN ZTF18ablqqeb had last obs -28.40136358464224 days go, skipping.
+2018-10-09 16:07:14,616 - mgiomi - INFO - SN ZTF18ablqqeb had last obs -28.40136358464224 days go, skipping.
+2018-10-09 16:07:16,200 - mgiomi - INFO - Not enugh good data for SN ZTF18ablviog. Manual inspection prob needed.
+2018-10-09 16:07:16,200 - mgiomi - INFO - Not enugh good data for SN ZTF18ablviog. Manual inspection prob needed.
+2018-10-09 16:07:19,908 - mgiomi - INFO - SN ZTF18ablwwwb had last obs -30.43732484465727 days go, skipping.
+2018-10-09 16:07:19,908 - mgiomi - INFO - SN ZTF18ablwwwb had last obs -30.43732484465727 days go, skipping.
+2018-10-09 16:07:21,851 - mgiomi - INFO - SN ZTF18ablowct had last obs -27.291847293599858 days go, skipping.
+2018-10-09 16:07:21,851 - mgiomi - INFO - SN ZTF18ablowct had last obs -27.291847293599858 days go, skipping.
+2018-10-09 16:07:21,855 - mgiomi - INFO - SN ZTF18ablprcf classified with type AGN, skipping.
+2018-10-09 16:07:21,855 - mgiomi - INFO - SN ZTF18ablprcf classified with type AGN, skipping.
+2018-10-09 16:07:21,857 - mgiomi - INFO - SN ZTF18abmxfrc classified with type SN Ia, skipping.
+2018-10-09 16:07:21,857 - mgiomi - INFO - SN ZTF18abmxfrc classified with type SN Ia, skipping.
+2018-10-09 16:07:23,557 - mgiomi - INFO - SN ZTF18abmjzjq had last obs -22.4564670454929 days go, skipping.
+2018-10-09 16:07:23,557 - mgiomi - INFO - SN ZTF18abmjzjq had last obs -22.4564670454929 days go, skipping.
+2018-10-09 16:07:23,558 - mgiomi - INFO - SN ZTF18abnxhmc classified with type SN Ia, skipping.
+2018-10-09 16:07:23,558 - mgiomi - INFO - SN ZTF18abnxhmc classified with type SN Ia, skipping.
+2018-10-09 16:07:23,560 - mgiomi - INFO - SN ZTF18abnvnqb classified with type SN Ia, skipping.
+2018-10-09 16:07:23,560 - mgiomi - INFO - SN ZTF18abnvnqb classified with type SN Ia, skipping.
+2018-10-09 16:07:23,561 - mgiomi - INFO - SN ZTF18abkxlcz classified with type SN Ia, skipping.
+2018-10-09 16:07:23,561 - mgiomi - INFO - SN ZTF18abkxlcz classified with type SN Ia, skipping.
+2018-10-09 16:07:25,138 - mgiomi - INFO - SN ZTF18abokvkt had last obs -25.245385346541298 days go, skipping.
+2018-10-09 16:07:25,138 - mgiomi - INFO - SN ZTF18abokvkt had last obs -25.245385346541298 days go, skipping.
+2018-10-09 16:07:25,140 - mgiomi - INFO - SN ZTF18abmnvkx classified with type AGN, skipping.
+2018-10-09 16:07:25,140 - mgiomi - INFO - SN ZTF18abmnvkx classified with type AGN, skipping.
+2018-10-09 16:07:25,141 - mgiomi - INFO - SN ZTF18aboaeqy classified with type SN Ia, skipping.
+2018-10-09 16:07:25,141 - mgiomi - INFO - SN ZTF18aboaeqy classified with type SN Ia, skipping.
+2018-10-09 16:07:26,907 - mgiomi - INFO - SN ZTF18aboivnq had last obs -22.375905851396965 days go, skipping.
+2018-10-09 16:07:26,907 - mgiomi - INFO - SN ZTF18aboivnq had last obs -22.375905851396965 days go, skipping.
+2018-10-09 16:07:28,481 - mgiomi - INFO - Not enugh good data for SN ZTF18abmjayl. Manual inspection prob needed.
+2018-10-09 16:07:28,481 - mgiomi - INFO - Not enugh good data for SN ZTF18abmjayl. Manual inspection prob needed.
+2018-10-09 16:07:30,259 - mgiomi - INFO - SN ZTF18abnblil had last obs -29.340044626653253 days go, skipping.
+2018-10-09 16:07:30,259 - mgiomi - INFO - SN ZTF18abnblil had last obs -29.340044626653253 days go, skipping.
+2018-10-09 16:07:31,880 - mgiomi - INFO - Not enugh good data for SN ZTF18abmszpd. Manual inspection prob needed.
+2018-10-09 16:07:31,880 - mgiomi - INFO - Not enugh good data for SN ZTF18abmszpd. Manual inspection prob needed.
+2018-10-09 16:07:33,463 - mgiomi - INFO - SN ZTF18ablovvu had last obs -36.2425817363619 days go, skipping.
+2018-10-09 16:07:33,463 - mgiomi - INFO - SN ZTF18ablovvu had last obs -36.2425817363619 days go, skipping.
+2018-10-09 16:07:35,051 - mgiomi - INFO - SN ZTF18abmacke had last obs -34.257000077581324 days go, skipping.
+2018-10-09 16:07:35,051 - mgiomi - INFO - SN ZTF18abmacke had last obs -34.257000077581324 days go, skipping.
+2018-10-09 16:07:36,851 - mgiomi - INFO - SN ZTF18abntwvr has too few filters for saltfit.
+2018-10-09 16:07:36,851 - mgiomi - INFO - SN ZTF18abntwvr has too few filters for saltfit.
+2018-10-09 16:07:40,351 - mgiomi - INFO - SN ZTF18abmrqmv had last obs -21.270261414625566 days go, skipping.
+2018-10-09 16:07:40,351 - mgiomi - INFO - SN ZTF18abmrqmv had last obs -21.270261414625566 days go, skipping.
+2018-10-09 16:07:41,866 - mgiomi - INFO - SN ZTF18abmdxst had last obs -29.2460789829056 days go, skipping.
+2018-10-09 16:07:41,866 - mgiomi - INFO - SN ZTF18abmdxst had last obs -29.2460789829056 days go, skipping.
+2018-10-09 16:07:45,869 - mgiomi - INFO - SN ZTF18ablxhtc had last obs -23.43512531623128 days go, skipping.
+2018-10-09 16:07:45,869 - mgiomi - INFO - SN ZTF18ablxhtc had last obs -23.43512531623128 days go, skipping.
+2018-10-09 16:07:47,460 - mgiomi - INFO - SN ZTF18abcqvhs had last obs -10.41324369130598 days go, skipping.
+2018-10-09 16:07:47,460 - mgiomi - INFO - SN ZTF18abcqvhs had last obs -10.41324369130598 days go, skipping.
+2018-10-09 16:07:49,090 - mgiomi - INFO - SN ZTF18ablxjic had last obs -26.401462580972293 days go, skipping.
+2018-10-09 16:07:49,090 - mgiomi - INFO - SN ZTF18ablxjic had last obs -26.401462580972293 days go, skipping.
+2018-10-09 16:07:50,878 - mgiomi - INFO - Not enugh good data for SN ZTF18abmadcc. Manual inspection prob needed.
+2018-10-09 16:07:50,878 - mgiomi - INFO - Not enugh good data for SN ZTF18abmadcc. Manual inspection prob needed.
+2018-10-09 16:07:52,401 - mgiomi - INFO - Not enugh good data for SN ZTF18ablrwlk. Manual inspection prob needed.
+2018-10-09 16:07:52,401 - mgiomi - INFO - Not enugh good data for SN ZTF18ablrwlk. Manual inspection prob needed.
+2018-10-09 16:07:54,017 - mgiomi - INFO - Not enugh good data for SN ZTF18abmdfba. Manual inspection prob needed.
+2018-10-09 16:07:54,017 - mgiomi - INFO - Not enugh good data for SN ZTF18abmdfba. Manual inspection prob needed.
+2018-10-09 16:07:55,667 - mgiomi - INFO - Not enugh good data for SN ZTF18abmorft. Manual inspection prob needed.
+2018-10-09 16:07:55,667 - mgiomi - INFO - Not enugh good data for SN ZTF18abmorft. Manual inspection prob needed.
+2018-10-09 16:07:57,474 - mgiomi - INFO - Not enugh good data for SN ZTF18abmpbjy. Manual inspection prob needed.
+2018-10-09 16:07:57,474 - mgiomi - INFO - Not enugh good data for SN ZTF18abmpbjy. Manual inspection prob needed.
+2018-10-09 16:07:59,115 - mgiomi - INFO - SN ZTF18abmmxpg had last obs -21.31467858882388 days go, skipping.
+2018-10-09 16:07:59,115 - mgiomi - INFO - SN ZTF18abmmxpg had last obs -21.31467858882388 days go, skipping.
+2018-10-09 16:08:00,676 - mgiomi - INFO - SN ZTF18ablpztl had last obs -32.21829668281134 days go, skipping.
+2018-10-09 16:08:00,676 - mgiomi - INFO - SN ZTF18ablpztl had last obs -32.21829668281134 days go, skipping.
+2018-10-09 16:08:02,314 - mgiomi - INFO - SN ZTF18ablskwf had last obs -23.300415628880728 days go, skipping.
+2018-10-09 16:08:02,314 - mgiomi - INFO - SN ZTF18ablskwf had last obs -23.300415628880728 days go, skipping.
+2018-10-09 16:08:04,053 - mgiomi - INFO - SN ZTF18abmwuml has too few filters for saltfit.
+2018-10-09 16:08:04,053 - mgiomi - INFO - SN ZTF18abmwuml has too few filters for saltfit.
+2018-10-09 16:08:05,681 - mgiomi - INFO - Not enugh good data for SN ZTF18abmnssw. Manual inspection prob needed.
+2018-10-09 16:08:05,681 - mgiomi - INFO - Not enugh good data for SN ZTF18abmnssw. Manual inspection prob needed.
+2018-10-09 16:08:09,201 - mgiomi - INFO - SN ZTF18abnunsl had last obs -33.245495350667625 days go, skipping.
+2018-10-09 16:08:09,201 - mgiomi - INFO - SN ZTF18abnunsl had last obs -33.245495350667625 days go, skipping.
+2018-10-09 16:08:12,559 - mgiomi - INFO - SN ZTF18abnpbjv had last obs -34.36133421382692 days go, skipping.
+2018-10-09 16:08:12,559 - mgiomi - INFO - SN ZTF18abnpbjv had last obs -34.36133421382692 days go, skipping.
+2018-10-09 16:08:14,232 - mgiomi - INFO - SN ZTF18abncqfx has too few filters for saltfit.
+2018-10-09 16:08:14,232 - mgiomi - INFO - SN ZTF18abncqfx has too few filters for saltfit.
+2018-10-09 16:08:15,823 - mgiomi - INFO - SN ZTF18abnudmu had last obs -24.356571963267925 days go, skipping.
+2018-10-09 16:08:15,823 - mgiomi - INFO - SN ZTF18abnudmu had last obs -24.356571963267925 days go, skipping.
+2018-10-09 16:08:17,585 - mgiomi - INFO - Not enugh good data for SN ZTF18abnzgwe. Manual inspection prob needed.
+2018-10-09 16:08:17,585 - mgiomi - INFO - Not enugh good data for SN ZTF18abnzgwe. Manual inspection prob needed.
+2018-10-09 16:08:19,337 - mgiomi - INFO - SN ZTF18abobtul had last obs -34.3614126886896 days go, skipping.
+2018-10-09 16:08:19,337 - mgiomi - INFO - SN ZTF18abobtul had last obs -34.3614126886896 days go, skipping.
+2018-10-09 16:08:21,009 - mgiomi - INFO - SN ZTF18aboqwkr had last obs -18.283732015130227 days go, skipping.
+2018-10-09 16:08:21,009 - mgiomi - INFO - SN ZTF18aboqwkr had last obs -18.283732015130227 days go, skipping.
+2018-10-09 16:08:22,548 - mgiomi - INFO - SN ZTF18abmkdun had last obs -23.41904983540735 days go, skipping.
+2018-10-09 16:08:22,548 - mgiomi - INFO - SN ZTF18abmkdun had last obs -23.41904983540735 days go, skipping.
+2018-10-09 16:08:22,549 - mgiomi - INFO - SN ZTF18abnucig classified with type SN Ia, skipping.
+2018-10-09 16:08:22,549 - mgiomi - INFO - SN ZTF18abnucig classified with type SN Ia, skipping.
+2018-10-09 16:08:22,550 - mgiomi - INFO - SN ZTF18abglwpn classified with type AGN, skipping.
+2018-10-09 16:08:22,550 - mgiomi - INFO - SN ZTF18abglwpn classified with type AGN, skipping.
+2018-10-09 16:08:22,552 - mgiomi - INFO - SN ZTF18abmaewl classified with type SN Ia, skipping.
+2018-10-09 16:08:22,552 - mgiomi - INFO - SN ZTF18abmaewl classified with type SN Ia, skipping.
+2018-10-09 16:08:24,063 - mgiomi - INFO - SN ZTF18abnbhpu had last obs -27.31586736067402 days go, skipping.
+2018-10-09 16:08:24,063 - mgiomi - INFO - SN ZTF18abnbhpu had last obs -27.31586736067402 days go, skipping.
+2018-10-09 16:08:24,065 - mgiomi - INFO - SN ZTF18ablwafp classified with type SLSN-I?, skipping.
+2018-10-09 16:08:24,065 - mgiomi - INFO - SN ZTF18ablwafp classified with type SLSN-I?, skipping.
+2018-10-09 16:08:24,066 - mgiomi - INFO - SN ZTF18abmjcbs classified with type SN Ia, skipping.
+2018-10-09 16:08:24,066 - mgiomi - INFO - SN ZTF18abmjcbs classified with type SN Ia, skipping.
+2018-10-09 16:08:25,776 - mgiomi - INFO - SN ZTF18abmnbne had last obs -20.241587207601697 days go, skipping.
+2018-10-09 16:08:25,776 - mgiomi - INFO - SN ZTF18abmnbne had last obs -20.241587207601697 days go, skipping.
+2018-10-09 16:08:27,373 - mgiomi - INFO - SN ZTF18abmkaca had last obs -22.459005674929358 days go, skipping.
+2018-10-09 16:08:27,373 - mgiomi - INFO - SN ZTF18abmkaca had last obs -22.459005674929358 days go, skipping.
+2018-10-09 16:08:27,374 - mgiomi - INFO - SN ZTF18abncimo classified with type SN Ia, skipping.
+2018-10-09 16:08:27,374 - mgiomi - INFO - SN ZTF18abncimo classified with type SN Ia, skipping.
+2018-10-09 16:08:29,097 - mgiomi - INFO - SN ZTF18abnvzah had last obs -24.38952565065847 days go, skipping.
+2018-10-09 16:08:29,097 - mgiomi - INFO - SN ZTF18abnvzah had last obs -24.38952565065847 days go, skipping.
+2018-10-09 16:08:29,098 - mgiomi - INFO - SN ZTF18abnvoel classified with type SN Ia, skipping.
+2018-10-09 16:08:29,098 - mgiomi - INFO - SN ZTF18abnvoel classified with type SN Ia, skipping.
+2018-10-09 16:08:29,099 - mgiomi - INFO - SN ZTF18abnygkb classified with type SN Ia, skipping.
+2018-10-09 16:08:29,099 - mgiomi - INFO - SN ZTF18abnygkb classified with type SN Ia, skipping.
+2018-10-09 16:08:30,755 - mgiomi - INFO - Not enugh good data for SN ZTF18aboqvfa. Manual inspection prob needed.
+2018-10-09 16:08:30,755 - mgiomi - INFO - Not enugh good data for SN ZTF18aboqvfa. Manual inspection prob needed.
+2018-10-09 16:08:32,386 - mgiomi - INFO - Not enugh good data for SN ZTF18aborbhi. Manual inspection prob needed.
+2018-10-09 16:08:32,386 - mgiomi - INFO - Not enugh good data for SN ZTF18aborbhi. Manual inspection prob needed.
+2018-10-09 16:08:34,176 - mgiomi - INFO - SN ZTF18aborkxd has too few filters for saltfit.
+2018-10-09 16:08:34,176 - mgiomi - INFO - SN ZTF18aborkxd has too few filters for saltfit.
+2018-10-09 16:08:35,856 - mgiomi - INFO - SN ZTF18aborkox has too few filters for saltfit.
+2018-10-09 16:08:35,856 - mgiomi - INFO - SN ZTF18aborkox has too few filters for saltfit.
+2018-10-09 16:08:37,469 - mgiomi - INFO - Not enugh good data for SN ZTF18abmkbqo. Manual inspection prob needed.
+2018-10-09 16:08:37,469 - mgiomi - INFO - Not enugh good data for SN ZTF18abmkbqo. Manual inspection prob needed.
+2018-10-09 16:08:38,942 - mgiomi - INFO - SN ZTF18abnnnzk had last obs -10.28503954885673 days go, skipping.
+2018-10-09 16:08:38,942 - mgiomi - INFO - SN ZTF18abnnnzk had last obs -10.28503954885673 days go, skipping.
+2018-10-09 16:08:38,944 - mgiomi - INFO - SN ZTF18abpaywm classified with type SN Ia, skipping.
+2018-10-09 16:08:38,944 - mgiomi - INFO - SN ZTF18abpaywm classified with type SN Ia, skipping.
+2018-10-09 16:08:40,666 - mgiomi - INFO - SN ZTF18abotaki has too few filters for saltfit.
+2018-10-09 16:08:40,666 - mgiomi - INFO - SN ZTF18abotaki has too few filters for saltfit.
+2018-10-09 16:08:42,243 - mgiomi - INFO - SN ZTF18abpavnx has too few filters for saltfit.
+2018-10-09 16:08:42,243 - mgiomi - INFO - SN ZTF18abpavnx has too few filters for saltfit.
+2018-10-09 16:08:42,245 - mgiomi - INFO - SN ZTF18aboztta classified with type SN Ia, skipping.
+2018-10-09 16:08:42,245 - mgiomi - INFO - SN ZTF18aboztta classified with type SN Ia, skipping.
+2018-10-09 16:08:42,248 - mgiomi - INFO - SN ZTF18abmwpyl classified with type SN Ia, skipping.
+2018-10-09 16:08:42,248 - mgiomi - INFO - SN ZTF18abmwpyl classified with type SN Ia, skipping.
+2018-10-09 16:08:42,251 - mgiomi - INFO - SN ZTF18abpttky classified with type SN Ia, skipping.
+2018-10-09 16:08:42,251 - mgiomi - INFO - SN ZTF18abpttky classified with type SN Ia, skipping.
+2018-10-09 16:08:43,937 - mgiomi - INFO - SN ZTF18abporae had last obs -12.37999737586506 days go, skipping.
+2018-10-09 16:08:43,937 - mgiomi - INFO - SN ZTF18abporae had last obs -12.37999737586506 days go, skipping.
+2018-10-09 16:08:45,517 - mgiomi - INFO - Not enugh good data for SN ZTF18abanjoi. Manual inspection prob needed.
+2018-10-09 16:08:45,517 - mgiomi - INFO - Not enugh good data for SN ZTF18abanjoi. Manual inspection prob needed.
+2018-10-09 16:08:47,521 - mgiomi - INFO - SN ZTF18abnuhuy classified with type AGN, skipping.
+2018-10-09 16:08:47,521 - mgiomi - INFO - SN ZTF18abnuhuy classified with type AGN, skipping.
+2018-10-09 16:08:47,522 - mgiomi - INFO - SN ZTF18abrlupd classified with type SN Ia, skipping.
+2018-10-09 16:08:47,522 - mgiomi - INFO - SN ZTF18abrlupd classified with type SN Ia, skipping.
+2018-10-09 16:08:49,598 - mgiomi - INFO - SN ZTF18abmskzu has too few filters for saltfit.
+2018-10-09 16:08:49,598 - mgiomi - INFO - SN ZTF18abmskzu has too few filters for saltfit.
+2018-10-09 16:08:49,600 - mgiomi - INFO - SN ZTF18abnvotk classified with type SNII?, skipping.
+2018-10-09 16:08:49,600 - mgiomi - INFO - SN ZTF18abnvotk classified with type SNII?, skipping.
+2018-10-09 16:08:51,165 - mgiomi - INFO - SN ZTF18abnujcx had last obs -25.24548101756227 days go, skipping.
+2018-10-09 16:08:51,165 - mgiomi - INFO - SN ZTF18abnujcx had last obs -25.24548101756227 days go, skipping.
+2018-10-09 16:08:52,823 - mgiomi - INFO - SN ZTF18abqbdcd had last obs -27.427700188127346 days go, skipping.
+2018-10-09 16:08:52,823 - mgiomi - INFO - SN ZTF18abqbdcd had last obs -27.427700188127346 days go, skipping.
+2018-10-09 16:08:52,831 - mgiomi - INFO - SN ZTF18abqbuaj classified with type SN Ibn, skipping.
+2018-10-09 16:08:52,831 - mgiomi - INFO - SN ZTF18abqbuaj classified with type SN Ibn, skipping.
+2018-10-09 16:08:52,832 - mgiomi - INFO - SN ZTF18abqboud classified with type CV, skipping.
+2018-10-09 16:08:52,832 - mgiomi - INFO - SN ZTF18abqboud classified with type CV, skipping.
+2018-10-09 16:08:52,835 - mgiomi - INFO - SN ZTF18abqbavl classified with type SN Ia, skipping.
+2018-10-09 16:08:52,835 - mgiomi - INFO - SN ZTF18abqbavl classified with type SN Ia, skipping.
+2018-10-09 16:08:52,837 - mgiomi - INFO - SN ZTF18abqlpgq classified with type SN Ia, skipping.
+2018-10-09 16:08:52,837 - mgiomi - INFO - SN ZTF18abqlpgq classified with type SN Ia, skipping.
+2018-10-09 16:08:52,839 - mgiomi - INFO - SN ZTF18aampjcm classified with type AGN, skipping.
+2018-10-09 16:08:52,839 - mgiomi - INFO - SN ZTF18aampjcm classified with type AGN, skipping.
+2018-10-09 16:08:54,935 - mgiomi - INFO - SN ZTF18aaovssm had last obs -29.427224694103643 days go, skipping.
+2018-10-09 16:08:54,935 - mgiomi - INFO - SN ZTF18aaovssm had last obs -29.427224694103643 days go, skipping.
+2018-10-09 16:08:56,537 - mgiomi - INFO - SN ZTF18ablruzq had last obs -25.430843217756774 days go, skipping.
+2018-10-09 16:08:56,537 - mgiomi - INFO - SN ZTF18ablruzq had last obs -25.430843217756774 days go, skipping.
+2018-10-09 16:08:56,539 - mgiomi - INFO - SN ZTF18abqdadp classified with type SN Ia, skipping.
+2018-10-09 16:08:56,539 - mgiomi - INFO - SN ZTF18abqdadp classified with type SN Ia, skipping.
+2018-10-09 16:08:58,231 - mgiomi - INFO - SN ZTF18ablwtla had last obs -28.414062799296516 days go, skipping.
+2018-10-09 16:08:58,231 - mgiomi - INFO - SN ZTF18ablwtla had last obs -28.414062799296516 days go, skipping.
+2018-10-09 16:09:00,111 - mgiomi - INFO - SN ZTF18abglikj had last obs -23.426184606731113 days go, skipping.
+2018-10-09 16:09:00,111 - mgiomi - INFO - SN ZTF18abglikj had last obs -23.426184606731113 days go, skipping.
+2018-10-09 16:09:01,892 - mgiomi - INFO - SN ZTF18abrwswl had last obs -13.470605204056483 days go, skipping.
+2018-10-09 16:09:01,892 - mgiomi - INFO - SN ZTF18abrwswl had last obs -13.470605204056483 days go, skipping.
+2018-10-09 16:09:01,893 - mgiomi - INFO - SN ZTF18abqjvyl classified with type SN Ia, skipping.
+2018-10-09 16:09:01,893 - mgiomi - INFO - SN ZTF18abqjvyl classified with type SN Ia, skipping.
+2018-10-09 16:09:01,894 - mgiomi - INFO - SN ZTF18abrwudp classified with type SN Ia, skipping.
+2018-10-09 16:09:01,894 - mgiomi - INFO - SN ZTF18abrwudp classified with type SN Ia, skipping.
+2018-10-09 16:09:03,551 - mgiomi - INFO - SN ZTF18abpaori has too few filters for saltfit.
+2018-10-09 16:09:03,551 - mgiomi - INFO - SN ZTF18abpaori has too few filters for saltfit.
+2018-10-09 16:09:05,230 - mgiomi - INFO - SN ZTF18ablrmnj had last obs -29.46214382013568 days go, skipping.
+2018-10-09 16:09:05,230 - mgiomi - INFO - SN ZTF18ablrmnj had last obs -29.46214382013568 days go, skipping.
+2018-10-09 16:09:05,232 - mgiomi - INFO - SN ZTF18abolvoh classified with type SN Ia, skipping.
+2018-10-09 16:09:05,232 - mgiomi - INFO - SN ZTF18abolvoh classified with type SN Ia, skipping.
+2018-10-09 16:09:06,970 - mgiomi - INFO - SN ZTF18abrxwon had last obs -27.291363996992004 days go, skipping.
+2018-10-09 16:09:06,970 - mgiomi - INFO - SN ZTF18abrxwon had last obs -27.291363996992004 days go, skipping.
+2018-10-09 16:09:08,802 - mgiomi - INFO - SN ZTF18abqcyqv had last obs -35.24668517034297 days go, skipping.
+2018-10-09 16:09:08,802 - mgiomi - INFO - SN ZTF18abqcyqv had last obs -35.24668517034297 days go, skipping.
+2018-10-09 16:09:08,803 - mgiomi - INFO - SN ZTF18abrzevz classified with type SN Ia, skipping.
+2018-10-09 16:09:08,803 - mgiomi - INFO - SN ZTF18abrzevz classified with type SN Ia, skipping.
+2018-10-09 16:09:08,804 - mgiomi - INFO - SN ZTF18abqyvzy classified with type SN II, skipping.
+2018-10-09 16:09:08,804 - mgiomi - INFO - SN ZTF18abqyvzy classified with type SN II, skipping.
+2018-10-09 16:09:08,806 - mgiomi - INFO - SN ZTF18absbsoz classified with type SN Ia, skipping.
+2018-10-09 16:09:08,806 - mgiomi - INFO - SN ZTF18absbsoz classified with type SN Ia, skipping.
+2018-10-09 16:09:08,807 - mgiomi - INFO - SN ZTF18absdxpk classified with type SN Ia, skipping.
+2018-10-09 16:09:08,807 - mgiomi - INFO - SN ZTF18absdxpk classified with type SN Ia, skipping.
+2018-10-09 16:09:08,808 - mgiomi - INFO - SN ZTF18ablvime classified with type SN Ia, skipping.
+2018-10-09 16:09:08,808 - mgiomi - INFO - SN ZTF18ablvime classified with type SN Ia, skipping.
+2018-10-09 16:09:11,570 - mgiomi - INFO - SN ZTF18absliyc classified with type SN Ia pec, skipping.
+2018-10-09 16:09:11,570 - mgiomi - INFO - SN ZTF18absliyc classified with type SN Ia pec, skipping.
+2018-10-09 16:09:11,571 - mgiomi - INFO - SN ZTF18absldfl classified with type SN II, skipping.
+2018-10-09 16:09:11,571 - mgiomi - INFO - SN ZTF18absldfl classified with type SN II, skipping.
+2018-10-09 16:09:13,221 - mgiomi - INFO - SN ZTF18abptskn had last obs -15.40013634564093 days go, skipping.
+2018-10-09 16:09:13,221 - mgiomi - INFO - SN ZTF18abptskn had last obs -15.40013634564093 days go, skipping.
+2018-10-09 16:09:14,835 - mgiomi - INFO - SN ZTF18aayejrb had last obs -23.330255024367943 days go, skipping.
+2018-10-09 16:09:14,835 - mgiomi - INFO - SN ZTF18aayejrb had last obs -23.330255024367943 days go, skipping.
+2018-10-09 16:09:16,765 - mgiomi - INFO - SN ZTF18abrwwlv had last obs -31.37737728891807 days go, skipping.
+2018-10-09 16:09:16,765 - mgiomi - INFO - SN ZTF18abrwwlv had last obs -31.37737728891807 days go, skipping.
+2018-10-09 16:09:18,490 - mgiomi - INFO - SN ZTF18absdeij had last obs -28.460197300941218 days go, skipping.
+2018-10-09 16:09:18,490 - mgiomi - INFO - SN ZTF18absdeij had last obs -28.460197300941218 days go, skipping.
+2018-10-09 16:09:18,492 - mgiomi - INFO - SN ZTF18abotcjv classified with type SN Ia, skipping.
+2018-10-09 16:09:18,492 - mgiomi - INFO - SN ZTF18abotcjv classified with type SN Ia, skipping.
+2018-10-09 16:09:18,493 - mgiomi - INFO - SN ZTF18abnysyy classified with type SN Ia, skipping.
+2018-10-09 16:09:18,493 - mgiomi - INFO - SN ZTF18abnysyy classified with type SN Ia, skipping.
+2018-10-09 16:09:21,127 - mgiomi - INFO - SN ZTF18abshezu classified with type SLSN-I, skipping.
+2018-10-09 16:09:21,127 - mgiomi - INFO - SN ZTF18abshezu classified with type SLSN-I, skipping.
+2018-10-09 16:09:21,127 - mgiomi - INFO - SN ZTF18abryewg classified with type SN Ia 91T-like, skipping.
+2018-10-09 16:09:21,127 - mgiomi - INFO - SN ZTF18abryewg classified with type SN Ia 91T-like, skipping.
+2018-10-09 16:09:21,128 - mgiomi - INFO - SN ZTF18abssukb classified with type SN Ia, skipping.
+2018-10-09 16:09:21,128 - mgiomi - INFO - SN ZTF18abssukb classified with type SN Ia, skipping.
+2018-10-09 16:09:21,129 - mgiomi - INFO - SN ZTF18abscygs classified with type SN Ia, skipping.
+2018-10-09 16:09:21,129 - mgiomi - INFO - SN ZTF18abscygs classified with type SN Ia, skipping.
+2018-10-09 16:09:21,129 - mgiomi - INFO - SN ZTF18absdjms classified with type SN Ia, skipping.
+2018-10-09 16:09:21,129 - mgiomi - INFO - SN ZTF18absdjms classified with type SN Ia, skipping.
+2018-10-09 16:09:22,788 - mgiomi - INFO - SN ZTF18ablhsgt had last obs -35.4348470351033 days go, skipping.
+2018-10-09 16:09:22,788 - mgiomi - INFO - SN ZTF18ablhsgt had last obs -35.4348470351033 days go, skipping.
+2018-10-09 16:09:24,332 - mgiomi - INFO - SN ZTF18abnorzb had last obs -23.429764943204646 days go, skipping.
+2018-10-09 16:09:24,332 - mgiomi - INFO - SN ZTF18abnorzb had last obs -23.429764943204646 days go, skipping.
+2018-10-09 16:09:26,083 - mgiomi - INFO - SN ZTF18abottbj had last obs -23.18718516768422 days go, skipping.
+2018-10-09 16:09:26,083 - mgiomi - INFO - SN ZTF18abottbj had last obs -23.18718516768422 days go, skipping.
+2018-10-09 16:09:27,650 - mgiomi - INFO - SN ZTF18absqsey had last obs -27.09590329866478 days go, skipping.
+2018-10-09 16:09:27,650 - mgiomi - INFO - SN ZTF18absqsey had last obs -27.09590329866478 days go, skipping.
+2018-10-09 16:09:29,610 - mgiomi - INFO - SN ZTF18absloer had last obs -10.254626026566257 days go, skipping.
+2018-10-09 16:09:29,610 - mgiomi - INFO - SN ZTF18absloer had last obs -10.254626026566257 days go, skipping.
+2018-10-09 16:09:31,494 - mgiomi - INFO - SN ZTF18abtkctg had last obs -10.321447802809416 days go, skipping.
+2018-10-09 16:09:31,494 - mgiomi - INFO - SN ZTF18abtkctg had last obs -10.321447802809416 days go, skipping.
+2018-10-09 16:09:33,164 - mgiomi - INFO - SN ZTF18abklshn had last obs -10.448467166061164 days go, skipping.
+2018-10-09 16:09:33,164 - mgiomi - INFO - SN ZTF18abklshn had last obs -10.448467166061164 days go, skipping.
+2018-10-09 16:09:34,836 - mgiomi - INFO - SN ZTF18abthaii had last obs -11.275386460198206 days go, skipping.
+2018-10-09 16:09:34,836 - mgiomi - INFO - SN ZTF18abthaii had last obs -11.275386460198206 days go, skipping.
+2018-10-09 16:09:34,837 - mgiomi - INFO - SN ZTF18absnsqx classified with type SN II, skipping.
+2018-10-09 16:09:34,837 - mgiomi - INFO - SN ZTF18absnsqx classified with type SN II, skipping.
+2018-10-09 16:09:38,817 - mgiomi - INFO - SN ZTF18abrwrch had last obs -10.468632587035245 days go, skipping.
+2018-10-09 16:09:38,817 - mgiomi - INFO - SN ZTF18abrwrch had last obs -10.468632587035245 days go, skipping.
+2018-10-09 16:09:38,818 - mgiomi - INFO - SN ZTF18abufaej classified with type SN II, skipping.
+2018-10-09 16:09:38,818 - mgiomi - INFO - SN ZTF18abufaej classified with type SN II, skipping.
+2018-10-09 16:09:38,819 - mgiomi - INFO - SN ZTF18abtogdl classified with type SN Ia, skipping.
+2018-10-09 16:09:38,819 - mgiomi - INFO - SN ZTF18abtogdl classified with type SN Ia, skipping.
+2018-10-09 16:09:40,381 - mgiomi - INFO - SN ZTF18abuicad had last obs -11.234650688551483 days go, skipping.
+2018-10-09 16:09:40,381 - mgiomi - INFO - SN ZTF18abuicad had last obs -11.234650688551483 days go, skipping.
+2018-10-09 16:09:42,004 - mgiomi - INFO - SN ZTF18absumwc has too few filters for saltfit.
+2018-10-09 16:09:42,004 - mgiomi - INFO - SN ZTF18absumwc has too few filters for saltfit.
+2018-10-09 16:09:43,778 - mgiomi - INFO - SN ZTF18absmqmw had last obs -30.415489989958587 days go, skipping.
+2018-10-09 16:09:43,778 - mgiomi - INFO - SN ZTF18absmqmw had last obs -30.415489989958587 days go, skipping.
+2018-10-09 16:09:48,739 - mgiomi - INFO - SN ZTF18abmwxvv had last obs -34.38234738301253 days go, skipping.
+2018-10-09 16:09:48,739 - mgiomi - INFO - SN ZTF18abmwxvv had last obs -34.38234738301253 days go, skipping.
+2018-10-09 16:09:50,250 - mgiomi - INFO - SN ZTF18abtghbi had last obs -10.268564893078292 days go, skipping.
+2018-10-09 16:09:50,250 - mgiomi - INFO - SN ZTF18abtghbi had last obs -10.268564893078292 days go, skipping.
+2018-10-09 16:09:50,251 - mgiomi - INFO - SN ZTF18abtswjk classified with type SN IIn, skipping.
+2018-10-09 16:09:50,251 - mgiomi - INFO - SN ZTF18abtswjk classified with type SN IIn, skipping.
+2018-10-09 16:09:50,255 - mgiomi - INFO - SN ZTF18abvbayb classified with type SN Ia, skipping.
+2018-10-09 16:09:50,255 - mgiomi - INFO - SN ZTF18abvbayb classified with type SN Ia, skipping.
+2018-10-09 16:09:51,957 - mgiomi - INFO - SN ZTF18abuhiaj has too few filters for saltfit.
+2018-10-09 16:09:51,957 - mgiomi - INFO - SN ZTF18abuhiaj has too few filters for saltfit.
+2018-10-09 16:09:51,959 - mgiomi - INFO - SN ZTF18abqapch classified with type SN Ia, skipping.
+2018-10-09 16:09:51,959 - mgiomi - INFO - SN ZTF18abqapch classified with type SN Ia, skipping.
+2018-10-09 16:09:53,932 - mgiomi - INFO - SN ZTF18abuiknd classified with type SN Ia, skipping.
+2018-10-09 16:09:53,932 - mgiomi - INFO - SN ZTF18abuiknd classified with type SN Ia, skipping.
+2018-10-09 16:09:57,278 - mgiomi - INFO - SN ZTF18abvrzqj had last obs -12.233846222727152 days go, skipping.
+2018-10-09 16:09:57,278 - mgiomi - INFO - SN ZTF18abvrzqj had last obs -12.233846222727152 days go, skipping.
+2018-10-09 16:09:57,280 - mgiomi - INFO - SN ZTF18abslxhz classified with type SN Ia, skipping.
+2018-10-09 16:09:57,280 - mgiomi - INFO - SN ZTF18abslxhz classified with type SN Ia, skipping.
+2018-10-09 16:09:57,281 - mgiomi - INFO - SN ZTF18abtxvhy classified with type SN Ia, skipping.
+2018-10-09 16:09:57,281 - mgiomi - INFO - SN ZTF18abtxvhy classified with type SN Ia, skipping.
+2018-10-09 16:09:58,984 - mgiomi - INFO - SN ZTF18abvnqqk had last obs -10.366665975328942 days go, skipping.
+2018-10-09 16:09:58,984 - mgiomi - INFO - SN ZTF18abvnqqk had last obs -10.366665975328942 days go, skipping.
+2018-10-09 16:10:00,664 - mgiomi - INFO - SN ZTF18abwbtco had last obs -12.171585398311436 days go, skipping.
+2018-10-09 16:10:00,664 - mgiomi - INFO - SN ZTF18abwbtco had last obs -12.171585398311436 days go, skipping.
+2018-10-09 16:10:00,666 - mgiomi - INFO - SN ZTF18abwdcdv classified with type SN Ia, skipping.
+2018-10-09 16:10:00,666 - mgiomi - INFO - SN ZTF18abwdcdv classified with type SN Ia, skipping.
+2018-10-09 16:10:02,590 - mgiomi - INFO - SN ZTF18abvxqtp had last obs -10.287407692245324 days go, skipping.
+2018-10-09 16:10:02,590 - mgiomi - INFO - SN ZTF18abvxqtp had last obs -10.287407692245324 days go, skipping.
+2018-10-09 16:10:04,285 - mgiomi - INFO - SN ZTF18abuioue had last obs -11.269627357636637 days go, skipping.
+2018-10-09 16:10:04,285 - mgiomi - INFO - SN ZTF18abuioue had last obs -11.269627357636637 days go, skipping.
+2018-10-09 16:10:04,286 - mgiomi - INFO - SN ZTF18abwclem classified with type SN Ia, skipping.
+2018-10-09 16:10:04,286 - mgiomi - INFO - SN ZTF18abwclem classified with type SN Ia, skipping.
+2018-10-09 16:10:09,586 - mgiomi - INFO - SN ZTF18aabhooi had last obs -17.0955886673255 days go, skipping.
+2018-10-09 16:10:09,586 - mgiomi - INFO - SN ZTF18aabhooi had last obs -17.0955886673255 days go, skipping.
+2018-10-09 16:10:11,118 - mgiomi - INFO - SN ZTF18abwblyl had last obs -17.077706446252705 days go, skipping.
+2018-10-09 16:10:11,118 - mgiomi - INFO - SN ZTF18abwblyl had last obs -17.077706446252705 days go, skipping.
+2018-10-09 16:10:12,965 - mgiomi - INFO - SN ZTF18abwqgsc had last obs -10.211527774095885 days go, skipping.
+2018-10-09 16:10:12,965 - mgiomi - INFO - SN ZTF18abwqgsc had last obs -10.211527774095885 days go, skipping.
+2018-10-09 16:10:14,656 - mgiomi - INFO - SN ZTF18abwktmm had last obs -11.09074736956245 days go, skipping.
+2018-10-09 16:10:14,656 - mgiomi - INFO - SN ZTF18abwktmm had last obs -11.09074736956245 days go, skipping.
+2018-10-09 16:10:14,661 - mgiomi - INFO - SN ZTF18abwtops classified with type SN Ia, skipping.
+2018-10-09 16:10:14,661 - mgiomi - INFO - SN ZTF18abwtops classified with type SN Ia, skipping.
+2018-10-09 16:10:16,300 - mgiomi - INFO - SN ZTF18abwbaim has too few filters for saltfit.
+2018-10-09 16:10:16,300 - mgiomi - INFO - SN ZTF18abwbaim has too few filters for saltfit.
+2018-10-09 16:10:16,302 - mgiomi - INFO - SN ZTF18abwlonm classified with type SN Ia, skipping.
+2018-10-09 16:10:16,302 - mgiomi - INFO - SN ZTF18abwlonm classified with type SN Ia, skipping.
+2018-10-09 16:10:18,091 - mgiomi - INFO - SN ZTF18abtywgf had last obs -23.187787095164822 days go, skipping.
+2018-10-09 16:10:18,091 - mgiomi - INFO - SN ZTF18abtywgf had last obs -23.187787095164822 days go, skipping.
+2018-10-09 16:10:19,825 - mgiomi - INFO - SN ZTF18abxxssh classified with type SN Ia, skipping.
+2018-10-09 16:10:19,825 - mgiomi - INFO - SN ZTF18abxxssh classified with type SN Ia, skipping.
+2018-10-09 16:10:21,403 - mgiomi - INFO - SN ZTF18abwxhjo has too few filters for saltfit.
+2018-10-09 16:10:21,403 - mgiomi - INFO - SN ZTF18abwxhjo has too few filters for saltfit.
+2018-10-09 16:10:23,124 - mgiomi - INFO - SN ZTF18abwlopg has too few filters for saltfit.
+2018-10-09 16:10:23,124 - mgiomi - INFO - SN ZTF18abwlopg has too few filters for saltfit.
+2018-10-09 16:10:24,732 - mgiomi - INFO - SN ZTF18abvrgjc had last obs -11.269363957377209 days go, skipping.
+2018-10-09 16:10:24,732 - mgiomi - INFO - SN ZTF18abvrgjc had last obs -11.269363957377209 days go, skipping.
+2018-10-09 16:10:24,733 - mgiomi - INFO - SN ZTF18abxygvv classified with type SN Ia, skipping.
+2018-10-09 16:10:24,733 - mgiomi - INFO - SN ZTF18abxygvv classified with type SN Ia, skipping.
+2018-10-09 16:10:26,539 - mgiomi - INFO - SN ZTF18abxyudf classified with type SN Ia, skipping.
+2018-10-09 16:10:26,539 - mgiomi - INFO - SN ZTF18abxyudf classified with type SN Ia, skipping.
+2018-10-09 16:10:28,222 - mgiomi - INFO - SN ZTF18abxwiqz had last obs -11.063604364688217 days go, skipping.
+2018-10-09 16:10:28,222 - mgiomi - INFO - SN ZTF18abxwiqz had last obs -11.063604364688217 days go, skipping.
+2018-10-09 16:10:35,014 - mgiomi - INFO - SN ZTF18abxbhov had last obs -11.087582982421736 days go, skipping.
+2018-10-09 16:10:35,014 - mgiomi - INFO - SN ZTF18abxbhov had last obs -11.087582982421736 days go, skipping.
+2018-10-09 16:10:36,664 - mgiomi - INFO - SN ZTF18abwkxgo had last obs -11.124502088481677 days go, skipping.
+2018-10-09 16:10:36,664 - mgiomi - INFO - SN ZTF18abwkxgo had last obs -11.124502088481677 days go, skipping.
+2018-10-09 16:10:38,269 - mgiomi - INFO - SN ZTF18abxbugc has too few filters for saltfit.
+2018-10-09 16:10:38,269 - mgiomi - INFO - SN ZTF18abxbugc has too few filters for saltfit.
+2018-10-09 16:10:40,042 - mgiomi - INFO - SN ZTF18abwlejr had last obs -11.089541169814765 days go, skipping.
+2018-10-09 16:10:40,042 - mgiomi - INFO - SN ZTF18abwlejr had last obs -11.089541169814765 days go, skipping.
+2018-10-09 16:10:41,633 - mgiomi - INFO - SN ZTF18abwkhdc had last obs -20.16945958702854 days go, skipping.
+2018-10-09 16:10:41,633 - mgiomi - INFO - SN ZTF18abwkhdc had last obs -20.16945958702854 days go, skipping.
+2018-10-09 16:10:43,767 - mgiomi - INFO - SN ZTF18abvkhul classified with type SN Ia, skipping.
+2018-10-09 16:10:43,767 - mgiomi - INFO - SN ZTF18abvkhul classified with type SN Ia, skipping.
+2018-10-09 16:10:49,246 - mgiomi - INFO - SN ZTF18abxumzx had last obs -11.08024774507794 days go, skipping.
+2018-10-09 16:10:49,246 - mgiomi - INFO - SN ZTF18abxumzx had last obs -11.08024774507794 days go, skipping.
+2018-10-09 16:10:51,300 - mgiomi - INFO - SN ZTF18abxfcql has too few filters for saltfit.
+2018-10-09 16:10:51,300 - mgiomi - INFO - SN ZTF18abxfcql has too few filters for saltfit.
+2018-10-09 16:10:51,300 - mgiomi - INFO - SN ZTF18abvtrnc classified with type SN Ia, skipping.
+2018-10-09 16:10:51,300 - mgiomi - INFO - SN ZTF18abvtrnc classified with type SN Ia, skipping.
+2018-10-09 16:10:51,301 - mgiomi - INFO - SN ZTF18abtcdfv classified with type SN Ia, skipping.
+2018-10-09 16:10:51,301 - mgiomi - INFO - SN ZTF18abtcdfv classified with type SN Ia, skipping.
+2018-10-09 16:10:51,302 - mgiomi - INFO - SN ZTF18absiymj classified with type SN Ia, skipping.
+2018-10-09 16:10:51,302 - mgiomi - INFO - SN ZTF18absiymj classified with type SN Ia, skipping.
+2018-10-09 16:10:53,009 - mgiomi - INFO - SN ZTF18abvfecb had last obs -12.06769129044551 days go, skipping.
+2018-10-09 16:10:53,009 - mgiomi - INFO - SN ZTF18abvfecb had last obs -12.06769129044551 days go, skipping.
+2018-10-09 16:10:53,009 - mgiomi - INFO - SN ZTF18abwnsoc classified with type SN Ia, skipping.
+2018-10-09 16:10:53,009 - mgiomi - INFO - SN ZTF18abwnsoc classified with type SN Ia, skipping.
+2018-10-09 16:10:56,464 - mgiomi - INFO - SN ZTF18abwzedh had last obs -10.213431286494597 days go, skipping.
+2018-10-09 16:10:56,464 - mgiomi - INFO - SN ZTF18abwzedh had last obs -10.213431286494597 days go, skipping.
+2018-10-09 16:10:58,046 - mgiomi - INFO - SN ZTF18abylgru has too few filters for saltfit.
+2018-10-09 16:10:58,046 - mgiomi - INFO - SN ZTF18abylgru has too few filters for saltfit.
+2018-10-09 16:10:59,578 - mgiomi - INFO - SN ZTF18abvhasp had last obs -16.443167297475156 days go, skipping.
+2018-10-09 16:10:59,578 - mgiomi - INFO - SN ZTF18abvhasp had last obs -16.443167297475156 days go, skipping.
+2018-10-09 16:11:01,420 - mgiomi - INFO - SN ZTF18absmogv had last obs -10.438188603147864 days go, skipping.
+2018-10-09 16:11:01,420 - mgiomi - INFO - SN ZTF18absmogv had last obs -10.438188603147864 days go, skipping.
+2018-10-09 16:11:03,013 - mgiomi - INFO - SN ZTF17aaaadqv had last obs -11.103007055833586 days go, skipping.
+2018-10-09 16:11:03,013 - mgiomi - INFO - SN ZTF17aaaadqv had last obs -11.103007055833586 days go, skipping.
+2018-10-09 16:11:04,925 - mgiomi - INFO - SN ZTF18abdkkwa classified with type SN Ic, skipping.
+2018-10-09 16:11:04,925 - mgiomi - INFO - SN ZTF18abdkkwa classified with type SN Ic, skipping.
+2018-10-09 16:11:06,759 - mgiomi - INFO - SN ZTF18abwfmot had last obs -13.15105044109805 days go, skipping.
+2018-10-09 16:11:06,759 - mgiomi - INFO - SN ZTF18abwfmot had last obs -13.15105044109805 days go, skipping.
+2018-10-09 16:11:06,760 - mgiomi - INFO - SN ZTF18abwwfyo classified with type SN Ia, skipping.
+2018-10-09 16:11:06,760 - mgiomi - INFO - SN ZTF18abwwfyo classified with type SN Ia, skipping.
+2018-10-09 16:11:08,465 - mgiomi - INFO - SN ZTF18abvnwzz had last obs -13.42057018954074 days go, skipping.
+2018-10-09 16:11:08,465 - mgiomi - INFO - SN ZTF18abvnwzz had last obs -13.42057018954074 days go, skipping.
+2018-10-09 16:11:08,466 - mgiomi - INFO - SN ZTF18absoomk classified with type SN Ia, skipping.
+2018-10-09 16:11:08,466 - mgiomi - INFO - SN ZTF18absoomk classified with type SN Ia, skipping.
+2018-10-09 16:11:12,294 - mgiomi - INFO - SN ZTF18absgvqb had last obs -11.291314450565551 days go, skipping.
+2018-10-09 16:11:12,294 - mgiomi - INFO - SN ZTF18absgvqb had last obs -11.291314450565551 days go, skipping.
+2018-10-09 16:11:12,297 - mgiomi - INFO - SN ZTF18abyxwrf classified with type SN Ia, skipping.
+2018-10-09 16:11:12,297 - mgiomi - INFO - SN ZTF18abyxwrf classified with type SN Ia, skipping.
+2018-10-09 16:11:13,934 - mgiomi - INFO - SN ZTF17aabihdn had last obs -12.146033479446487 days go, skipping.
+2018-10-09 16:11:13,934 - mgiomi - INFO - SN ZTF17aabihdn had last obs -12.146033479446487 days go, skipping.
+2018-10-09 16:11:13,938 - mgiomi - INFO - SN ZTF18aampiwv classified with type AGN, skipping.
+2018-10-09 16:11:13,938 - mgiomi - INFO - SN ZTF18aampiwv classified with type AGN, skipping.
+2018-10-09 16:11:18,576 - mgiomi - INFO - SN ZTF18abukmty classified with type SN Ia, skipping.
+2018-10-09 16:11:18,576 - mgiomi - INFO - SN ZTF18abukmty classified with type SN Ia, skipping.
+2018-10-09 16:11:18,577 - mgiomi - INFO - SN ZTF18abucvbf classified with type SN Ia, skipping.
+2018-10-09 16:11:18,577 - mgiomi - INFO - SN ZTF18abucvbf classified with type SN Ia, skipping.
+2018-10-09 16:11:21,302 - mgiomi - INFO - SN ZTF18abykswp classified with type SN Ia, skipping.
+2018-10-09 16:11:21,302 - mgiomi - INFO - SN ZTF18abykswp classified with type SN Ia, skipping.
+2018-10-09 16:22:31,786 - mgiomi - INFO - ZTF18aaupjtd Faded too much while waiting. Call P200 or Keck?
+2018-10-09 16:22:31,786 - mgiomi - INFO - ZTF18aaupjtd Faded too much while waiting. Call P200 or Keck?
+2018-10-09 16:22:37,235 - mgiomi - INFO - ZTF18ablllyw Faded too much while waiting. Call P200 or Keck?
+2018-10-09 16:22:37,235 - mgiomi - INFO - ZTF18ablllyw Faded too much while waiting. Call P200 or Keck?
+2018-10-09 16:22:53,490 - mgiomi - INFO - ZTF18aayhpph Faded too much while waiting. Call P200 or Keck?
+2018-10-09 16:22:53,490 - mgiomi - INFO - ZTF18aayhpph Faded too much while waiting. Call P200 or Keck?
+2018-10-09 16:22:59,321 - mgiomi - INFO - Object ZTF17aaaafcd most likely not SNIa. 
+2018-10-09 16:22:59,321 - mgiomi - INFO - Object ZTF17aaaafcd most likely not SNIa. 
+2018-10-09 16:23:07,160 - mgiomi - INFO - Too little data of ZTF18ablvibs, skip. 
+2018-10-09 16:23:07,160 - mgiomi - INFO - Too little data of ZTF18ablvibs, skip. 
+2018-10-09 16:23:12,286 - mgiomi - INFO - Object ZTF18abnujuy most likely not SNIa. 
+2018-10-09 16:23:12,286 - mgiomi - INFO - Object ZTF18abnujuy most likely not SNIa. 
+2018-10-09 16:23:18,881 - mgiomi - INFO - Object ZTF18abpudlt most likely not SNIa. 
+2018-10-09 16:23:18,881 - mgiomi - INFO - Object ZTF18abpudlt most likely not SNIa. 
+2018-10-09 16:25:45,028 - mgiomi - INFO - I want to scan some more, go back!
+2018-10-09 16:25:45,028 - mgiomi - INFO - I want to scan some more, go back!
+2018-10-09 16:25:50,301 - mgiomi - INFO - I want to scan some more, go back!
+2018-10-09 16:25:50,301 - mgiomi - INFO - I want to scan some more, go back!
+2018-10-09 16:25:53,142 - mgiomi - INFO - I want to scan some more, go back!
+2018-10-09 16:25:53,142 - mgiomi - INFO - I want to scan some more, go back!
+2018-10-09 16:25:57,749 - mgiomi - INFO - Too little data of ZTF18ablvibs, skip. 
+2018-10-09 16:25:57,749 - mgiomi - INFO - Too little data of ZTF18ablvibs, skip. 
+2018-10-09 16:25:59,188 - mgiomi - INFO - Object ZTF18abnujuy most likely not SNIa. 
+2018-10-09 16:25:59,188 - mgiomi - INFO - Object ZTF18abnujuy most likely not SNIa. 
+2018-10-09 16:26:00,340 - mgiomi - INFO - Object ZTF18abpudlt most likely not SNIa. 
+2018-10-09 16:26:00,340 - mgiomi - INFO - Object ZTF18abpudlt most likely not SNIa. 
+2018-10-09 16:26:29,282 - mgiomi - INFO - Object ZTF18abrzuqw most likely not SNIa. 
+2018-10-09 16:26:29,282 - mgiomi - INFO - Object ZTF18abrzuqw most likely not SNIa. 
+2018-10-09 16:26:32,302 - mgiomi - INFO - Object ZTF18ablmduj most likely not SNIa. 
+2018-10-09 16:26:32,302 - mgiomi - INFO - Object ZTF18ablmduj most likely not SNIa. 
+2018-10-09 16:26:41,897 - mgiomi - INFO - Get SN ZTF18absrcps if we can.
+2018-10-09 16:26:41,897 - mgiomi - INFO - Get SN ZTF18absrcps if we can.
+2018-10-09 16:26:56,733 - mgiomi - INFO - Get SN ZTF18absbspk if we can.
+2018-10-09 16:26:56,733 - mgiomi - INFO - Get SN ZTF18absbspk if we can.
+2018-10-09 16:27:09,012 - mgiomi - INFO - Get SN ZTF18abuluko if we can.
+2018-10-09 16:27:09,012 - mgiomi - INFO - Get SN ZTF18abuluko if we can.
+2018-10-09 16:27:15,852 - mgiomi - INFO - Get SN ZTF18aburkuo if we can.
+2018-10-09 16:27:15,852 - mgiomi - INFO - Get SN ZTF18aburkuo if we can.
+2018-10-09 16:27:24,398 - mgiomi - INFO - Get SN ZTF18abuksxd if we can.
+2018-10-09 16:27:24,398 - mgiomi - INFO - Get SN ZTF18abuksxd if we can.
+2018-10-09 16:28:38,437 - mgiomi - INFO - Object ZTF18aaupjtd most likely not SNIa. 
+2018-10-09 16:28:38,437 - mgiomi - INFO - Object ZTF18aaupjtd most likely not SNIa. 
+2018-10-09 16:28:42,457 - mgiomi - INFO - Get SN ZTF18ablllyw if we can.
+2018-10-09 16:28:42,457 - mgiomi - INFO - Get SN ZTF18ablllyw if we can.
+2018-10-09 16:28:46,820 - mgiomi - INFO - Object ZTF18aayhpph most likely not SNIa. 
+2018-10-09 16:28:46,820 - mgiomi - INFO - Object ZTF18aayhpph most likely not SNIa. 
+2018-10-09 16:28:49,153 - mgiomi - INFO - Object ZTF17aaaafcd most likely not SNIa. 
+2018-10-09 16:28:49,153 - mgiomi - INFO - Object ZTF17aaaafcd most likely not SNIa. 
+2018-10-09 16:28:51,253 - mgiomi - INFO - Too little data of ZTF18ablvibs, skip. 
+2018-10-09 16:28:51,253 - mgiomi - INFO - Too little data of ZTF18ablvibs, skip. 
+2018-10-09 16:28:54,290 - mgiomi - INFO - Object ZTF18abnujuy most likely not SNIa. 
+2018-10-09 16:28:54,290 - mgiomi - INFO - Object ZTF18abnujuy most likely not SNIa. 
+2018-10-09 16:28:55,881 - mgiomi - INFO - Object ZTF18abpudlt most likely not SNIa. 
+2018-10-09 16:28:55,881 - mgiomi - INFO - Object ZTF18abpudlt most likely not SNIa. 
+2018-10-09 16:28:59,717 - mgiomi - INFO - Get SN ZTF18abrzuqw if we can.
+2018-10-09 16:28:59,717 - mgiomi - INFO - Get SN ZTF18abrzuqw if we can.
+2018-10-09 16:29:02,295 - mgiomi - INFO - Object ZTF18ablmduj most likely not SNIa. 
+2018-10-09 16:29:02,295 - mgiomi - INFO - Object ZTF18ablmduj most likely not SNIa. 
+2018-10-09 16:29:08,863 - mgiomi - INFO - Get SN ZTF18absrcps if we can.
+2018-10-09 16:29:08,863 - mgiomi - INFO - Get SN ZTF18absrcps if we can.
+2018-10-09 16:29:12,366 - mgiomi - INFO - Get SN ZTF18absbspk if we can.
+2018-10-09 16:29:12,366 - mgiomi - INFO - Get SN ZTF18absbspk if we can.
+2018-10-09 16:29:17,993 - mgiomi - INFO - Get SN ZTF18abuluko if we can.
+2018-10-09 16:29:17,993 - mgiomi - INFO - Get SN ZTF18abuluko if we can.
+2018-10-09 16:29:21,024 - mgiomi - INFO - Get SN ZTF18aburkuo if we can.
+2018-10-09 16:29:21,024 - mgiomi - INFO - Get SN ZTF18aburkuo if we can.
+2018-10-09 16:29:25,207 - mgiomi - INFO - Get SN ZTF18abuksxd if we can.
+2018-10-09 16:29:25,207 - mgiomi - INFO - Get SN ZTF18abuksxd if we can.
+2018-10-09 16:29:28,080 - mgiomi - INFO - Get SN ZTF18abvvqtf if we can.
+2018-10-09 16:29:28,080 - mgiomi - INFO - Get SN ZTF18abvvqtf if we can.
+2018-10-09 16:29:32,200 - mgiomi - INFO - Object ZTF18abwntpz most likely not SNIa. 
+2018-10-09 16:29:32,200 - mgiomi - INFO - Object ZTF18abwntpz most likely not SNIa. 
+2018-10-09 16:29:35,310 - mgiomi - INFO - Get SN ZTF18abucflq if we can.
+2018-10-09 16:29:35,310 - mgiomi - INFO - Get SN ZTF18abucflq if we can.
+2018-10-09 16:29:40,591 - mgiomi - INFO - Get SN ZTF18abxdtyz if we can.
+2018-10-09 16:29:40,591 - mgiomi - INFO - Get SN ZTF18abxdtyz if we can.
+2018-10-09 16:29:47,543 - mgiomi - INFO - Nice looking likely SN ZTF18abxdkny.
+2018-10-09 16:29:47,543 - mgiomi - INFO - Nice looking likely SN ZTF18abxdkny.
+2018-10-09 16:30:02,735 - mgiomi - INFO - Get SN ZTF18abwlpzf if we can.
+2018-10-09 16:30:02,735 - mgiomi - INFO - Get SN ZTF18abwlpzf if we can.
+2018-10-09 16:30:05,028 - mgiomi - INFO - Object ZTF18abqdwze most likely not SNIa. 
+2018-10-09 16:30:05,028 - mgiomi - INFO - Object ZTF18abqdwze most likely not SNIa. 
+2018-10-09 16:30:08,831 - mgiomi - INFO - Get SN ZTF18abxdkni if we can.
+2018-10-09 16:30:08,831 - mgiomi - INFO - Get SN ZTF18abxdkni if we can.
+2018-10-09 16:30:14,632 - mgiomi - INFO - Object ZTF18abbgdto most likely not SNIa. 
+2018-10-09 16:30:14,632 - mgiomi - INFO - Object ZTF18abbgdto most likely not SNIa. 
+2018-10-09 16:30:24,584 - mgiomi - INFO - Nice looking likely SN ZTF18abyzksx.
+2018-10-09 16:30:24,584 - mgiomi - INFO - Nice looking likely SN ZTF18abyzksx.
+2018-10-09 16:30:29,728 - mgiomi - INFO - Object ZTF18abmmszc most likely not SNIa. 
+2018-10-09 16:30:29,728 - mgiomi - INFO - Object ZTF18abmmszc most likely not SNIa. 
+2018-10-09 16:30:31,703 - mgiomi - INFO - Object ZTF18abbmenz most likely not SNIa. 
+2018-10-09 16:30:31,703 - mgiomi - INFO - Object ZTF18abbmenz most likely not SNIa. 
+2018-10-09 16:30:38,982 - mgiomi - INFO - Get SN ZTF18abvptts if we can.
+2018-10-09 16:30:38,982 - mgiomi - INFO - Get SN ZTF18abvptts if we can.
+2018-10-09 16:30:59,819 - mgiomi - INFO - ZTF18ablllyw already in obs queue. Adding with setting Possibly.
+2018-10-09 16:30:59,819 - mgiomi - INFO - ZTF18ablllyw already in obs queue. Adding with setting Possibly.
+2018-10-09 16:30:59,820 - mgiomi - INFO - ...with I-band!
+2018-10-09 16:30:59,820 - mgiomi - INFO - ...with I-band!
+2018-10-09 16:30:59,821 - mgiomi - INFO - ZTF18abrzuqw already in obs queue. Adding with setting Possibly.
+2018-10-09 16:30:59,821 - mgiomi - INFO - ZTF18abrzuqw already in obs queue. Adding with setting Possibly.
+2018-10-09 16:30:59,822 - mgiomi - INFO - Adding ZTF18absrcps to obs queue with setting Possibly.
+2018-10-09 16:30:59,822 - mgiomi - INFO - Adding ZTF18absrcps to obs queue with setting Possibly.
+2018-10-09 16:30:59,823 - mgiomi - INFO - ZTF18absbspk already in obs queue. Adding with setting Possibly.
+2018-10-09 16:30:59,823 - mgiomi - INFO - ZTF18absbspk already in obs queue. Adding with setting Possibly.
+2018-10-09 16:30:59,824 - mgiomi - INFO - ...with I-band!
+2018-10-09 16:30:59,824 - mgiomi - INFO - ...with I-band!
+2018-10-09 16:30:59,825 - mgiomi - INFO - ZTF18abuluko already in obs queue. Adding with setting Possibly.
+2018-10-09 16:30:59,825 - mgiomi - INFO - ZTF18abuluko already in obs queue. Adding with setting Possibly.
+2018-10-09 16:30:59,826 - mgiomi - INFO - ...with I-band!
+2018-10-09 16:30:59,826 - mgiomi - INFO - ...with I-band!
+2018-10-09 16:30:59,827 - mgiomi - INFO - ZTF18aburkuo already in obs queue. Adding with setting Possibly.
+2018-10-09 16:30:59,827 - mgiomi - INFO - ZTF18aburkuo already in obs queue. Adding with setting Possibly.
+2018-10-09 16:30:59,829 - mgiomi - INFO - ...with I-band!
+2018-10-09 16:30:59,829 - mgiomi - INFO - ...with I-band!
+2018-10-09 16:30:59,830 - mgiomi - INFO - ZTF18abuksxd already in obs queue. Adding with setting Possibly.
+2018-10-09 16:30:59,830 - mgiomi - INFO - ZTF18abuksxd already in obs queue. Adding with setting Possibly.
+2018-10-09 16:30:59,831 - mgiomi - INFO - ZTF18abvvqtf already in obs queue. Adding with setting Possibly.
+2018-10-09 16:30:59,831 - mgiomi - INFO - ZTF18abvvqtf already in obs queue. Adding with setting Possibly.
+2018-10-09 16:30:59,832 - mgiomi - INFO - ZTF18abucflq already in obs queue. Adding with setting Possibly.
+2018-10-09 16:30:59,832 - mgiomi - INFO - ZTF18abucflq already in obs queue. Adding with setting Possibly.
+2018-10-09 16:30:59,833 - mgiomi - INFO - Adding ZTF18abxdtyz to obs queue with setting Possibly.
+2018-10-09 16:30:59,833 - mgiomi - INFO - Adding ZTF18abxdtyz to obs queue with setting Possibly.
+2018-10-09 16:30:59,834 - mgiomi - INFO - ZTF18abxdkny already in obs queue. Adding with setting VeryGood.
+2018-10-09 16:30:59,834 - mgiomi - INFO - ZTF18abxdkny already in obs queue. Adding with setting VeryGood.
+2018-10-09 16:30:59,835 - mgiomi - INFO - ...with I-band!
+2018-10-09 16:30:59,835 - mgiomi - INFO - ...with I-band!
+2018-10-09 16:30:59,836 - mgiomi - INFO - ZTF18abwlpzf already in obs queue. Adding with setting Possibly.
+2018-10-09 16:30:59,836 - mgiomi - INFO - ZTF18abwlpzf already in obs queue. Adding with setting Possibly.
+2018-10-09 16:30:59,836 - mgiomi - INFO - ...with I-band!
+2018-10-09 16:30:59,836 - mgiomi - INFO - ...with I-band!
+2018-10-09 16:30:59,837 - mgiomi - INFO - ZTF18abxdkni already in obs queue. Adding with setting Possibly.
+2018-10-09 16:30:59,837 - mgiomi - INFO - ZTF18abxdkni already in obs queue. Adding with setting Possibly.
+2018-10-09 16:30:59,838 - mgiomi - INFO - Adding ZTF18abyzksx to obs queue with setting VeryGood.
+2018-10-09 16:30:59,838 - mgiomi - INFO - Adding ZTF18abyzksx to obs queue with setting VeryGood.
+2018-10-09 16:30:59,839 - mgiomi - INFO - ...with I-band!
+2018-10-09 16:30:59,839 - mgiomi - INFO - ...with I-band!
+2018-10-09 16:30:59,840 - mgiomi - INFO - Adding ZTF18abvptts to obs queue with setting Possibly.
+2018-10-09 16:30:59,840 - mgiomi - INFO - Adding ZTF18abvptts to obs queue with setting Possibly.
+2018-10-09 16:34:06,531 - mgiomi - INFO - ZTF18abvptts could be RCF target? peakmag 18.76 recentmag 19.633333333333333.
+2018-10-09 16:34:06,531 - mgiomi - INFO - ZTF18abvptts could be RCF target? peakmag 18.76 recentmag 19.633333333333333.
+2018-10-09 16:34:32,099 - mgiomi - INFO - ZTF18abvptts could be RCF target? peakmag 18.59 recentmag 18.724166666666665.
+2018-10-09 16:34:32,099 - mgiomi - INFO - ZTF18abvptts could be RCF target? peakmag 18.59 recentmag 18.724166666666665.
+2018-10-09 16:34:39,841 - mgiomi - INFO - ZTF18abvptts could be RCF target? peakmag 18.73 recentmag 19.643333333333334.
+2018-10-09 16:34:39,841 - mgiomi - INFO - ZTF18abvptts could be RCF target? peakmag 18.73 recentmag 19.643333333333334.
+2018-10-09 16:34:44,615 - mgiomi - INFO - ZTF18abvptts could be RCF target? peakmag 17.21 recentmag 17.21.
+2018-10-09 16:34:44,615 - mgiomi - INFO - ZTF18abvptts could be RCF target? peakmag 17.21 recentmag 17.21.
+2018-10-09 16:34:49,677 - mgiomi - INFO - ZTF18abvptts could be RCF target? peakmag 17.99 recentmag 19.17.
+2018-10-09 16:34:49,677 - mgiomi - INFO - ZTF18abvptts could be RCF target? peakmag 17.99 recentmag 19.17.
+2018-10-09 16:35:10,796 - mgiomi - INFO - ZTF18abvptts could be RCF target? peakmag 18.3 recentmag 18.377499999999998.
+2018-10-09 16:35:10,796 - mgiomi - INFO - ZTF18abvptts could be RCF target? peakmag 18.3 recentmag 18.377499999999998.
+2018-10-09 16:35:13,989 - mgiomi - INFO - ZTF18abvptts could be RCF target? peakmag 18.76 recentmag 18.76.
+2018-10-09 16:35:13,989 - mgiomi - INFO - ZTF18abvptts could be RCF target? peakmag 18.76 recentmag 18.76.
+2018-10-09 16:35:18,755 - mgiomi - INFO - ZTF18abvptts could be RCF target? peakmag 18.68 recentmag 19.456666666666667.
+2018-10-09 16:35:18,755 - mgiomi - INFO - ZTF18abvptts could be RCF target? peakmag 18.68 recentmag 19.456666666666667.
+2018-10-09 16:35:20,301 - mgiomi - INFO - ZTF18abvptts could be RCF target? peakmag 18.59 recentmag 19.345.
+2018-10-09 16:35:20,301 - mgiomi - INFO - ZTF18abvptts could be RCF target? peakmag 18.59 recentmag 19.345.
+2018-10-09 16:35:23,689 - mgiomi - INFO - ZTF18abvptts could be RCF target? peakmag 17.77 recentmag 18.43111111111111.
+2018-10-09 16:35:23,689 - mgiomi - INFO - ZTF18abvptts could be RCF target? peakmag 17.77 recentmag 18.43111111111111.
+2018-10-09 16:37:03,002 - mgiomi - INFO - ZTF18abtogdl could be RCF target? peakmag 18.76 recentmag 19.633333333333333.
+2018-10-09 16:37:03,002 - mgiomi - INFO - ZTF18abtogdl could be RCF target? peakmag 18.76 recentmag 19.633333333333333.
+2018-10-09 16:37:29,728 - mgiomi - INFO - ZTF18abxygvv could be RCF target? peakmag 18.59 recentmag 18.724166666666665.
+2018-10-09 16:37:29,728 - mgiomi - INFO - ZTF18abxygvv could be RCF target? peakmag 18.59 recentmag 18.724166666666665.
+2018-10-09 16:37:38,086 - mgiomi - INFO - ZTF18ablllyw could be RCF target? peakmag 18.73 recentmag 19.643333333333334.
+2018-10-09 16:37:38,086 - mgiomi - INFO - ZTF18ablllyw could be RCF target? peakmag 18.73 recentmag 19.643333333333334.
+2018-10-09 16:37:43,051 - mgiomi - INFO - ZTF18abtswjk could be RCF target? peakmag 17.21 recentmag 17.21.
+2018-10-09 16:37:43,051 - mgiomi - INFO - ZTF18abtswjk could be RCF target? peakmag 17.21 recentmag 17.21.
+2018-10-09 16:37:47,841 - mgiomi - INFO - ZTF18absoomk could be RCF target? peakmag 17.99 recentmag 19.17.
+2018-10-09 16:37:47,841 - mgiomi - INFO - ZTF18absoomk could be RCF target? peakmag 17.99 recentmag 19.17.
+2018-10-09 16:38:07,872 - mgiomi - INFO - ZTF18abxyudf could be RCF target? peakmag 18.3 recentmag 18.377499999999998.
+2018-10-09 16:38:07,872 - mgiomi - INFO - ZTF18abxyudf could be RCF target? peakmag 18.3 recentmag 18.377499999999998.
+2018-10-09 16:38:11,227 - mgiomi - INFO - ZTF18abxbhov could be RCF target? peakmag 18.76 recentmag 18.76.
+2018-10-09 16:38:11,227 - mgiomi - INFO - ZTF18abxbhov could be RCF target? peakmag 18.76 recentmag 18.76.
+2018-10-09 16:38:16,278 - mgiomi - INFO - ZTF18absrcps could be RCF target? peakmag 18.68 recentmag 19.456666666666667.
+2018-10-09 16:38:16,278 - mgiomi - INFO - ZTF18absrcps could be RCF target? peakmag 18.68 recentmag 19.456666666666667.
+2018-10-09 16:38:18,039 - mgiomi - INFO - ZTF18abxdtyz could be RCF target? peakmag 18.59 recentmag 19.345.
+2018-10-09 16:38:18,039 - mgiomi - INFO - ZTF18abxdtyz could be RCF target? peakmag 18.59 recentmag 19.345.
+2018-10-09 16:38:21,232 - mgiomi - INFO - ZTF18abvptts could be RCF target? peakmag 17.77 recentmag 18.43111111111111.
+2018-10-09 16:38:21,232 - mgiomi - INFO - ZTF18abvptts could be RCF target? peakmag 17.77 recentmag 18.43111111111111.
+2018-10-09 16:39:40,746 - mgiomi - INFO - ZTF18ablllyw already in obs queue. Adding with setting Possibly.
+2018-10-09 16:39:40,746 - mgiomi - INFO - ZTF18ablllyw already in obs queue. Adding with setting Possibly.
+2018-10-09 16:39:40,749 - mgiomi - INFO - ...with I-band!
+2018-10-09 16:39:40,749 - mgiomi - INFO - ...with I-band!
+2018-10-09 16:39:40,751 - mgiomi - INFO - ZTF18abrzuqw already in obs queue. Adding with setting Possibly.
+2018-10-09 16:39:40,751 - mgiomi - INFO - ZTF18abrzuqw already in obs queue. Adding with setting Possibly.
+2018-10-09 16:39:40,753 - mgiomi - INFO - ZTF18absrcps already in obs queue. Adding with setting Possibly.
+2018-10-09 16:39:40,753 - mgiomi - INFO - ZTF18absrcps already in obs queue. Adding with setting Possibly.
+2018-10-09 16:39:40,755 - mgiomi - INFO - ZTF18absbspk already in obs queue. Adding with setting Possibly.
+2018-10-09 16:39:40,755 - mgiomi - INFO - ZTF18absbspk already in obs queue. Adding with setting Possibly.
+2018-10-09 16:39:40,756 - mgiomi - INFO - ...with I-band!
+2018-10-09 16:39:40,756 - mgiomi - INFO - ...with I-band!
+2018-10-09 16:39:40,757 - mgiomi - INFO - ZTF18abuluko already in obs queue. Adding with setting Possibly.
+2018-10-09 16:39:40,757 - mgiomi - INFO - ZTF18abuluko already in obs queue. Adding with setting Possibly.
+2018-10-09 16:39:40,758 - mgiomi - INFO - ...with I-band!
+2018-10-09 16:39:40,758 - mgiomi - INFO - ...with I-band!
+2018-10-09 16:39:40,760 - mgiomi - INFO - ZTF18aburkuo already in obs queue. Adding with setting Possibly.
+2018-10-09 16:39:40,760 - mgiomi - INFO - ZTF18aburkuo already in obs queue. Adding with setting Possibly.
+2018-10-09 16:39:40,761 - mgiomi - INFO - ...with I-band!
+2018-10-09 16:39:40,761 - mgiomi - INFO - ...with I-band!
+2018-10-09 16:39:40,762 - mgiomi - INFO - ZTF18abuksxd already in obs queue. Adding with setting Possibly.
+2018-10-09 16:39:40,762 - mgiomi - INFO - ZTF18abuksxd already in obs queue. Adding with setting Possibly.
+2018-10-09 16:39:40,763 - mgiomi - INFO - ZTF18abvvqtf already in obs queue. Adding with setting Possibly.
+2018-10-09 16:39:40,763 - mgiomi - INFO - ZTF18abvvqtf already in obs queue. Adding with setting Possibly.
+2018-10-09 16:39:40,764 - mgiomi - INFO - ZTF18abucflq already in obs queue. Adding with setting Possibly.
+2018-10-09 16:39:40,764 - mgiomi - INFO - ZTF18abucflq already in obs queue. Adding with setting Possibly.
+2018-10-09 16:39:40,765 - mgiomi - INFO - ZTF18abxdtyz already in obs queue. Adding with setting Possibly.
+2018-10-09 16:39:40,765 - mgiomi - INFO - ZTF18abxdtyz already in obs queue. Adding with setting Possibly.
+2018-10-09 16:39:40,766 - mgiomi - INFO - ZTF18abxdkny already in obs queue. Adding with setting VeryGood.
+2018-10-09 16:39:40,766 - mgiomi - INFO - ZTF18abxdkny already in obs queue. Adding with setting VeryGood.
+2018-10-09 16:39:40,767 - mgiomi - INFO - ...with I-band!
+2018-10-09 16:39:40,767 - mgiomi - INFO - ...with I-band!
+2018-10-09 16:39:40,768 - mgiomi - INFO - ZTF18abwlpzf already in obs queue. Adding with setting Possibly.
+2018-10-09 16:39:40,768 - mgiomi - INFO - ZTF18abwlpzf already in obs queue. Adding with setting Possibly.
+2018-10-09 16:39:40,769 - mgiomi - INFO - ...with I-band!
+2018-10-09 16:39:40,769 - mgiomi - INFO - ...with I-band!
+2018-10-09 16:39:40,770 - mgiomi - INFO - ZTF18abxdkni already in obs queue. Adding with setting Possibly.
+2018-10-09 16:39:40,770 - mgiomi - INFO - ZTF18abxdkni already in obs queue. Adding with setting Possibly.
+2018-10-09 16:39:40,772 - mgiomi - INFO - ZTF18abyzksx already in obs queue. Adding with setting VeryGood.
+2018-10-09 16:39:40,772 - mgiomi - INFO - ZTF18abyzksx already in obs queue. Adding with setting VeryGood.
+2018-10-09 16:39:40,773 - mgiomi - INFO - ...with I-band!
+2018-10-09 16:39:40,773 - mgiomi - INFO - ...with I-band!
+2018-10-09 16:39:40,774 - mgiomi - INFO - ZTF18abvptts already in obs queue. Adding with setting Possibly.
+2018-10-09 16:39:40,774 - mgiomi - INFO - ZTF18abvptts already in obs queue. Adding with setting Possibly.
+2018-10-09 16:40:32,176 - mgiomi - INFO - ZTF18abvptts could be RCF target? peakmag 18.76 recentmag 19.633333333333333.
+2018-10-09 16:40:32,176 - mgiomi - INFO - ZTF18abvptts could be RCF target? peakmag 18.76 recentmag 19.633333333333333.
+2018-10-09 16:40:58,965 - mgiomi - INFO - ZTF18abvptts could be RCF target? peakmag 18.59 recentmag 18.724166666666665.
+2018-10-09 16:40:58,965 - mgiomi - INFO - ZTF18abvptts could be RCF target? peakmag 18.59 recentmag 18.724166666666665.
+2018-10-09 16:41:07,206 - mgiomi - INFO - ZTF18abvptts could be RCF target? peakmag 18.73 recentmag 19.643333333333334.
+2018-10-09 16:41:07,206 - mgiomi - INFO - ZTF18abvptts could be RCF target? peakmag 18.73 recentmag 19.643333333333334.
+2018-10-09 16:41:12,292 - mgiomi - INFO - ZTF18abvptts could be RCF target? peakmag 17.21 recentmag 17.21.
+2018-10-09 16:41:12,292 - mgiomi - INFO - ZTF18abvptts could be RCF target? peakmag 17.21 recentmag 17.21.
+2018-10-09 16:41:17,060 - mgiomi - INFO - ZTF18abvptts could be RCF target? peakmag 17.99 recentmag 19.17.
+2018-10-09 16:41:17,060 - mgiomi - INFO - ZTF18abvptts could be RCF target? peakmag 17.99 recentmag 19.17.
+2018-10-09 16:41:37,213 - mgiomi - INFO - ZTF18abvptts could be RCF target? peakmag 18.3 recentmag 18.377499999999998.
+2018-10-09 16:41:37,213 - mgiomi - INFO - ZTF18abvptts could be RCF target? peakmag 18.3 recentmag 18.377499999999998.
+2018-10-09 16:41:40,827 - mgiomi - INFO - ZTF18abvptts could be RCF target? peakmag 18.76 recentmag 18.76.
+2018-10-09 16:41:40,827 - mgiomi - INFO - ZTF18abvptts could be RCF target? peakmag 18.76 recentmag 18.76.
+2018-10-09 16:41:45,861 - mgiomi - INFO - ZTF18abvptts could be RCF target? peakmag 18.68 recentmag 19.456666666666667.
+2018-10-09 16:41:45,861 - mgiomi - INFO - ZTF18abvptts could be RCF target? peakmag 18.68 recentmag 19.456666666666667.
+2018-10-09 16:41:47,708 - mgiomi - INFO - ZTF18abvptts could be RCF target? peakmag 18.59 recentmag 19.345.
+2018-10-09 16:41:47,708 - mgiomi - INFO - ZTF18abvptts could be RCF target? peakmag 18.59 recentmag 19.345.
+2018-10-09 16:41:50,907 - mgiomi - INFO - ZTF18abvptts could be RCF target? peakmag 17.77 recentmag 18.43111111111111.
+2018-10-09 16:41:50,907 - mgiomi - INFO - ZTF18abvptts could be RCF target? peakmag 17.77 recentmag 18.43111111111111.
+2018-10-09 17:23:08,694 - mgiomi - INFO - Triggered SEDM obs of: ['ZTF18abxdtyz']
+2018-10-09 17:23:08,694 - mgiomi - INFO - Triggered SEDM obs of: ['ZTF18abxdtyz']
