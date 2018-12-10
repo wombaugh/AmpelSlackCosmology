@@ -1,0 +1,219 @@
+2018-11-10 18:04:22,976 - jnordin - INFO - Cutting down alert info to subset with nrefframes keyword
+2018-11-10 18:04:24,523 - jnordin - INFO - There were 250 candidates reported 2018-11-09
+2018-11-10 18:04:28,104 - jnordin - INFO - Out of these 22 already have Marshal type and will be skipped.
+2018-11-10 18:04:33,680 - jnordin - INFO - 34 have a catalog z larger than 0.1  and will be skipped.
+2018-11-10 18:06:22,364 - jnordin - INFO - Out of these 22 already have Marshal type and will be skipped.
+2018-11-10 18:06:25,549 - jnordin - INFO - 39 have a catalog z larger than 0.1 or are qsos and will be skipped.
+2018-11-10 18:06:32,257 - jnordin - INFO - Detected 12 already saved candidates and 177 new
+2018-11-10 18:06:47,479 - jnordin - INFO - 2018-11-09: Skipping ZTF18abajeow, less than 4 detections
+2018-11-10 18:06:47,482 - jnordin - INFO - 2018-11-09: Skipping ZTF18aawbqgo, less than 4 detections
+2018-11-10 18:06:47,484 - jnordin - INFO - 2018-11-09: Skipping ZTF18acchjgz, never reached limit 19.5
+2018-11-10 18:06:47,490 - jnordin - INFO - 2018-11-09: Skipping ZTF18abctten, only 1 filters
+2018-11-10 18:06:47,492 - jnordin - INFO - 2018-11-09: Skipping ZTF18abyjgcx, less than 4 detections
+2018-11-10 18:06:47,495 - jnordin - INFO - 2018-11-09: Skipping ZTF18abtrktm, less than 4 detections
+2018-11-10 18:06:47,498 - jnordin - INFO - 2018-11-09: Skipping ZTF18abacmps, only 1 filters
+2018-11-10 18:06:47,501 - jnordin - INFO - 2018-11-09: Skipping ZTF18acefxqt, never reached limit 19.5
+2018-11-10 18:06:47,504 - jnordin - INFO - 2018-11-09: Skipping ZTF18acbwgli, less than 4 detections
+2018-11-10 18:06:47,508 - jnordin - INFO - 2018-11-09: Skipping ZTF18acbuyaf, never reached limit 19.5
+2018-11-10 18:06:47,510 - jnordin - INFO - 2018-11-09: Skipping ZTF18acbyxxo, never reached limit 19.5
+2018-11-10 18:06:47,515 - jnordin - INFO - 2018-11-09: Skipping ZTF18accsane, less than 4 detections
+2018-11-10 18:06:47,517 - jnordin - INFO - 2018-11-09: Skipping ZTF18aajswer, less than 4 detections
+2018-11-10 18:06:47,519 - jnordin - INFO - 2018-11-09: Skipping ZTF18abnzlzg, less than 4 detections
+2018-11-10 18:06:47,521 - jnordin - INFO - 2018-11-09: Skipping ZTF18acbvzta, less than 4 detections
+2018-11-10 18:06:47,527 - jnordin - INFO - 2018-11-09: Skipping ZTF18abtoofz, less than 4 detections
+2018-11-10 18:06:47,529 - jnordin - INFO - 2018-11-09: Skipping ZTF18accndxn, less than 4 detections
+2018-11-10 18:06:47,533 - jnordin - INFO - 2018-11-09: Skipping ZTF18abupjuc, less than 4 detections
+2018-11-10 18:06:47,538 - jnordin - INFO - 2018-11-09: Skipping ZTF18acfhrnl, never reached limit 19.5
+2018-11-10 18:06:47,540 - jnordin - INFO - 2018-11-09: Skipping ZTF18acdyopn, never reached limit 19.5
+2018-11-10 18:06:47,543 - jnordin - INFO - 2018-11-09: Skipping ZTF18acbzldg, less than 4 detections
+2018-11-10 18:06:47,548 - jnordin - INFO - 2018-11-09: Skipping ZTF18abacubv, less than 4 detections
+2018-11-10 18:06:47,550 - jnordin - INFO - 2018-11-09: Skipping ZTF18abywclh, never reached limit 19.5
+2018-11-10 18:06:47,575 - jnordin - INFO - 2018-11-09: Skipping ZTF18acciebn, less than 4 detections
+2018-11-10 18:06:47,578 - jnordin - INFO - 2018-11-09: Skipping ZTF18acapyww, less than 4 detections
+2018-11-10 18:06:47,585 - jnordin - INFO - 2018-11-09: Skipping ZTF18abbrizh, less than 4 detections
+2018-11-10 18:06:47,589 - jnordin - INFO - 2018-11-09: Skipping ZTF18accbuhi, less than 4 detections
+2018-11-10 18:06:47,594 - jnordin - INFO - 2018-11-09: Skipping ZTF18acbvmjq, only 1 filters
+2018-11-10 18:06:47,601 - jnordin - INFO - 2018-11-09: Skipping ZTF18acbwnsh, less than 4 detections
+2018-11-10 18:06:47,608 - jnordin - INFO - 2018-11-09: Skipping ZTF18accfjmp, less than 4 detections
+2018-11-10 18:06:47,612 - jnordin - INFO - 2018-11-09: Skipping ZTF18abdjxqy, never reached limit 19.5
+2018-11-10 18:06:47,615 - jnordin - INFO - 2018-11-09: Skipping ZTF18accjwuu, never reached limit 19.5
+2018-11-10 18:06:47,623 - jnordin - INFO - 2018-11-09: Skipping ZTF18aacinqt, less than 4 detections
+2018-11-10 18:06:47,625 - jnordin - INFO - 2018-11-09: Skipping ZTF18abmmnqf, never reached limit 19.5
+2018-11-10 18:06:47,632 - jnordin - INFO - 2018-11-09: Skipping ZTF18abuyhea, less than 4 detections
+2018-11-10 18:06:47,637 - jnordin - INFO - 2018-11-09: Skipping ZTF18abjvcel, less than 4 detections
+2018-11-10 18:06:47,678 - jnordin - INFO - 2018-11-09: Skipping ZTF18acbwpoc, less than 4 detections
+2018-11-10 18:06:47,686 - jnordin - INFO - 2018-11-09: Skipping ZTF18acdwdep, less than 4 detections
+2018-11-10 18:06:47,692 - jnordin - INFO - 2018-11-09: Skipping ZTF18acbyqdo, never reached limit 19.5
+2018-11-10 18:06:47,700 - jnordin - INFO - 2018-11-09: Skipping ZTF18accdzju, less than 4 detections
+2018-11-10 18:06:47,708 - jnordin - INFO - 2018-11-09: Skipping ZTF18acbwdym, never reached limit 19.5
+2018-11-10 18:06:47,712 - jnordin - INFO - 2018-11-09: Skipping ZTF18aacmnbd, only 1 filters
+2018-11-10 18:06:47,714 - jnordin - INFO - 2018-11-09: Skipping ZTF18acebefc, less than 4 detections
+2018-11-10 18:06:47,725 - jnordin - INFO - 2018-11-09: Skipping ZTF18acbwomm, less than 4 detections
+2018-11-10 18:06:47,729 - jnordin - INFO - 2018-11-09: Skipping ZTF18abcjwwx, less than 4 detections
+2018-11-10 18:06:47,733 - jnordin - INFO - 2018-11-09: Skipping ZTF18aakaajs, less than 4 detections
+2018-11-10 18:06:47,737 - jnordin - INFO - 2018-11-09: Skipping ZTF18abzzddo, less than 4 detections
+2018-11-10 18:06:47,741 - jnordin - INFO - 2018-11-09: Skipping ZTF18acfaljr, less than 4 detections
+2018-11-10 18:06:47,748 - jnordin - INFO - 2018-11-09: Skipping ZTF18acbwqbd, never reached limit 19.5
+2018-11-10 18:06:47,753 - jnordin - INFO - 2018-11-09: Skipping ZTF18abmsmtt, less than 4 detections
+2018-11-10 18:06:47,760 - jnordin - INFO - 2018-11-09: Skipping ZTF18aawzxky, less than 4 detections
+2018-11-10 18:06:47,764 - jnordin - INFO - 2018-11-09: Skipping ZTF18acehiav, less than 4 detections
+2018-11-10 18:06:47,768 - jnordin - INFO - 2018-11-09: Skipping ZTF18accdorj, less than 4 detections
+2018-11-10 18:06:47,771 - jnordin - INFO - 2018-11-09: Skipping ZTF18abdfrmh, less than 4 detections
+2018-11-10 18:06:47,773 - jnordin - INFO - 2018-11-09: Skipping ZTF18acbzoxo, never reached limit 19.5
+2018-11-10 18:06:47,775 - jnordin - INFO - 2018-11-09: Skipping ZTF18acbxutv, never reached limit 19.5
+2018-11-10 18:06:47,777 - jnordin - INFO - 2018-11-09: Skipping ZTF18abryyjs, less than 4 detections
+2018-11-10 18:06:47,779 - jnordin - INFO - 2018-11-09: Skipping ZTF18acbwcbj, less than 4 detections
+2018-11-10 18:06:47,780 - jnordin - INFO - 2018-11-09: Skipping ZTF18acbwpsb, never reached limit 19.5
+2018-11-10 18:06:47,782 - jnordin - INFO - 2018-11-09: Skipping ZTF18acbuxby, less than 4 detections
+2018-11-10 18:06:47,784 - jnordin - INFO - 2018-11-09: Skipping ZTF18acbwrzi, less than 4 detections
+2018-11-10 18:06:47,786 - jnordin - INFO - 2018-11-09: Skipping ZTF18aaswmoy, never reached limit 19.5
+2018-11-10 18:06:47,791 - jnordin - INFO - 2018-11-09: Skipping ZTF18abuxkrh, less than 4 detections
+2018-11-10 18:06:47,793 - jnordin - INFO - 2018-11-09: Skipping ZTF18acftycf, never reached limit 19.5
+2018-11-10 18:06:47,801 - jnordin - INFO - 2018-11-09: Skipping ZTF18acceqkm, less than 4 detections
+2018-11-10 18:06:47,805 - jnordin - INFO - 2018-11-09: Skipping ZTF18acegsfm, less than 4 detections
+2018-11-10 18:06:47,809 - jnordin - INFO - 2018-11-09: Skipping ZTF18acbvzni, never reached limit 19.5
+2018-11-10 18:06:47,816 - jnordin - INFO - 2018-11-09: Skipping ZTF18abtpite, less than 4 detections
+2018-11-10 18:06:47,823 - jnordin - INFO - 2018-11-09: Skipping ZTF18acbybzj, less than 4 detections
+2018-11-10 18:06:47,827 - jnordin - INFO - 2018-11-09: Skipping ZTF18acapxrt, less than 4 detections
+2018-11-10 18:06:47,830 - jnordin - INFO - 2018-11-09: Skipping ZTF18aaxlspv, less than 4 detections
+2018-11-10 18:06:47,833 - jnordin - INFO - 2018-11-09: Skipping ZTF18acbvmcl, never reached limit 19.5
+2018-11-10 18:06:47,846 - jnordin - INFO - 2018-11-09: Skipping ZTF18acaqcdg, less than 4 detections
+2018-11-10 18:06:47,850 - jnordin - INFO - 2018-11-09: Skipping ZTF18aawlxuu, less than 4 detections
+2018-11-10 18:06:47,852 - jnordin - INFO - 2018-11-09: Skipping ZTF18abrrizf, less than 4 detections
+2018-11-10 18:06:47,861 - jnordin - INFO - 2018-11-09: Skipping ZTF18acdzzyf, less than 4 detections
+2018-11-10 18:06:47,864 - jnordin - INFO - 2018-11-09: Skipping ZTF18acchhpf, less than 4 detections
+2018-11-10 18:06:47,872 - jnordin - INFO - 2018-11-09: Skipping ZTF18acbvhzt, never reached limit 19.5
+2018-11-10 18:06:47,874 - jnordin - INFO - 2018-11-09: Skipping ZTF18acbxpki, less than 4 detections
+2018-11-10 18:06:47,876 - jnordin - INFO - 2018-11-09: Skipping ZTF18acbwtng, less than 4 detections
+2018-11-10 18:06:47,880 - jnordin - INFO - 2018-11-09: Skipping ZTF18acenevo, less than 4 detections
+2018-11-10 18:06:47,882 - jnordin - INFO - 2018-11-09: Skipping ZTF18abtmeds, less than 4 detections
+2018-11-10 18:06:47,893 - jnordin - INFO - 2018-11-09: Skipping ZTF18acbwpmr, less than 4 detections
+2018-11-10 18:06:47,897 - jnordin - INFO - 2018-11-09: Skipping ZTF18aayjflv, less than 4 detections
+2018-11-10 18:06:47,908 - jnordin - INFO - 2018-11-09: Skipping ZTF18abscyjj, never reached limit 19.5
+2018-11-10 18:06:47,915 - jnordin - INFO - 2018-11-09: Skipping ZTF18acbznpp, never reached limit 19.5
+2018-11-10 18:06:47,917 - jnordin - INFO - 2018-11-09: Skipping ZTF18accdzjv, less than 4 detections
+2018-11-10 18:06:47,928 - jnordin - INFO - 2018-11-09: Skipping ZTF18acbzqoc, less than 4 detections
+2018-11-10 18:06:47,939 - jnordin - INFO - 2018-11-09: Skipping ZTF18aawrmvo, less than 4 detections
+2018-11-10 18:06:47,942 - jnordin - INFO - 2018-11-09: Skipping ZTF18acbvqwb, never reached limit 19.5
+2018-11-10 18:06:47,961 - jnordin - INFO - 2018-11-09: Skipping ZTF18abrzbtb, less than 4 detections
+2018-11-10 18:06:47,971 - jnordin - INFO - 2018-11-09: Skipping ZTF18acbwtmf, less than 4 detections
+2018-11-10 18:06:47,973 - jnordin - INFO - 2018-11-09: Skipping ZTF18abyjjkb, less than 4 detections
+2018-11-10 18:06:47,976 - jnordin - INFO - 2018-11-09: Skipping ZTF18accnlln, less than 4 detections
+2018-11-10 18:06:47,978 - jnordin - INFO - 2018-11-09: Skipping ZTF18aabrzxo, less than 4 detections
+2018-11-10 18:06:47,982 - jnordin - INFO - 2018-11-09: Skipping ZTF18acdotci, less than 4 detections
+2018-11-10 18:06:47,985 - jnordin - INFO - 2018-11-09: Skipping ZTF18aaevepq, less than 4 detections
+2018-11-10 18:06:47,989 - jnordin - INFO - 2018-11-09: Skipping ZTF18acguxkb, never reached limit 19.5
+2018-11-10 18:06:47,991 - jnordin - INFO - 2018-11-09: Skipping ZTF18aabjmtd, less than 4 detections
+2018-11-10 18:06:47,994 - jnordin - INFO - 2018-11-09: Skipping ZTF17aadktly, less than 4 detections
+2018-11-10 18:06:47,999 - jnordin - INFO - 2018-11-09: Skipping ZTF18abotfhu, less than 4 detections
+2018-11-10 18:06:48,002 - jnordin - INFO - 2018-11-09: Skipping ZTF18abvfpvi, less than 4 detections
+2018-11-10 18:06:48,006 - jnordin - INFO - 2018-11-09: Skipping ZTF18acgjesp, less than 4 detections
+2018-11-10 18:06:48,013 - jnordin - INFO - 2018-11-09: Skipping ZTF18abslcjp, less than 4 detections
+2018-11-10 18:06:48,015 - jnordin - INFO - 2018-11-09: Skipping ZTF18aceaetd, less than 4 detections
+2018-11-10 18:06:48,018 - jnordin - INFO - 2018-11-09: Skipping ZTF18abtzyna, never reached limit 19.5
+2018-11-10 18:06:48,024 - jnordin - INFO - 2018-11-09: Skipping ZTF18acfxusi, less than 4 detections
+2018-11-10 18:06:48,029 - jnordin - INFO - 2018-11-09: Skipping ZTF18acggomv, less than 4 detections
+2018-11-10 18:06:48,031 - jnordin - INFO - 2018-11-09: Skipping ZTF18abnzgvi, less than 4 detections
+2018-11-10 18:06:48,034 - jnordin - INFO - 2018-11-09: Skipping ZTF18abtslka, less than 4 detections
+2018-11-10 18:06:48,037 - jnordin - INFO - 2018-11-09: Skipping ZTF18acglfwv, less than 4 detections
+2018-11-10 18:06:48,046 - jnordin - INFO - 2018-11-09: Skipping ZTF18acgeeiz, less than 4 detections
+2018-11-10 18:06:48,048 - jnordin - INFO - 2018-11-09: Skipping ZTF18abwtmla, less than 4 detections
+2018-11-10 18:06:48,051 - jnordin - INFO - 2018-11-09: Skipping ZTF18acgprib, less than 4 detections
+2018-11-10 18:06:48,055 - jnordin - INFO - 2018-11-09: Skipping ZTF18acbzmfz, less than 4 detections
+2018-11-10 18:06:48,061 - jnordin - INFO - 2018-11-09: Skipping ZTF18aboemtu, less than 4 detections
+2018-11-10 18:06:48,064 - jnordin - INFO - 2018-11-09: Skipping ZTF18accngmn, less than 4 detections
+2018-11-10 18:06:48,067 - jnordin - INFO - 2018-11-09: Skipping ZTF18abzzebd, less than 4 detections
+2018-11-10 18:06:48,069 - jnordin - INFO - 2018-11-09: Skipping ZTF17aaazbbb, less than 4 detections
+2018-11-10 18:06:48,073 - jnordin - INFO - 2018-11-09: Skipping ZTF18acdnlgu, less than 4 detections
+2018-11-10 18:06:48,079 - jnordin - INFO - 2018-11-09: Skipping ZTF18abtrwby, less than 4 detections
+2018-11-10 18:06:48,081 - jnordin - INFO - 2018-11-09: Skipping ZTF18aabrtpy, less than 4 detections
+2018-11-10 18:06:48,083 - jnordin - INFO - 2018-11-09: Skipping ZTF18acgohtz, never reached limit 19.5
+2018-11-10 18:06:48,085 - jnordin - INFO - 2018-11-09: Skipping ZTF18abnzunr, less than 4 detections
+2018-11-10 18:06:48,087 - jnordin - INFO - 2018-11-09: Skipping ZTF18accnmsy, never reached limit 19.5
+2018-11-10 18:06:48,089 - jnordin - INFO - 2018-11-09: Skipping ZTF18abnvftr, less than 4 detections
+2018-11-10 18:06:48,095 - jnordin - INFO - 2018-11-09: Skipping ZTF18acgnlzx, never reached limit 19.5
+2018-11-10 18:06:48,097 - jnordin - INFO - 2018-11-09: Skipping ZTF18abysppe, less than 4 detections
+2018-11-10 18:06:48,104 - jnordin - INFO - 2018-11-09: Skipping ZTF18abshrze, less than 4 detections
+2018-11-10 18:06:48,107 - jnordin - INFO - 2018-11-09: Skipping ZTF18acgnlzj, never reached limit 19.5
+2018-11-10 18:06:48,111 - jnordin - INFO - 2018-11-09: Skipping ZTF18acbvaug, less than 4 detections
+2018-11-10 18:07:30,183 - jnordin - INFO - Waiting for further obs for SN 0 ZTF18acbwfim
+2018-11-10 18:07:33,360 - jnordin - INFO - Sending SN 1 ZTF17aaarine for possible follow-up
+2018-11-10 18:07:35,768 - jnordin - INFO - Waiting for further obs for SN 2 ZTF18accxbta
+2018-11-10 18:07:38,136 - jnordin - INFO - Waiting for further obs for SN 3 ZTF18accaygj
+2018-11-10 18:07:39,641 - jnordin - INFO - Waiting for further obs for SN 4 ZTF18abecjrr
+2018-11-10 18:07:41,125 - jnordin - INFO - Waiting for further obs for SN 5 ZTF18aadrhsi
+2018-11-10 18:07:42,715 - jnordin - INFO - Waiting for further obs for SN 6 ZTF18abztglo
+2018-11-10 18:07:45,122 - jnordin - INFO - Waiting for further obs for SN 7 ZTF18aabkjfv
+2018-11-10 18:07:47,493 - jnordin - INFO - Waiting for further obs for SN 8 ZTF18abcrppo
+2018-11-10 18:07:50,891 - jnordin - INFO - Waiting for further obs for SN 9 ZTF18abmenfr
+2018-11-10 18:07:52,648 - jnordin - INFO - Waiting for further obs for SN 10 ZTF18abuhzfc
+2018-11-10 18:07:55,094 - jnordin - INFO - Waiting for further obs for SN 11 ZTF18aabilqu
+2018-11-10 18:08:04,188 - jnordin - INFO - Sending SN 12 ZTF18acbyrmw for possible follow-up
+2018-11-10 18:08:07,577 - jnordin - INFO - Waiting for further obs for SN 13 ZTF18acchzyo
+2018-11-10 18:08:10,060 - jnordin - INFO - Sending SN 14 ZTF18acbvzkt for possible follow-up
+2018-11-10 18:08:17,068 - jnordin - INFO - Waiting for further obs for SN 15 ZTF18acbznnc
+2018-11-10 18:08:18,727 - jnordin - INFO - Waiting for further obs for SN 16 ZTF18acdwiwv
+2018-11-10 18:08:20,554 - jnordin - INFO - Waiting for further obs for SN 17 ZTF18abtrowl
+2018-11-10 18:08:54,771 - jnordin - INFO - Sending SN 18 ZTF18abxsmlf for possible follow-up
+2018-11-10 18:08:57,671 - jnordin - INFO - Waiting for further obs for SN 19 ZTF18accatdh
+2018-11-10 18:08:59,526 - jnordin - INFO - Waiting for further obs for SN 20 ZTF18accercc
+2018-11-10 18:09:03,265 - jnordin - INFO - Sending SN 21 ZTF18aaxndxa for possible follow-up
+2018-11-10 18:09:06,949 - jnordin - INFO - Waiting for further obs for SN 22 ZTF18acapahf
+2018-11-10 18:09:08,496 - jnordin - INFO - Waiting for further obs for SN 23 ZTF18abyfcns
+2018-11-10 18:09:20,398 - jnordin - INFO - Sending SN 24 ZTF18acchhpe for possible follow-up
+2018-11-10 18:09:23,366 - jnordin - INFO - Waiting for further obs for SN 25 ZTF18aazfdxy
+2018-11-10 18:09:25,050 - jnordin - INFO - Waiting for further obs for SN 26 ZTF17aaaafcd
+2018-11-10 18:09:26,908 - jnordin - INFO - Waiting for further obs for SN 27 ZTF18abcjnpa
+2018-11-10 18:09:28,491 - jnordin - INFO - Waiting for further obs for SN 28 ZTF18acbwabp
+2018-11-10 18:09:31,107 - jnordin - INFO - Waiting for further obs for SN 29 ZTF18acbvifx
+2018-11-10 18:09:39,873 - jnordin - INFO - Sending SN 30 ZTF18acbvkwl for possible follow-up
+2018-11-10 18:09:43,299 - jnordin - INFO - Waiting for further obs for SN 31 ZTF18acchzkf
+2018-11-10 18:09:45,983 - jnordin - INFO - Waiting for further obs for SN 32 ZTF18accnoli
+2018-11-10 18:09:47,491 - jnordin - INFO - Waiting for further obs for SN 33 ZTF18aaaapyn
+2018-11-10 18:09:49,080 - jnordin - INFO - Waiting for further obs for SN 34 ZTF18accaoxg
+2018-11-10 18:09:55,412 - jnordin - INFO - Waiting for further obs for SN 35 ZTF18acbvmzg
+2018-11-10 18:10:15,644 - jnordin - INFO - Sending SN 36 ZTF18acbwhns for possible follow-up
+2018-11-10 18:10:17,891 - jnordin - INFO - Waiting for further obs for SN 37 ZTF18aaenfaa
+2018-11-10 18:10:19,509 - jnordin - INFO - Waiting for further obs for SN 38 ZTF18abzpjae
+2018-11-10 18:10:23,261 - jnordin - INFO - Sending SN 39 ZTF18acbwdwg for possible follow-up
+2018-11-10 18:10:26,231 - jnordin - INFO - Waiting for further obs for SN 40 ZTF18aaydhrk
+2018-11-10 18:10:28,287 - jnordin - INFO - Waiting for further obs for SN 41 ZTF18abckqaw
+2018-11-10 18:10:31,364 - jnordin - INFO - Waiting for further obs for SN 42 ZTF18accexwb
+2018-11-10 18:10:32,944 - jnordin - INFO - Waiting for further obs for SN 43 ZTF18aaarwhm
+2018-11-10 18:10:37,797 - jnordin - INFO - Sending SN 44 ZTF18accpoil for possible follow-up
+2018-11-10 18:10:42,573 - jnordin - INFO - Sending SN 45 ZTF18acbvgqw for possible follow-up
+2018-11-10 18:10:46,024 - jnordin - INFO - Full decision set: {0: 'Wait', 1: 'Submit', 2: 'Wait', 3: 'Wait', 4: 'Wait', 5: 'Wait', 6: 'Wait', 7: 'Wait', 8: 'Wait', 9: 'Wait', 10: 'Wait', 11: 'Wait', 12: 'Submit', 13: 'Wait', 14: 'Submit', 15: 'Wait', 16: 'Wait', 17: 'Wait', 18: 'Submit', 19: 'Wait', 20: 'Wait', 21: 'Submit', 22: 'Wait', 23: 'Wait', 24: 'Submit', 25: 'Wait', 26: 'Wait', 27: 'Wait', 28: 'Wait', 29: 'Wait', 30: 'Submit', 31: 'Wait', 32: 'Wait', 33: 'Wait', 34: 'Wait', 35: 'Wait', 36: 'Submit', 37: 'Wait', 38: 'Wait', 39: 'Submit', 40: 'Wait', 41: 'Wait', 42: 'Wait', 43: 'Wait', 44: 'Submit', 45: 'Submit'}
+2018-11-10 18:13:08,809 - jnordin - INFO - Trying to ingest ZTF17aaarine through avroid 677111663515015019
+2018-11-10 18:13:08,810 - jnordin - INFO - ... already a candidate with id 592340464615015054
+2018-11-10 18:13:08,813 - jnordin - INFO - Trying to ingest ZTF18acbyrmw through avroid 677393655615015115
+2018-11-10 18:13:08,815 - jnordin - INFO - ... already a candidate with id 678421855615015060
+2018-11-10 18:13:08,819 - jnordin - INFO - Trying to ingest ZTF18acbvzkt through avroid 677441651615015153
+2018-11-10 18:13:08,820 - jnordin - INFO - ... already a candidate with id 676443171615015076
+2018-11-10 18:13:08,823 - jnordin - INFO - Trying to ingest ZTF18abxsmlf through avroid 677400170915015003
+2018-11-10 18:13:08,824 - jnordin - INFO - ... already a candidate with id 671346010915015003
+2018-11-10 18:13:08,826 - jnordin - INFO - Trying to ingest ZTF18aaxndxa through avroid 677121014615015077
+2018-11-10 18:13:08,827 - jnordin - INFO - ... already a candidate with id 518405534615015026
+2018-11-10 18:13:08,829 - jnordin - INFO - Trying to ingest ZTF18acchhpe through avroid 677148586315015010
+2018-11-10 18:13:08,829 - jnordin - INFO - ... already a candidate with id 674245386315015018
+2018-11-10 18:13:08,831 - jnordin - INFO - Trying to ingest ZTF18acbvkwl through avroid 677411773315015010
+2018-11-10 18:13:08,832 - jnordin - INFO - ... already a candidate with id 671372123315015014
+2018-11-10 18:13:08,834 - jnordin - INFO - Trying to ingest ZTF18acbwhns through avroid 676115844315015005
+2018-11-10 18:13:08,835 - jnordin - INFO - ... already a candidate with id 673154844315015012
+2018-11-10 18:13:08,838 - jnordin - INFO - Trying to ingest ZTF18acbwdwg through avroid 677514234615015007
+2018-11-10 18:13:08,841 - jnordin - INFO - ... already a candidate with id 674527153515015016
+2018-11-10 18:13:08,844 - jnordin - INFO - Trying to ingest ZTF18accpoil through avroid 677097264015015126
+2018-11-10 18:13:08,849 - jnordin - INFO - ... already a candidate with id 676139164015015114
+2018-11-10 18:13:08,852 - jnordin - INFO - Trying to ingest ZTF18acbvgqw through avroid 677292263315015012
+2018-11-10 18:13:08,853 - jnordin - INFO - ... already a candidate with id 671346483315015004
+2018-11-10 18:13:08,857 - jnordin - INFO - Tried to ingest [], failed for []
+2018-11-10 18:13:34,159 - jnordin - INFO - Lacking candid for ZTF17aaarine
+2018-11-10 18:13:34,160 - jnordin - INFO - Lacking candid for ZTF18acbyrmw
+2018-11-10 18:13:34,161 - jnordin - INFO - Lacking candid for ZTF18acbvzkt
+2018-11-10 18:13:34,162 - jnordin - INFO - Lacking candid for ZTF18abxsmlf
+2018-11-10 18:13:34,162 - jnordin - INFO - Try to save ZTF18aaxndxa through candid 1559649
+2018-11-10 18:13:36,119 - jnordin - INFO - Lacking candid for ZTF18acchhpe
+2018-11-10 18:13:36,121 - jnordin - INFO - Lacking candid for ZTF18acbvkwl
+2018-11-10 18:13:36,122 - jnordin - INFO - Lacking candid for ZTF18acbwhns
+2018-11-10 18:13:36,123 - jnordin - INFO - Lacking candid for ZTF18acbwdwg
+2018-11-10 18:13:36,124 - jnordin - INFO - Lacking candid for ZTF18accpoil
+2018-11-10 18:13:36,125 - jnordin - INFO - Lacking candid for ZTF18acbvgqw
