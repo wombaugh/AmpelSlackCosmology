@@ -1,0 +1,12 @@
+ZTF19abahsha {type => "Candidate", start => "2019-07-05 06:25:00 UTC", end => "2019-07-05 08:55:00 UTC", exp => 1800, nexp => 1}
+ZTF19abatvit {type => "Candidate", start => "2019-07-05 10:00:00 UTC", end => "2019-07-05 14:25:00 UTC", exp => 1800, nexp => 1}
+ZTF19abaeyln {type => "Candidate", start => "2019-07-05 06:25:00 UTC", end => "2019-07-05 11:10:00 UTC", exp => 1800, nexp => 1}
+ZTF19abaukyt {type => "Candidate", start => "2019-07-05 06:25:00 UTC", end => "2019-07-05 12:30:00 UTC", exp => 1800, nexp => 1}
+ZTF19aaxizyq {type => "Candidate", start => "2019-07-05 06:25:00 UTC", end => "2019-07-05 08:50:00 UTC", exp => 1800, nexp => 1}
+ZTF19aayrhmd {type => "Candidate", start => "2019-07-05 09:55:00 UTC", end => "2019-07-05 14:25:00 UTC", exp => 1800, nexp => 1}
+ZTF19abangub {type => "Candidate", start => "2019-07-05 06:25:00 UTC", end => "2019-07-05 09:05:00 UTC", exp => 1800, nexp => 1}
+ZTF19abcneik {type => "Candidate", start => "2019-07-05 06:25:00 UTC", end => "2019-07-05 09:05:00 UTC", exp => 1800, nexp => 1}
+ZTF19abaosan {type => "Candidate", start => "2019-07-05 06:25:00 UTC", end => "2019-07-05 11:00:00 UTC", exp => 1800, nexp => 1}
+ZTF19abakdjd {type => "Candidate", start => "2019-07-05 06:25:00 UTC", end => "2019-07-05 13:10:00 UTC", exp => 1800, nexp => 1}
+ZTF19abbvzgr {type => "Candidate", start => "2019-07-05 06:25:00 UTC", end => "2019-07-05 13:35:00 UTC", exp => 1800, nexp => 1}
+ZTF19aawfbtg {type => "Candidate", start => "2019-07-05 09:25:00 UTC", end => "2019-07-05 14:25:00 UTC", exp => 1800, nexp => 1}

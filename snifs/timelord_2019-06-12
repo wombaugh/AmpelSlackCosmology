@@ -1,0 +1,17 @@
+ZTF19aavkqrg {type => "Candidate", start => "2019-06-12 06:20:00 UTC", end => "2019-06-12 10:00:00 UTC", exp => 1800, nexp => 1}
+ZTF19aaxfcpq {type => "Candidate", start => "2019-06-12 06:20:00 UTC", end => "2019-06-12 13:40:00 UTC", exp => 1800, nexp => 1}
+ZTF19aawtruu {type => "Candidate", start => "2019-06-12 06:20:00 UTC", end => "2019-06-12 08:10:00 UTC", exp => 1800, nexp => 1}
+ZTF19aawtqdv {type => "Candidate", start => "2019-06-12 06:20:00 UTC", end => "2019-06-12 08:20:00 UTC", exp => 1800, nexp => 1}
+ZTF19aawvisn {type => "Candidate", start => "2019-06-12 06:20:00 UTC", end => "2019-06-12 08:30:00 UTC", exp => 1800, nexp => 1}
+ZTF19aavriia {type => "Candidate", start => "2019-06-12 06:20:00 UTC", end => "2019-06-12 09:45:00 UTC", exp => 1800, nexp => 1}
+ZTF19aawhniz {type => "Candidate", start => "2019-06-12 06:20:00 UTC", end => "2019-06-12 11:45:00 UTC", exp => 1800, nexp => 1}
+ZTF19aavounq {type => "Candidate", start => "2019-06-12 06:20:00 UTC", end => "2019-06-12 12:30:00 UTC", exp => 1800, nexp => 1}
+ZTF19aavsqjw {type => "Candidate", start => "2019-06-12 06:20:00 UTC", end => "2019-06-12 12:25:00 UTC", exp => 1800, nexp => 1}
+ZTF19aawnqoj {type => "Candidate", start => "2019-06-12 06:20:00 UTC", end => "2019-06-12 12:40:00 UTC", exp => 1800, nexp => 1}
+ZTF19aawwlxc {type => "Candidate", start => "2019-06-12 06:20:00 UTC", end => "2019-06-12 13:15:00 UTC", exp => 1800, nexp => 1}
+ZTF19aawmqtd {type => "Candidate", start => "2019-06-12 06:20:00 UTC", end => "2019-06-12 14:20:00 UTC", exp => 1800, nexp => 1}
+ZTF19aayfaum {type => "Candidate", start => "2019-06-12 06:20:00 UTC", end => "2019-06-12 14:20:00 UTC", exp => 1800, nexp => 1}
+ZTF19aaxfzao {type => "Candidate", start => "2019-06-12 06:35:00 UTC", end => "2019-06-12 14:20:00 UTC", exp => 1800, nexp => 1}
+ZTF18aanygjk {type => "Candidate", start => "2019-06-12 06:40:00 UTC", end => "2019-06-12 14:20:00 UTC", exp => 1800, nexp => 1}
+ZTF19aawrumx {type => "Candidate", start => "2019-06-12 08:20:00 UTC", end => "2019-06-12 14:20:00 UTC", exp => 1800, nexp => 1}
+ZTF19aaxibby {type => "Candidate", start => "2019-06-12 10:50:00 UTC", end => "2019-06-12 14:20:00 UTC", exp => 1800, nexp => 1}
